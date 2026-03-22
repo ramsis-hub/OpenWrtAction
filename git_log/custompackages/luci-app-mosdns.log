@@ -2,11 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c909c1d|sbwml|Fri Mar 20 20:12:21 2026 +0800|luci-app-mosdns: refactor geodata update with checksum pre-check
-7839b99|sbwml|Fri Mar 20 19:41:30 2026 +0800|luci-app-mosdns: init.d: improve DHCP redirect and restore handling
-8823314|sbwml|Fri Mar 20 18:17:26 2026 +0800|luci-app-mosdns: i18n: fix incorrect indentation characters
-ae6115a|sbwml|Fri Mar 20 18:12:48 2026 +0800|luci-app-mosdns: rpcd: support reading custom configuration logs
-20ff987|sbwml|Fri Mar 20 11:38:47 2026 +0800|ci: update workflow
-b52723b|sbwml|Fri Mar 20 11:37:55 2026 +0800|luci-app-mosdns: add missing i18n
-8a48eca|sbwml|Fri Mar 20 10:53:43 2026 +0800|ci: update workflow
+be55282|sbwml|Sat Mar 21 12:35:08 2026 +0800|luci-app-mosdns: fix dnsmasq reload when service is not running
 </details>
