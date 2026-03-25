@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0bfaaa65d5|Andreas Böhler|Fri Mar 20 21:24:48 2026 +0100|realtek: fix D-Link fan control script
-16775c4852|Nick Hainke|Wed Feb 18 00:42:43 2026 +0100|base-files: sysupgrade: avoid cat missing conffiles_static
+0142538c28|Marco von Rosenberg|Mon Mar 23 22:08:38 2026 +0100|ath79: fix initramfs boot for Huawei AP5030DN and AP6010DN
+627421d5df|Florian Maurer|Sun Mar 22 19:08:43 2026 +0100|ramips-mt7621: fix xiaomi mi ac2100 mac address
 </details>
