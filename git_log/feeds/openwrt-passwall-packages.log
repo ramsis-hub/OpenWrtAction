@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5aaa7eb|A-BO|Thu Mar 26 01:46:37 2026 +0800|ci: add wait step before uploading to release
+</details>

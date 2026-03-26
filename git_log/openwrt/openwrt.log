@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0142538c28|Marco von Rosenberg|Mon Mar 23 22:08:38 2026 +0100|ath79: fix initramfs boot for Huawei AP5030DN and AP6010DN
-627421d5df|Florian Maurer|Sun Mar 22 19:08:43 2026 +0100|ramips-mt7621: fix xiaomi mi ac2100 mac address
+f505120278|Anthony Sepa|Tue Mar 24 19:06:30 2026 -0300|ipq40xx: fix art partition name WHW03 V1
+c036738b09|Kenneth Kasilag|Mon Mar 16 09:25:53 2026 +0000|airoha: rename kmod-pwm-an7581 to kmod-pwm-airoha
+13fd9a9ce0|Eicke Herbertz|Sat Feb 21 17:35:54 2026 +0100|ath79: remove kmod-ath9k and wpad from Mikrotik RB750r2
+b4013ec79a|Felix Baumann|Wed Aug 27 17:44:19 2025 +0200|mediatek: add the aquantia kmod to bpi-r4
 </details>
