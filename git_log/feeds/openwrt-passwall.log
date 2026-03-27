@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0a816e7|A-BO|Wed Mar 25 13:22:59 2026 +0800|luci: optimize the sing-box hy2 server settings page
-872dc56|A-BO|Wed Mar 25 13:14:18 2026 +0800|luci: add xray hysteria2 inbound
-</details>

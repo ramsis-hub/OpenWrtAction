@@ -1,0 +1,11 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+11d7f20ebd|Tianling Shen|Thu Mar 26 17:26:42 2026 +0800|rockchip: add cpuinfo node for RK3528
+247b2aeaa5|Tianling Shen|Thu Mar 26 16:38:46 2026 +0800|rockchip: refresh upstreamed otp patches
+ed44b82e00|Tianling Shen|Thu Mar 26 11:48:36 2026 +0800|kernel: refresh patches
+789bd3e129|Tianling Shen|Tue Dec 23 14:31:40 2025 +0800|rockchip: add HDMI support for NanoPC T6
+ffaf8f0c32|Tianling Shen|Tue Sep 2 20:14:39 2025 +0800|rockchip: backport DRM support for RK3576/RK3588
+2e176572ec|司辰|Thu Mar 26 10:59:08 2026 +0800|default-settings: migrate to apk mirror
+</details>
