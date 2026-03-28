@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-211df89596|Hauke Mehrtens|Thu Mar 26 14:35:28 2026 +0100|OpenWrt v25.12.2: revert to branch defaults
-d266501ad6|Hauke Mehrtens|Thu Mar 26 14:35:15 2026 +0100|OpenWrt v25.12.2: adjust config defaults
+b2685cef6a|Hannu Nyman|Fri Mar 27 16:47:39 2026 +0200|apk: add help text for 'apk add --force-reinstall'
+396fe239a8|Eric Fahlgren|Fri Mar 27 16:46:56 2026 +0200|apk: point help message to openwrt wiki
 </details>
