@@ -1,0 +1,6 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+fee4b8a83|libriunk|Thu Mar 26 18:03:39 2026 +0800|toolchain: add support for GCC 15.2
+</details>

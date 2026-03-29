@@ -1,9 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ff1ea58da2|Tianling Shen|Fri Mar 27 18:27:29 2026 +0800|loongarch64: add common pcie ethernet drivers by default
-fe94821e69|Tianling Shen|Fri Mar 27 16:50:41 2026 +0800|kernel: fix build YT6801 driver for x86
-84901786b3|Tianling Shen|Thu Mar 26 22:14:50 2026 +0800|kernel: fix typo error in YT6801 PCIe ethernet driver
-9eb60ed014|Tianling Shen|Thu Mar 26 14:05:35 2026 +0800|kernel: backport YT6801 PCIe ethernet driver support
-</details>

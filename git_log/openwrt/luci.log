@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c8e95f1d9d|Stan Grishin|Wed Mar 25 00:41:29 2026 +0000|luci-app-pbr: bugfix
-9d7c568c79|Jinnah Dylan Hosein|Thu Mar 26 15:24:40 2026 -0700|luci-mod-battstatus: get RavPower RP-WD009 working again
-f85bade0ff|Dirk Brenken|Fri Mar 27 10:23:33 2026 +0100|luci-app-adblock: update 4.5.3-4
-6fc9fea1e4|Stan Grishin|Sat Mar 21 01:14:37 2026 +0000|luci-app-adblock-fast: update to 1.2.2-r14
+b3f192d1f2|Eric Fahlgren|Tue Mar 24 11:42:33 2026 -0700|luci-app-attendedsysupgrade: efi value is a bool
 </details>
