@@ -1,0 +1,13 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+01bbb91fa|Alexandru Ardelean|Fri Mar 20 16:21:13 2026 +0000|python-incremental: bump to 24.11.0
+ea62ec336|Alexandru Ardelean|Sun Mar 15 15:12:45 2026 +0200|pillow: bump to 12.1.1
+0c1d6b9d7|Alexandru Ardelean|Sun Mar 15 16:03:01 2026 +0200|python-pybind11: add new package (version 2.13.6)
+1b8dcc6ea|Jean Thomas|Wed Jan 7 11:16:33 2026 +0100|python-frozenlist: bump to version 1.8
+a4a35d259|Jean Thomas|Mon Jan 12 17:53:58 2026 +0100|python-expandvars: add new package
+fc7091eba|Josef Schlehofer|Mon Dec 29 13:28:31 2025 +0100|treewide: remove Home Assistant dependencies
+bb980b18f|Stan Grishin|Fri Mar 27 20:45:09 2026 +0000|adblock-fast: update to 1.2.2-r16
+63b643826|Alexandru Ardelean|Wed Mar 25 12:07:28 2026 +0200|python-pyopenssl: fix build with wheel naming
+</details>

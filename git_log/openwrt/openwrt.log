@@ -1,0 +1,13 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+909b0b8880|Maxim Anisimov|Mon Mar 23 10:40:55 2026 +0300|mediatek: filogic: kn-1812: enable xsphy node
+c6330df396|Maxim Anisimov|Mon Mar 23 10:38:15 2026 +0300|mediatek: filogic: kn-1812: drop phy-connection-type prop
+e6c43b80e3|Maxim Anisimov|Mon Mar 23 10:26:07 2026 +0300|mediatek: filogic: kn-1812: fix partition node name
+08c91038d2|Maxim Anisimov|Mon Mar 23 09:44:43 2026 +0300|mediatek: filogic: kn-1812: set mdio drive strength to 10mA
+cb4f2f4d35|Maxim Anisimov|Mon Mar 23 09:41:22 2026 +0300|mediatek: filogic: kn-1812: change dts node name to mt7992
+470e7238eb|Maxim Anisimov|Mon Mar 23 09:28:30 2026 +0300|mediatek: filogic: kn-1812: add interrupt support for phy
+0beb242464|Maxim Anisimov|Mon Mar 23 09:19:30 2026 +0300|mediatek: filogic: kn-1812: fix phy reset deassert
+6bd35b670d|Mathijs Rietbergen|Sat Dec 27 11:04:52 2025 +0100|kernel: add kmods for vsockets over virtio
+</details>

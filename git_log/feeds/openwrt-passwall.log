@@ -2,8 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ff5bc7f|A-BO|Sat Mar 28 18:28:25 2026 +0800|luci: optimize subscribe
-b67fad4|A-BO|Sat Mar 28 12:17:46 2026 +0800|luci: add hysteria2 `keepAlivePeriod` setting
-4b404c4|A-BO|Sat Mar 28 11:45:52 2026 +0800|luci: modify the default value of xray `echforcequery`
-07527d0|A-BO|Sat Mar 28 11:37:46 2026 +0800|luci: migrate xray fragment/noise to finalmask
+8dd6182|A-BO|Mon Mar 30 08:30:28 2026 +0800|luci: optimize and fix xray noise
+f29b072|A-BO|Sun Mar 29 18:10:13 2026 +0800|luci: sing-box supports xray ech config
 </details>

@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b3f192d1f2|Eric Fahlgren|Tue Mar 24 11:42:33 2026 -0700|luci-app-attendedsysupgrade: efi value is a bool
+63ea9e33b7|Paul Donald|Sun Mar 29 21:26:19 2026 +0200|luci-app-bcp38: string fix
+d857359cfd|Hannu Nyman|Sun Mar 29 19:52:02 2026 +0300|treewide: backport translations and sync
 </details>

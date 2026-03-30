@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fee4b8a83|libriunk|Thu Mar 26 18:03:39 2026 +0800|toolchain: add support for GCC 15.2
+7b303a8dd|coolsnowwolf|Sun Mar 29 13:21:45 2026 +0800|x86: add support for 6.18 kernel version
 </details>

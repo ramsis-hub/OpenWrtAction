@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1e974c6|zxl hhyccc|Sat Mar 28 19:14:04 2026 +0800|Merge pull request #1920 from zxlhhyccc/tuic
-8e28913|zxlhhyccc|Sat Mar 28 17:30:44 2026 +0800|luci-app-ssr-plus: modify the default value of xray echforcequery.
-3983574|zxlhhyccc|Sat Mar 28 15:52:26 2026 +0800|luci-app-ssr-plus: Add node alias dialog box.
-868dfbd|zxlhhyccc|Sat Mar 28 15:51:18 2026 +0800|luci-app-ssr-plus: Add number for same alias.
+2c438b3|zxl hhyccc|Sun Mar 29 14:29:59 2026 +0800|v2ray-core: Update to 5.47.0
+f2dee10|zxl hhyccc|Sun Mar 29 13:41:36 2026 +0800|v2ray-plugin: update to 5.48.0
+b40ca66|zxl hhyccc|Sun Mar 29 13:28:31 2026 +0800|xray-core: update to 26.3.27
 </details>
