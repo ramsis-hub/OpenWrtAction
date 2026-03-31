@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8dd6182|A-BO|Mon Mar 30 08:30:28 2026 +0800|luci: optimize and fix xray noise
-f29b072|A-BO|Sun Mar 29 18:10:13 2026 +0800|luci: sing-box supports xray ech config
+60f4750|A-BO|Mon Mar 30 22:57:01 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
 </details>

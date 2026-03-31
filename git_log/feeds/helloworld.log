@@ -2,7 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2c438b3|zxl hhyccc|Sun Mar 29 14:29:59 2026 +0800|v2ray-core: Update to 5.47.0
-f2dee10|zxl hhyccc|Sun Mar 29 13:41:36 2026 +0800|v2ray-plugin: update to 5.48.0
-b40ca66|zxl hhyccc|Sun Mar 29 13:28:31 2026 +0800|xray-core: update to 26.3.27
+7ebf2f1|zxl hhyccc|Tue Mar 31 01:07:17 2026 +0800|Merge pull request #1923 from zxlhhyccc/tuic
+cb5be9f|zxlhhyccc|Tue Mar 31 00:00:04 2026 +0800|luci-app-ssr-plus: Fix Xray nodes raw protocol + HTTP disguise configuration generation failure.
+2a6da1e|zxl hhyccc|Mon Mar 30 23:52:05 2026 +0800|Merge pull request #1922 from zxlhhyccc/tuic
+995000d|zxlhhyccc|Mon Mar 30 21:36:31 2026 +0800|luci-app-ssr-plus: migrate xray fragment/noise to finalmask.
 </details>

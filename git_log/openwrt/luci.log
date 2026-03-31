@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-63ea9e33b7|Paul Donald|Sun Mar 29 21:26:19 2026 +0200|luci-app-bcp38: string fix
-d857359cfd|Hannu Nyman|Sun Mar 29 19:52:02 2026 +0300|treewide: backport translations and sync
+0b64c57010|Joshua Klinesmith|Mon Mar 30 18:09:44 2026 -0400|luci-app-ocserv: fix status page and users view bugs
+b2fc2f3646|Ramon Van Gorkom|Sat Mar 21 19:10:07 2026 +0100|luci-mod-network: show option also for sae
 </details>
