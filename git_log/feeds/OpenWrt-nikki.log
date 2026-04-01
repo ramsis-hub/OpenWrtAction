@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f211323|Joseph Mory|Mon Mar 30 20:12:18 2026 +0800|fix: only disable `tun` `auto-route/auto-redirect/auto-detect-interface/icmp-forwarding` when exists
-ad867a4|Joseph Mory|Mon Mar 30 20:10:48 2026 +0800|fix: drop useless migration
+6517464|Joseph Mory|Tue Mar 31 12:00:40 2026 +0800|feat: optimize proxy
 </details>

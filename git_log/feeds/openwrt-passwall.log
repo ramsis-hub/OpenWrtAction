@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-60f4750|A-BO|Mon Mar 30 22:57:01 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
+7560fa47|A-BO|Wed Apr 1 01:03:44 2026 +0800|luci: 26.4.1
+9128e822|A-BO|Wed Apr 1 00:50:46 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
+60f47504|A-BO|Mon Mar 30 22:57:01 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
 </details>

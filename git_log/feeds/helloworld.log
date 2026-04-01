@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7ebf2f1|zxl hhyccc|Tue Mar 31 01:07:17 2026 +0800|Merge pull request #1923 from zxlhhyccc/tuic
-cb5be9f|zxlhhyccc|Tue Mar 31 00:00:04 2026 +0800|luci-app-ssr-plus: Fix Xray nodes raw protocol + HTTP disguise configuration generation failure.
-2a6da1e|zxl hhyccc|Mon Mar 30 23:52:05 2026 +0800|Merge pull request #1922 from zxlhhyccc/tuic
-995000d|zxlhhyccc|Mon Mar 30 21:36:31 2026 +0800|luci-app-ssr-plus: migrate xray fragment/noise to finalmask.
+c7d55a7|zxl hhyccc|Wed Apr 1 00:34:15 2026 +0800|hysteria: update to 2.8.1
 </details>

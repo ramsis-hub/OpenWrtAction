@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a7b9be3ef|Jean Thomas|Thu Mar 26 10:12:13 2026 +0100|python-poetry-core: bump to 2.3.1
-790012bcc|Alexandru Ardelean|Thu Mar 19 15:40:49 2026 +0000|python-gmpy2: bump to 2.3.0
+ff125b73a|Noah Meyerhans|Sat Mar 28 11:31:50 2026 -0400|bind: bump to 9.20.21
+9c62b131a|Philip Prindeville|Wed Dec 10 14:50:48 2025 -0700|bind: backport patch replace automatic empty zones
 </details>

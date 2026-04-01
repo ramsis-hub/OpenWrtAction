@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-73012ce|github-actions[bot]|Tue Mar 31 01:38:10 2026 +0800|sing-box: update to 1.13.5 (#612)
-6fd7c7a|github-actions[bot]|Tue Mar 31 01:37:56 2026 +0800|v2ray-geoip: update to 202603260032 (#613)
-fbc44ce|github-actions[bot]|Tue Mar 31 01:37:43 2026 +0800|v2ray-geosite: update to 202603292224 (#614)
-1f05686|A-BO|Mon Mar 30 13:25:17 2026 +0800|tuic-client: update to 1.7.2
+b4c287a|github-actions[bot]|Tue Mar 31 12:18:15 2026 +0800|hysteria: update to 2.8.1 (#615)
 </details>
