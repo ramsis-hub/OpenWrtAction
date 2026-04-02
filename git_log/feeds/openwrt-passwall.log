@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7560fa47|A-BO|Wed Apr 1 01:03:44 2026 +0800|luci: 26.4.1
-9128e822|A-BO|Wed Apr 1 00:50:46 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
-60f47504|A-BO|Mon Mar 30 22:57:01 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
+5a97c91|A-BO|Wed Apr 1 21:03:49 2026 +0800|luci: optimize observatory for xray
+87b6ecc|A-BO|Wed Apr 1 20:37:59 2026 +0800|Revert "luci: adjust connection observatory of xray"
 </details>

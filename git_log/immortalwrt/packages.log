@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+823b74034|Tianling Shen|Thu Apr 2 09:42:28 2026 +0800|Merge Official Source
 a9fff6dc0|Fabrice Fontaine|Sat Mar 14 14:17:53 2026 +0100|lang/rust: assign PKG_CPE_ID
 0bcc41f36|Tianling Shen|Wed Mar 11 15:37:12 2026 +0800|rust: Update to 1.94.0
 47cadedca|Orne Brocaar|Wed Mar 4 10:30:32 2026 +0000|rust: set llvm.download-ci-llvm=false
@@ -16,7 +17,6 @@ c44c87861|Tianling Shen|Fri Mar 27 11:04:15 2026 +0800|v2ray-core: Update to 5.4
 bf8234aac|Tianling Shen|Sun Feb 8 17:26:08 2026 +0800|v2raya: Update to 2.2.7.5
 70cf92b34|Tianling Shen|Sun Feb 8 17:25:33 2026 +0800|openlist: Update to 4.1.10
 741f84c8f|Tianling Shen|Sun Feb 8 17:25:05 2026 +0800|cloudflared: Update to 2026.1.2
-ea8860e81|Tianling Shen|Sun Feb 8 17:24:45 2026 +0800|yq: Update to 4.52.2
 
 .....................
 

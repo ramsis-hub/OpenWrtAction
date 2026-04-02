@@ -2,22 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-82ae06b410|Tianling Shen|Tue Mar 31 11:26:47 2026 +0800|loongarch64: increase CMA size to 64M for drm support
-9e812df367|Tianling Shen|Tue Mar 31 10:21:32 2026 +0800|kernel: netdevices: enable hinic/igbvf/stmmac-core driver for loongarch64
-c672371ef2|Tianling Shen|Tue Mar 31 11:46:36 2026 +0800|Merge Official Source
-8a18e84a88|Chester A. Unal|Mon Feb 9 12:55:02 2026 +0200|uqmi: introduce devpath option
-fcd535c0f2|Chester A. Unal|Wed Mar 5 06:04:58 2025 +0000|umbim: introduce devpath option
-6c2304f3c6|Valerio 'ftp21' Mancini|Wed Feb 18 14:34:31 2026 +0100|mediatek: add support for Zyxel WX5600-T0
-413b237d13|Valerio 'ftp21' Mancini|Wed Feb 18 14:34:26 2026 +0100|uboot-mediatek: add support for Zyxel WX5600-T0
-b7feb32e88|John Audia|Sun Feb 22 05:11:09 2026 -0500|linux-firmware: update to 20260221
-d887320ee4|John Audia|Sun Jan 11 07:41:21 2026 -0500|linux-firmware: update to 20260110
-a25e9cf362|Robert Marko|Tue Feb 24 14:37:33 2026 +0100|ath79: mikrotik: fix DEVICE_PACKAGES
-ead6ca5fb7|Maxim Anisimov|Mon Mar 23 15:19:55 2026 +0300|mediatek: filogic: kap-630/kn-(3811/3911): fix node name
-0e618d6f99|Maxim Anisimov|Mon Feb 16 12:58:36 2026 +0300|mediatek: dts: drop wrong sgmiisys0 node override
-362d02c6fb|Maxim Anisimov|Wed Jan 21 18:09:31 2026 +0300|mediatek: add support for Keenetic/Netcraze (K/N)AP-630
-909b0b8880|Maxim Anisimov|Mon Mar 23 10:40:55 2026 +0300|mediatek: filogic: kn-1812: enable xsphy node
-c6330df396|Maxim Anisimov|Mon Mar 23 10:38:15 2026 +0300|mediatek: filogic: kn-1812: drop phy-connection-type prop
-
-.....................
-
+70ee8b3602|Tianling Shen|Wed Mar 18 17:49:56 2026 +0800|mediatek: add GL.iNET GL-MT3600BE support
+dc90952da6|Tianling Shen|Thu Apr 2 09:26:20 2026 +0800|Merge Official Source
+00dcdd7451|Christian Marangi|Wed Mar 4 13:31:00 2026 +0100|firmware: Add support for Airoha EN7581/AN7583 NPU variant firmware
+3f98e35e98|Shiji Yang|Mon Mar 30 22:56:02 2026 +0800|ramips: fix WAN LED GPIO for Xiaomi Mi Router 4C
+c09f5e0a63|Shiji Yang|Mon Mar 30 22:52:06 2026 +0800|lantiq: fix u-boot env size for Netgear DGN3500
 </details>

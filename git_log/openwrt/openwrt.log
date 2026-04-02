@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-00dcdd7451|Christian Marangi|Wed Mar 4 13:31:00 2026 +0100|firmware: Add support for Airoha EN7581/AN7583 NPU variant firmware
-3f98e35e98|Shiji Yang|Mon Mar 30 22:56:02 2026 +0800|ramips: fix WAN LED GPIO for Xiaomi Mi Router 4C
-c09f5e0a63|Shiji Yang|Mon Mar 30 22:52:06 2026 +0800|lantiq: fix u-boot env size for Netgear DGN3500
-</details>
