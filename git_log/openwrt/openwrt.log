@@ -1,8 +1,7 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
 
 SHA|Author|Date|Message
 -|-|-|-
-6019a127e3|Tianling Shen|Fri Apr 3 11:23:12 2026 +0800|Merge Official Source
 57fe3e077e|Emre Yavuzalp|Mon Feb 16 14:48:42 2026 +0300|mediatek: filogic: ASUS RT-AX52 PRO support
 336c781bc6|John Audia|Fri Mar 27 15:58:47 2026 -0400|kernel: bump 6.12 to 6.12.79
 ff235f09b5|John Audia|Wed Mar 25 08:15:25 2026 -0400|kernel: bump 6.12 to 6.12.78
@@ -14,5 +13,4 @@ ff235f09b5|John Audia|Wed Mar 25 08:15:25 2026 -0400|kernel: bump 6.12 to 6.12.7
 b6a8b8a946|Rosen Penev|Wed Apr 1 16:50:21 2026 -0700|ath79: wndap360: use default 9600 baud rate
 55f5b2f3d3|Rosen Penev|Wed Apr 1 16:34:53 2026 -0700|ath79: wndap360: add owl loader
 72feb5b611|Rosen Penev|Wed Apr 1 15:29:50 2026 -0700|ath79: wndap360: fix ethernet
-2749ed32cc|Tianling Shen|Thu Apr 2 12:05:00 2026 +0800|base-files: align banner with version info
 </details>
