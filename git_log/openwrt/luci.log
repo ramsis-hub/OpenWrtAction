@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+ca72f101e8|Paul Donald|Fri Apr 3 19:01:10 2026 +0200|luci-app-dockerman: return true for net validate
+</details>
