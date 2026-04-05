@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ca72f101e8|Paul Donald|Fri Apr 3 19:01:10 2026 +0200|luci-app-dockerman: return true for net validate
+16167c7e11|Paul Donald|Sat Apr 4 19:12:54 2026 +0200|luci-mod-network: check kernel for mptcp to display MPTCP options
 </details>

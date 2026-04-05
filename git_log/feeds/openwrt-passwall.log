@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ecd1bb5|A-BO|Sat Apr 4 00:40:06 2026 +0800|luci: Add ctdir REPLY returns and adjust marking rules (#4319)
-398ef15|ShanStone|Fri Apr 3 20:15:24 2026 +0800|luci: fix
-ee3417b|ShanStone|Fri Apr 3 19:09:41 2026 +0800|luci: fix "luci: optimize firewall script" (#4318)
-93630fb|A-BO|Fri Apr 3 12:00:36 2026 +0800|Revert "luci: optimize firewall script"
+aa21796|lwb1978|Sat Apr 4 20:57:31 2026 +0800|luci: fix acl remote dns logic
+b76289f|A-BO|Sat Apr 4 12:52:39 2026 +0800|luci: nftables compatibility with mwan3
+a0fca8c|A-BO|Sat Apr 4 11:59:25 2026 +0800|luci: fix UDP
 </details>

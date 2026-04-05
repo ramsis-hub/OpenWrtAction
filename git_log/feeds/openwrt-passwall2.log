@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8e6f2fb|handsomeji|Sat Apr 4 10:47:49 2026 +0800|luci: fix UDP
-5476c71|handsomeji|Sat Apr 4 02:31:47 2026 +0800|luci: nftables compatibility with mwan3
-399e168|ShanStone|Fri Apr 3 19:39:16 2026 +0800|luci: merge conditions into the one nft rule
-0178ee1|ShanStone|Fri Apr 3 19:16:35 2026 +0800|luci: reduce unnecessary temporary files
+a44f900|handsomeji|Sun Apr 5 03:01:19 2026 +0800|luci: 26.4.5
+223dba9|handsomeji|Sat Apr 4 21:14:28 2026 +0800|luci: optimize and fix
+a7278fe|handsomeji|Sun Apr 5 02:37:59 2026 +0800|luci: add force proxy lan ip option
 </details>
