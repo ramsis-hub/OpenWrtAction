@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-f778841d02|Joshua Klinesmith|Sun Mar 29 16:19:40 2026 -0400|wifi-scripts: fix ucode erp_domain and fils_cache_id values
-</details>

@@ -2,7 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aa21796|lwb1978|Sat Apr 4 20:57:31 2026 +0800|luci: fix acl remote dns logic
-b76289f|A-BO|Sat Apr 4 12:52:39 2026 +0800|luci: nftables compatibility with mwan3
-a0fca8c|A-BO|Sat Apr 4 11:59:25 2026 +0800|luci: fix UDP
+720436a|A-BO|Sun Apr 5 21:20:10 2026 +0800|Revert "luci: optimize and fix"
+6f50c3f|monokoo|Sun Apr 5 21:06:26 2026 +0800|luci: fix tag conflict & nil protocol in chained proxy (non-xray) (#4321)
+59f8543|A-BO|Sun Apr 5 20:57:21 2026 +0800|luci: optimize and fix
+6ed7c3e|A-BO|Sun Apr 5 20:19:28 2026 +0800|luci: optimize
+b46a84a|A-BO|Sun Apr 5 15:20:34 2026 +0800|luci: refactor the `filter_direct_node_list` function
 </details>

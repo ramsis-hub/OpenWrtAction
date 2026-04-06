@@ -1,6 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-16167c7e11|Paul Donald|Sat Apr 4 19:12:54 2026 +0200|luci-mod-network: check kernel for mptcp to display MPTCP options
-</details>
