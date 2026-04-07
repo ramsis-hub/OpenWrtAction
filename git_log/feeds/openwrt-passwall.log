@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-720436a|A-BO|Sun Apr 5 21:20:10 2026 +0800|Revert "luci: optimize and fix"
-6f50c3f|monokoo|Sun Apr 5 21:06:26 2026 +0800|luci: fix tag conflict & nil protocol in chained proxy (non-xray) (#4321)
-59f8543|A-BO|Sun Apr 5 20:57:21 2026 +0800|luci: optimize and fix
-6ed7c3e|A-BO|Sun Apr 5 20:19:28 2026 +0800|luci: optimize
-b46a84a|A-BO|Sun Apr 5 15:20:34 2026 +0800|luci: refactor the `filter_direct_node_list` function
+24543ca|A-BO|Mon Apr 6 22:49:12 2026 +0800|luci: 26.4.6
+37f9755|A-BO|Mon Apr 6 18:16:05 2026 +0800|luci: optimize and fix
+4add69d|A-BO|Mon Apr 6 17:55:20 2026 +0800|luci: add xray `xtls-rprx-vision-udp443`
+9b4e5cb|A-BO|Mon Apr 6 15:50:20 2026 +0800|luci: refactor watchdog script
 </details>

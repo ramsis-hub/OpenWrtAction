@@ -1,0 +1,8 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+35fc5937f|coolsnowwolf|Mon Apr 6 14:07:01 2026 +0800|mt76: pass LED define via ccflags-y
+4f5c12cd2|coolsnowwolf|Mon Apr 6 14:00:23 2026 +0800|x86: enable testing kernel 6.18 for x86
+a5c495f6f|coolsnowwolf|Mon Apr 6 13:59:43 2026 +0800|ksmbd: fix kernel 5.10 compatibility
+</details>
