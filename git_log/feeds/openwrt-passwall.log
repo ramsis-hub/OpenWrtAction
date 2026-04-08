@@ -2,8 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-24543ca|A-BO|Mon Apr 6 22:49:12 2026 +0800|luci: 26.4.6
-37f9755|A-BO|Mon Apr 6 18:16:05 2026 +0800|luci: optimize and fix
-4add69d|A-BO|Mon Apr 6 17:55:20 2026 +0800|luci: add xray `xtls-rprx-vision-udp443`
-9b4e5cb|A-BO|Mon Apr 6 15:50:20 2026 +0800|luci: refactor watchdog script
+af83166|A-BO|Tue Apr 7 22:55:03 2026 +0800|luci: update `Sortable.min.js` to 1.15.7 and fix up/ down button can not hidden
+a25b587|A-BO|Tue Apr 7 21:11:53 2026 +0800|luci: server: fix outbound
+4fdd543|A-BO|Tue Apr 7 20:55:30 2026 +0800|luci: add `SS_SYSTEM_DNS_RESOLVER_FORCE_BUILTIN` env for ss-rust
+6275843|A-BO|Tue Apr 7 16:16:43 2026 +0800|luci: disable shunt node `urltest` in the node list
+bb2b22f|A-BO|Tue Apr 7 13:56:17 2026 +0800|luci: hysteria2 `hopInterval` support range
 </details>

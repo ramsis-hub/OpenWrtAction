@@ -1,0 +1,12 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+c27a06b|A-BO|Tue Apr 7 16:16:43 2026 +0800|luci: disable special node `urltest` in the node list
+026d5dd|A-BO|Tue Apr 7 13:56:17 2026 +0800|luci: hysteria2 `hopInterval` support range
+7501891|A-BO|Mon Apr 6 17:55:20 2026 +0800|luci: add xray `xtls-rprx-vision-udp443`
+4a17a8f|monokoo|Sun Apr 5 21:06:26 2026 +0800|luci: fix tag conflict & nil protocol in chained proxy (non-xray)
+10b6434|handsomeji|Tue Apr 7 16:11:12 2026 +0800|luci: server: fix outbound
+b06b0c3|handsomeji|Tue Apr 7 01:51:25 2026 +0800|luci: add `SS_SYSTEM_DNS_RESOLVER_FORCE_BUILTIN` env for ss-rust
+539d1b6|handsomeji|Mon Apr 6 21:38:48 2026 +0800|luci: adjust node doamin resolve logic
+</details>
