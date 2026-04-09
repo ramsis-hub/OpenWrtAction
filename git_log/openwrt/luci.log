@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-9253314349|Dirk Brenken|Tue Apr 7 19:34:33 2026 +0200|luci-app-banip: release 1.8.5-1
-98acb68388|Guilherme Cardoso|Fri Mar 13 17:29:12 2026 +0000|luci-app-rustdesk-server: add keep.d file
-</details>

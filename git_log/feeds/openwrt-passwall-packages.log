@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+8a2f73f|A-BO|Wed Apr 8 11:40:03 2026 +0800|microsocks: add socks5 forwarding rules support (#617)
+</details>
