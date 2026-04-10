@@ -1,0 +1,8 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+62bd6b3625|Tianling Shen|Fri Apr 10 10:30:19 2026 +0800|Merge Official Source
+865229fad9|Jascha Sundaresan|Wed Apr 8 11:21:58 2026 +0400|mediatek: filogic: fix EAX17 rootfs hash in FIT node for per-device rootfs builds
+642e10e5f7|Steffen Förster|Sun Apr 5 18:47:41 2026 +0200|qualcommax: ipq807x: label mac for Linksys MX5300
+</details>

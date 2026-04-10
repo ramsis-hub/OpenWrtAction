@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-82756ac|handsomeji|Thu Apr 9 04:20:16 2026 +0800|luci: add node domain specify DNS over HTTPS option
-917f4aa|handsomeji|Thu Apr 9 03:10:14 2026 +0800|luci: add Xray node domain strategy
-fd58fae|handsomeji|Wed Apr 8 23:15:08 2026 +0800|luci: add node domain specify DNS option
-4894b85|A-BO|Tue Apr 7 22:55:03 2026 +0800|luci: update `Sortable.min.js` to 1.15.7 and fix up/ down button can not hidden
-7d1cea8|handsomeji|Wed Apr 8 18:29:43 2026 +0800|luci: fixup
+4b4b84d|handsomeji|Fri Apr 10 03:16:41 2026 +0800|luci: 26.4.10
+89079f6|handsomeji|Fri Apr 10 02:54:25 2026 +0800|luci: remove outdated and unused logic
+55f451a|handsomeji|Thu Apr 9 17:05:52 2026 +0800|luci: add front DNS
 </details>

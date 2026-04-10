@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6f60504|A-BO|Thu Apr 9 01:34:35 2026 +0800|luci: optimize
-0facd2a|A-BO|Wed Apr 8 21:05:35 2026 +0800|luci: optimize process monitor logic
+78a445f|A-BO|Fri Apr 10 10:08:04 2026 +0800|luci: add node domain DNS in subscribe settings
+5746f61|A-BO|Thu Apr 9 23:42:38 2026 +0800|luci: fix and optimize node domain DNS for xray
+ca17473|A-BO|Thu Apr 9 15:42:52 2026 +0800|luci: add node domain specify DNS option
 </details>
