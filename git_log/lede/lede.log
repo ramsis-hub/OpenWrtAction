@@ -1,8 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-9bfad5081|coolsnowwolf|Thu Apr 9 22:09:57 2026 +0800|tools/erofs-utils: assign PKG_CPE_ID
-864bb60b1|Internet1235|Thu Apr 9 21:37:53 2026 +0800|erofs-utils: update to 1.9.1 (#13958)
-35d100e14|coolsnowwolf|Thu Apr 9 18:05:10 2026 +0800|mac80211: port from upstream ucode with BE support
-</details>

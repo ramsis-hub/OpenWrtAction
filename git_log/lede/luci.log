@@ -2,9 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3579ec67|coolsnowwolf|Fri Apr 10 11:00:07 2026 +0800|luci-theme-design: fix nav modem and wifi icon
-fbd8fef9|coolsnowwolf|Fri Apr 10 02:17:37 2026 +0800|luci-theme-design: fix LuCI 23 dropdown rendering
-5d62b3b3|coolsnowwolf|Fri Apr 10 01:19:12 2026 +0800|luci-theme-design: sync page style with legacy lua version
-614d4d37|coolsnowwolf|Thu Apr 9 19:00:02 2026 +0800|luci-theme-design: bump to v20260409
-26181dd8|coolsnowwolf|Thu Apr 9 18:06:07 2026 +0800|luci-base: port from upstream ucode with BE support
+aa8844b1|coolsnowwolf|Sat Apr 11 10:29:47 2026 +0800|luci-mod-network: adapter wireless BSSID display
+f22d8cbb|coolsnowwolf|Sat Apr 11 02:23:03 2026 +0800|luci.mk: add back po/zh-cn lang support
+9e1a2e59|coolsnowwolf|Sat Apr 11 01:42:30 2026 +0800|luci-app-acme: fix dependence
+463ad980|coolsnowwolf|Fri Apr 10 19:57:57 2026 +0800|luci-mod-network: add mtwifi support
+3c2a6ff8|coolsnowwolf|Fri Apr 10 19:28:17 2026 +0800|luci-newapi: fix phy2name hack for mtwifi
+c394b629|coolsnowwolf|Fri Apr 10 15:31:38 2026 +0800|luci-theme-design: speedup display
+bfe88034|coolsnowwolf|Fri Apr 10 15:04:27 2026 +0800|luci-theme-design: detecct display proxy tools
+699207df|coolsnowwolf|Fri Apr 10 14:03:30 2026 +0800|luci-app-openvpn-server: rewrite renewcert.sh for slow startup speed
+74feb70f|coolsnowwolf|Fri Apr 10 12:30:26 2026 +0800|luci-theme-design: fix cbi dropdown button style
 </details>

@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-4b4b84d|handsomeji|Fri Apr 10 03:16:41 2026 +0800|luci: 26.4.10
-89079f6|handsomeji|Fri Apr 10 02:54:25 2026 +0800|luci: remove outdated and unused logic
-55f451a|handsomeji|Thu Apr 9 17:05:52 2026 +0800|luci: add front DNS
-</details>
