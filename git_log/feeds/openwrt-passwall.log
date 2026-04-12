@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ff71a18|lwb1978|Sat Apr 11 01:16:47 2026 +0800|luci: merge identical DNS servers for node domain resolver
-8d0c9e3|A-BO|Fri Apr 10 13:32:08 2026 +0800|luci: add xray/sing-box config file verification
-06974d8|A-BO|Fri Apr 10 13:11:07 2026 +0800|luci: add node specify DNS warn
+e125ccd|A-BO|Sat Apr 11 17:56:14 2026 +0800|luci: optimize
+3696b9d|A-BO|Sat Apr 11 14:44:50 2026 +0800|luci: optimize the vpslist dns for xray
 </details>

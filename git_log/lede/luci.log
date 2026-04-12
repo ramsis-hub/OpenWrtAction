@@ -2,13 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aa8844b1|coolsnowwolf|Sat Apr 11 10:29:47 2026 +0800|luci-mod-network: adapter wireless BSSID display
-f22d8cbb|coolsnowwolf|Sat Apr 11 02:23:03 2026 +0800|luci.mk: add back po/zh-cn lang support
-9e1a2e59|coolsnowwolf|Sat Apr 11 01:42:30 2026 +0800|luci-app-acme: fix dependence
-463ad980|coolsnowwolf|Fri Apr 10 19:57:57 2026 +0800|luci-mod-network: add mtwifi support
-3c2a6ff8|coolsnowwolf|Fri Apr 10 19:28:17 2026 +0800|luci-newapi: fix phy2name hack for mtwifi
-c394b629|coolsnowwolf|Fri Apr 10 15:31:38 2026 +0800|luci-theme-design: speedup display
-bfe88034|coolsnowwolf|Fri Apr 10 15:04:27 2026 +0800|luci-theme-design: detecct display proxy tools
-699207df|coolsnowwolf|Fri Apr 10 14:03:30 2026 +0800|luci-app-openvpn-server: rewrite renewcert.sh for slow startup speed
-74feb70f|coolsnowwolf|Fri Apr 10 12:30:26 2026 +0800|luci-theme-design: fix cbi dropdown button style
+3276e3a8|coolsnowwolf|Sat Apr 11 22:10:31 2026 +0800|luci-mod-network: bump version
+4ef0f2c1|coolsnowwolf|Sat Apr 11 19:47:48 2026 +0800|luci-mod-network: add support for BE EHT320 6Ghz
+39f7de08|coolsnowwolf|Sat Apr 11 19:26:36 2026 +0800|luci-mod-network: add weak signal rejection for wireless setting
+9102bfb2|coolsnowwolf|Sat Apr 11 16:06:26 2026 +0800|luci-theme-design: fix dropdown popups in nested form sections
+b8427965|coolsnowwolf|Sat Apr 11 15:35:27 2026 +0800|luci-newapi: remove package and combine change to network.js
+2dabce7f|coolsnowwolf|Sat Apr 11 15:21:03 2026 +0800|luci-proto-openvpnc: switch to js luci style view
+27f88539|coolsnowwolf|Sat Apr 11 14:45:14 2026 +0800|luci-proto-openvpn: add package for openvpn client protocol support
+bee162b3|coolsnowwolf|Sat Apr 11 14:27:10 2026 +0800|luci-app-pbr: compatible with firewall4
+3c061e5e|coolsnowwolf|Sat Apr 11 13:58:17 2026 +0800|luci-app-pbr: add fw3 and fw4 depend
 </details>
