@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e125ccd|A-BO|Sat Apr 11 17:56:14 2026 +0800|luci: optimize
-3696b9d|A-BO|Sat Apr 11 14:44:50 2026 +0800|luci: optimize the vpslist dns for xray
+78f4955e|lwb1978|Sun Apr 12 23:16:44 2026 +0800|luci: adjust and optimize
+b431aed7|lwb1978|Sun Apr 12 21:53:22 2026 +0800|luci: optimize hotplug logic
+d0536036|A-BO|Sat Apr 11 17:56:14 2026 +0800|luci: optimize
+e125ccd8|A-BO|Sat Apr 11 17:56:14 2026 +0800|luci: optimize
 </details>

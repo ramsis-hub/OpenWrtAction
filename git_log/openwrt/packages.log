@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-cf67ae67f|Dirk Brenken|Sat Apr 11 18:43:09 2026 +0200|banip: update 1.8.5-2
-411ca9ef5|Dirk Brenken|Sat Apr 11 10:48:53 2026 +0200|adblock: update 4.5.4-3
-5a4a2bde4|Daniel F. Dickinson|Sat Apr 4 23:32:57 2026 -0400|zabbix: fix username for ubus acls
-2f980bda8|Daniel F. Dickinson|Sat Apr 4 23:26:41 2026 -0400|zabbix: tweak ubus acl json whitespace
-</details>
