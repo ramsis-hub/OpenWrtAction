@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-78f4955e|lwb1978|Sun Apr 12 23:16:44 2026 +0800|luci: adjust and optimize
-b431aed7|lwb1978|Sun Apr 12 21:53:22 2026 +0800|luci: optimize hotplug logic
-d0536036|A-BO|Sat Apr 11 17:56:14 2026 +0800|luci: optimize
-e125ccd8|A-BO|Sat Apr 11 17:56:14 2026 +0800|luci: optimize
+df6d266|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize
+5033270|A-BO|Mon Apr 13 23:09:46 2026 +0800|luci: refresh the preproxy node of the shunt node when subscribe
+a6538ac|A-BO|Mon Apr 13 22:20:16 2026 +0800|luci: optimize the logic of adding wan_ip to ipset/nftset (#4333)
 </details>

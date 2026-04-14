@@ -1,7 +1,8 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
 
 SHA|Author|Date|Message
 -|-|-|-
+914b6e73df|Tianling Shen|Tue Apr 14 11:00:36 2026 +0800|Merge Official Source
 714240997d|Luiz Angelo Daros de Luca|Mon Feb 3 20:01:11 2025 -0300|base-files: sysupgrade: -u option was broken with apk
 8ab67441c5|Luiz Angelo Daros de Luca|Mon Feb 3 19:58:14 2025 -0300|base-files: sysupgrade: update backup exclusion list
 89a3a0d90d|Luiz Angelo Daros de Luca|Sun Jan 3 22:40:04 2021 -0300|base-files: sysupgrade: fix -f with space in bkp path
@@ -16,4 +17,7 @@ d7fe2c7562|Lorenzo Bianconi|Fri Oct 24 17:10:08 2025 +0200|airoha: npu: Init BA 
 8fc7a3d2d0|Richard Huynh|Sat Mar 28 20:10:33 2026 +1100|wifi-scripts: add EHT rates to set_fixed_freq
 7118a5b5ee|Jack Sun|Wed Apr 8 21:15:24 2026 +0800|openssl: update to 3.5.6
 63329adfeb|Hauke Mehrtens|Sun Apr 5 01:32:36 2026 +0200|mbedtls: update to 3.6.6
+
+.....................
+
 </details>
