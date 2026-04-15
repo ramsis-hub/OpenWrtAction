@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-77ceff0|handsomeji|Mon Apr 13 19:30:30 2026 +0800|luci: fix IPv6 direct DNS
-d79275f|handsomeji|Sat Apr 11 21:06:49 2026 +0800|luci: refresh the preproxy node of the shunt node when subscribe
-</details>
