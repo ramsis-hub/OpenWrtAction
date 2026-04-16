@@ -1,7 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-d9c476c2b6|Tianling Shen|Tue Apr 14 14:54:00 2026 +0800|ImmortalWrt v25.12.0-rc2: revert to branch defaults
-bc0f561551|Tianling Shen|Tue Apr 14 14:53:57 2026 +0800|ImmortalWrt v25.12.0-rc2: adjust config defaults
-</details>

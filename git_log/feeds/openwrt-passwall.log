@@ -2,9 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-57d56da5|A-BO|Wed Apr 15 11:10:27 2026 +0800|luci: optimize node `user-agent` config options
-49930157|A-BO|Wed Apr 15 10:07:12 2026 +0800|luci: add `cwndmultiplier` support for mkcp and remove its rarely used config options
-b902cfa1|A-BO|Tue Apr 14 23:05:11 2026 +0800|luci: adjust and fix
-3b61837d|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize dns logic for redir and acl
-df6d2665|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize
+20f7d42|A-BO|Wed Apr 15 13:45:41 2026 +0800|luci: 26.4.15
 </details>
