@@ -1,9 +1,0 @@
-<details> <summary> <b>luci-theme-argon new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-f075cb1|老竭力|Thu Apr 16 11:38:05 2026 +0800|Merge pull request #668 from yhl452493373/master
-2637cb2|yhl452493373|Wed Apr 15 21:49:10 2026 +0800|合并代码
-1047f83|yhl452493373|Wed Apr 15 21:48:11 2026 +0800|Merge remote-tracking branch 'upstream/master'
-9b2ac00|yhl452493373|Wed Apr 15 21:46:32 2026 +0800|修复浅色模式下，下拉选择框选中文字颜色为白色的问题
-</details>

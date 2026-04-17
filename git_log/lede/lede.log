@@ -1,6 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ecec1ef93|Daniel Golle|Sat Apr 11 22:59:07 2026 +0100|mediatek: don't let devfreq power-off the CPU
-</details>

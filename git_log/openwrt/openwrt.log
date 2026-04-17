@@ -1,0 +1,8 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+99a502bbc4|Rosen Penev|Fri Apr 10 12:04:04 2026 -0700|uboot-envtools: add extreme-networks,ws-ap3805i
+4bd0c98046|Rosen Penev|Fri Apr 10 11:45:00 2026 -0700|ath79: enterasys,ws-ap3805i: fix u-boot env
+b36e1168b0|Brian Norris|Wed Apr 15 18:58:59 2026 -0700|chromium: Add #{address,size}-cells to /firmware
+</details>
