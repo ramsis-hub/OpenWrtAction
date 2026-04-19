@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9ab80168b|coolsnowwolf|Sat Apr 18 00:15:24 2026 +0800|feeds.conf.default: switch to luci 25.12
+195fd0ecb|coolsnowwolf|Sat Apr 18 16:02:06 2026 +0800|cmake: bump to v3.31.5
 </details>
