@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0ba8426|A-BO|Sun Apr 19 03:43:39 2026 +0800|luci: optimize haproxy
+c9434aca|handsomeji|Thu Apr 16 21:48:01 2026 +0800|luci: optimize subscribe
+8a36dddc|A-BO|Sun Apr 19 03:43:39 2026 +0800|luci: optimize haproxy
+0ba8426c|A-BO|Sun Apr 19 03:43:39 2026 +0800|luci: optimize haproxy
 </details>
