@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+26ad297fac|coolsnowwolf|Tue Apr 21 09:58:35 2026 +0800|csstidy: Fix PKG_MIRROR_HASH for .xz change
+e4a0609edb|coolsnowwolf|Mon Apr 20 22:30:20 2026 +0800|luci-mod-status: add startOverviewRefresh cache
+fe397283a9|Internet1235|Mon Apr 20 21:12:26 2026 +0800|luci-app-qiyougamebooster: add package (#390)
+</details>

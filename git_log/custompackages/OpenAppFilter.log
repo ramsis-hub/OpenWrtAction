@@ -1,0 +1,6 @@
+<details> <summary> <b>OpenAppFilter new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+569f93b|destan19|Mon Apr 20 14:00:45 2026 +0800|1.Fixed an issue with the display of active user status in LuCI 2.Fixed a memory leak issue caused by remaining on the user list interface.
+</details>
