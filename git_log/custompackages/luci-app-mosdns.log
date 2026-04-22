@@ -1,7 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6a78132|sbwml|Mon Apr 20 22:49:14 2026 +0800|luci-app-mosdns: disable service restarts following rule updates
-bb1b78e|sbwml|Mon Apr 20 23:09:40 2026 +0800|mosdns: add auto-reload rule files on modification
-</details>

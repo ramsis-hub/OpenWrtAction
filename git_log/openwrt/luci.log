@@ -1,6 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-3b7a68e586|Paul Donald|Mon Apr 20 14:45:56 2026 +0200|luci-mod: use built-in format for wifi hostname
-</details>
