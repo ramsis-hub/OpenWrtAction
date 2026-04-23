@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5534abd|github-actions[bot]|Thu Apr 23 10:49:22 2026 +0800|sing-box: update to 1.13.11 (#627)
+35b60ab|github-actions[bot]|Wed Apr 22 16:56:52 2026 +0800|v2ray-geoip: update to 202604192210 (#626)
+441de3f|github-actions[bot]|Wed Apr 22 16:56:30 2026 +0800|v2ray-geosite: update to 202604212233 (#625)
+98fd652|github-actions[bot]|Wed Apr 22 16:56:04 2026 +0800|sing-box: update to 1.13.10 (#624)
+</details>
