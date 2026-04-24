@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-8405d22670|Stan Grishin|Tue Apr 21 19:15:33 2026 +0000|luci-app-pbr: update to 1.2.2-r14
-92945206b5|Michael Pfeifroth|Wed Apr 22 15:49:58 2026 +0200|luci-app-mwan3: fix missing translation call for Weight label
-</details>

@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4a3381646d|coolsnowwolf|Thu Apr 23 12:03:43 2026 +0800|luci-mod-network: add support for force 40MHz in dbdc mode
-20cb6a03cd|coolsnowwolf|Wed Apr 22 17:11:51 2026 +0800|luci-mod-network: keep auto channel available for qca radios
+28190ed672|coolsnowwolf|Thu Apr 23 22:32:36 2026 +0800|luci-app-vlmcsd: add running status view
+49fdae7bbe|coolsnowwolf|Thu Apr 23 15:24:25 2026 +0800|luci-app-onekeyap: add luci for one-click AP mode switching
+7a292c5b8f|coolsnowwolf|Thu Apr 23 14:43:45 2026 +0800|luci-app-repeater: luci app for Wi-Fi repeater and uplink configuration
+32d6ffba18|coolsnowwolf|Thu Apr 23 13:16:55 2026 +0800|luci-app-turboacc: add mtk wed config support
 </details>
