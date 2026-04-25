@@ -1,0 +1,7 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5d0fae38f|Qingfang Deng|Thu Apr 2 10:42:09 2026 +0800|ovpn-dco: switch to the new source
+57f687f2c|Qingfang Deng|Thu Apr 2 10:42:16 2026 +0800|openvpn: update to 2.7.1
+</details>

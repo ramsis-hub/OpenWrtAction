@@ -2,8 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-28190ed672|coolsnowwolf|Thu Apr 23 22:32:36 2026 +0800|luci-app-vlmcsd: add running status view
-49fdae7bbe|coolsnowwolf|Thu Apr 23 15:24:25 2026 +0800|luci-app-onekeyap: add luci for one-click AP mode switching
-7a292c5b8f|coolsnowwolf|Thu Apr 23 14:43:45 2026 +0800|luci-app-repeater: luci app for Wi-Fi repeater and uplink configuration
-32d6ffba18|coolsnowwolf|Thu Apr 23 13:16:55 2026 +0800|luci-app-turboacc: add mtk wed config support
+6fc70a4129|coolsnowwolf|Sat Apr 25 10:06:49 2026 +0800|luci-base: wizard pending for quickstart
+0ab227c769|coolsnowwolf|Fri Apr 24 13:54:50 2026 +0800|luci-app-eqos: add nss hw qos support
 </details>

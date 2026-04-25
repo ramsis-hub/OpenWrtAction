@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ccb14af|A-BO|Fri Apr 24 11:11:17 2026 +0800|luci: restore the xray `blackhole` logic
-56fa628|A-BO|Thu Apr 23 22:08:13 2026 +0800|luci: update default rules
-b096ef9|A-BO|Thu Apr 23 21:45:35 2026 +0800|luci: optimize the display effect of some tables
+cdf76cd|A-BO|Sat Apr 25 01:02:11 2026 +0800|luci: optimize
+eb76230|A-BO|Sat Apr 25 00:27:54 2026 +0800|luci: restore mkcp mtu config options
 </details>
