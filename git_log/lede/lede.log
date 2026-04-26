@@ -1,6 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-05513ed96|Xiaok|Fri Apr 24 18:10:11 2026 +0800|mt76: fix build with linux kernel 5.10
-</details>

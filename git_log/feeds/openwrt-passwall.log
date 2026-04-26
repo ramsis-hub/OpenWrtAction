@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cdf76cd|A-BO|Sat Apr 25 01:02:11 2026 +0800|luci: optimize
-eb76230|A-BO|Sat Apr 25 00:27:54 2026 +0800|luci: restore mkcp mtu config options
+4e1f213|A-BO|Sun Apr 26 01:49:18 2026 +0800|luci: improve curl success handling in subscribe/rule_update
 </details>
