@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e3490d2836|Paul Donald|Sat Apr 25 14:32:00 2026 +0200|luci-app-ocserv: correct JSON user data
-4e714a8b9f|Hannu Nyman|Sat Apr 25 12:00:28 2026 +0300|treewide: backport translations
+1625d25580|Stan Grishin|Fri Apr 24 17:30:20 2026 +0000|luci-app-adblock-fast: update to 1.2.2-r18
 </details>

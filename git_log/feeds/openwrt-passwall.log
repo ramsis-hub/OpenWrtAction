@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4e1f213|A-BO|Sun Apr 26 01:49:18 2026 +0800|luci: improve curl success handling in subscribe/rule_update
+4aae803|A-BO|Sun Apr 26 20:40:57 2026 +0800|luci: add fakedns enabled conditions for acl config
+34eb704|A-BO|Sun Apr 26 20:20:59 2026 +0800|luci: support xray dns outbound rules
 </details>

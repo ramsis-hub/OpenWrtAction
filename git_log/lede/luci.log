@@ -1,9 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0668fb055d|coolsnowwolf|Sun Apr 26 03:08:17 2026 +0800|luci-mod-network: fix auto channel info for qcawifi
-c388cb5544|coolsnowwolf|Sun Apr 26 02:25:24 2026 +0800|luci-mod-network: add wireless offload with PPE option
-8679a164f5|coolsnowwolf|Sun Apr 26 01:03:02 2026 +0800|luci-mod-network: add BE 6G 320Mhz Width
-1fed1016b9|coolsnowwolf|Sat Apr 25 12:08:11 2026 +0800|luci-mod-network: reserve qcawifi BE mode when current select AX mode
-</details>
