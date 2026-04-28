@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e70cf73f46|coolsnowwolf|Tue Apr 28 10:45:13 2026 +0800|luci-mod-network: fix wiphy radios BE mode detection
+513563c1de|coolsnowwolf|Mon Apr 27 23:51:21 2026 +0800|luci: fix qcawifi 6ghz and eht320 handling
+4a1bdcb04f|coolsnowwolf|Mon Apr 27 15:28:06 2026 +0800|luci-mod-network: fix jsmin compatibility
+</details>
