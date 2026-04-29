@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+956a6e2c23|Lars Gierth|Sat Apr 25 17:33:06 2026 +0200|toolchain: gcc: fix include memory against GCC 16
+d87f1e2305|Robert Marko|Wed Apr 22 16:48:18 2026 +0200|toolchain: gcc: 14/15: fix libcody compilation with GCC16
+</details>

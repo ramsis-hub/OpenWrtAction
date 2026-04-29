@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4764bf417c|Stan Grishin|Sat Apr 25 01:17:15 2026 +0000|luci-app-https-dns-proxy: update to 2025.12.29-5
+15aabe7f02|Dirk Brenken|Tue Apr 28 20:06:26 2026 +0200|luci-app-banip: release 1.8.7-1
 </details>
