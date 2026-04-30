@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1fe5165|A-BO|Wed Apr 29 11:48:57 2026 +0800|luci: add DoH input description
-3459664|A-BO|Tue Apr 28 20:25:00 2026 +0800|luci: remove `echForceQuery` of xray
-dc17b76|A-BO|Tue Apr 28 13:06:43 2026 +0800|luci: fix dns redirect exposing port 53 to wan (#4346)
+2dbb84f|A-BO|Thu Apr 30 10:50:10 2026 +0800|luci: change `tcp+doh` to `doh` of xray remote dns mode
+9f53af3|A-BO|Wed Apr 29 23:03:18 2026 +0800|luci: add domain name resolution for doh url
+5be803e|Liangbin Lian|Wed Apr 29 15:06:27 2026 +0800|luci: optimize the performance of check_excluded_domain (#4348)
 </details>
