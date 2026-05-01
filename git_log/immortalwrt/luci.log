@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b04f6342ea|Tianling Shen|Tue Apr 28 11:46:33 2026 +0800|luci-app-rtp2httpd: add luci support for rtp2httpd
+</details>

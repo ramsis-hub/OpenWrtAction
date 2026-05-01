@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2dbb84f|A-BO|Thu Apr 30 10:50:10 2026 +0800|luci: change `tcp+doh` to `doh` of xray remote dns mode
-9f53af3|A-BO|Wed Apr 29 23:03:18 2026 +0800|luci: add domain name resolution for doh url
-5be803e|Liangbin Lian|Wed Apr 29 15:06:27 2026 +0800|luci: optimize the performance of check_excluded_domain (#4348)
+662aeca|A-BO|Thu Apr 30 23:16:20 2026 +0800|luci: optimize socks startup logic
+000f5ad|A-BO|Thu Apr 30 21:21:04 2026 +0800|luci: sing-box supports system hosts
+636053a|A-BO|Thu Apr 30 19:36:36 2026 +0800|luci: fix `domain_strategy` of subscribe
 </details>
