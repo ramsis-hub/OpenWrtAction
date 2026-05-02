@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-662aeca|A-BO|Thu Apr 30 23:16:20 2026 +0800|luci: optimize socks startup logic
-000f5ad|A-BO|Thu Apr 30 21:21:04 2026 +0800|luci: sing-box supports system hosts
-636053a|A-BO|Thu Apr 30 19:36:36 2026 +0800|luci: fix `domain_strategy` of subscribe
+4162fe15|A-BO|Thu Apr 30 23:16:20 2026 +0800|luci: optimize socks startup logic
+662aecac|A-BO|Thu Apr 30 23:16:20 2026 +0800|luci: optimize socks startup logic
 </details>
