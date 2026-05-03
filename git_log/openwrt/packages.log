@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-16eba2e55|Vladimir Ulrich|Fri May 1 19:15:41 2026 +0300|zoneinfo: updated to 2026b release
+4dc93bb79|Dmitriy Zh|Sun Apr 12 08:58:12 2026 +0000|fix: remove depends on PACKAGE_lpac from Config.in
+54ac30fa5|Zhitomirskiy Dmitriy|Tue Mar 31 07:53:51 2026 +0000|lpac: upgrade to 2.3.0 - enable uqmi and LPAC_WITH_PCSC
 </details>

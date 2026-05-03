@@ -1,0 +1,23 @@
+<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+27f66bc|coolsnowwolf|Sun May 3 12:06:24 2026 +0800|luci-app-ssr-plus: add Loop Mode for auto update schedule
+e896f2b|coolsnowwolf|Sun May 3 11:43:37 2026 +0800|luci-app-ssr-plus: subscribe page style and add subscribe item update independent
+4a00357|coolsnowwolf|Sun May 3 10:23:16 2026 +0800|luci-app-ssr-plus: remove tcping and using nping tcp mode instead
+24b291f|coolsnowwolf|Sun May 3 09:43:08 2026 +0800|luci-app-ssr-plus: splite GeoData (GeoIP and GeoSite) option
+00964b3|coolsnowwolf|Sun May 3 08:59:55 2026 +0800|luci-app-ssr-plus: remove dnsproxy support
+451141a|coolsnowwolf|Sun May 3 00:32:34 2026 +0800|luci-app-ssr-plus: allow ipv6 address server nodes and subscribe
+7f3f44c|coolsnowwolf|Sat May 2 23:38:21 2026 +0800|luci-app-ssr-plus: move tuic support to mihomo
+75eeb4b|coolsnowwolf|Sat May 2 22:40:13 2026 +0800|luci-app-ssr-plus: remove dns2socks and dns2socks-rust support
+4977a18|coolsnowwolf|Sat May 2 22:12:53 2026 +0800|dns2tcp: add filter AAAA answers function
+876c21a|coolsnowwolf|Sat May 2 16:51:14 2026 +0800|luci-app-ssr-plus: ignore tuic subscribe when bin not installed
+eaa394e|coolsnowwolf|Sat May 2 16:00:18 2026 +0800|luci-app-ssr-plus: update translation for mihomo settings
+7ff25ad|coolsnowwolf|Sat May 2 15:39:47 2026 +0800|luci-app-ssr-plus: compatible with Clash YAML with null group / null rule-providers
+7fcae9e|coolsnowwolf|Sat May 2 15:22:50 2026 +0800|luci-app-ssr-plus: stored mihomo custom proxies rules when edit in pannel
+5cd4cc9|coolsnowwolf|Sat May 2 14:54:42 2026 +0800|luci-app-ssr-plus: enable local yaml mihomo config file upload
+7f706f3|coolsnowwolf|Sat May 2 14:22:14 2026 +0800|luci-app-ssr-plus: prefer to fw4 nftables detection first
+
+.....................
+
+</details>

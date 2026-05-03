@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4162fe15|A-BO|Thu Apr 30 23:16:20 2026 +0800|luci: optimize socks startup logic
-662aecac|A-BO|Thu Apr 30 23:16:20 2026 +0800|luci: optimize socks startup logic
+3d57203|A-BO|Sun May 3 01:10:11 2026 +0800|luci: refactor cron code
+11c4b72|A-BO|Sat May 2 14:31:09 2026 +0800|luci: simplify remote doh parameters
 </details>
