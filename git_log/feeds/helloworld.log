@@ -2,22 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-27f66bc|coolsnowwolf|Sun May 3 12:06:24 2026 +0800|luci-app-ssr-plus: add Loop Mode for auto update schedule
-e896f2b|coolsnowwolf|Sun May 3 11:43:37 2026 +0800|luci-app-ssr-plus: subscribe page style and add subscribe item update independent
-4a00357|coolsnowwolf|Sun May 3 10:23:16 2026 +0800|luci-app-ssr-plus: remove tcping and using nping tcp mode instead
-24b291f|coolsnowwolf|Sun May 3 09:43:08 2026 +0800|luci-app-ssr-plus: splite GeoData (GeoIP and GeoSite) option
-00964b3|coolsnowwolf|Sun May 3 08:59:55 2026 +0800|luci-app-ssr-plus: remove dnsproxy support
-451141a|coolsnowwolf|Sun May 3 00:32:34 2026 +0800|luci-app-ssr-plus: allow ipv6 address server nodes and subscribe
-7f3f44c|coolsnowwolf|Sat May 2 23:38:21 2026 +0800|luci-app-ssr-plus: move tuic support to mihomo
-75eeb4b|coolsnowwolf|Sat May 2 22:40:13 2026 +0800|luci-app-ssr-plus: remove dns2socks and dns2socks-rust support
-4977a18|coolsnowwolf|Sat May 2 22:12:53 2026 +0800|dns2tcp: add filter AAAA answers function
-876c21a|coolsnowwolf|Sat May 2 16:51:14 2026 +0800|luci-app-ssr-plus: ignore tuic subscribe when bin not installed
-eaa394e|coolsnowwolf|Sat May 2 16:00:18 2026 +0800|luci-app-ssr-plus: update translation for mihomo settings
-7ff25ad|coolsnowwolf|Sat May 2 15:39:47 2026 +0800|luci-app-ssr-plus: compatible with Clash YAML with null group / null rule-providers
-7fcae9e|coolsnowwolf|Sat May 2 15:22:50 2026 +0800|luci-app-ssr-plus: stored mihomo custom proxies rules when edit in pannel
-5cd4cc9|coolsnowwolf|Sat May 2 14:54:42 2026 +0800|luci-app-ssr-plus: enable local yaml mihomo config file upload
-7f706f3|coolsnowwolf|Sat May 2 14:22:14 2026 +0800|luci-app-ssr-plus: prefer to fw4 nftables detection first
-
-.....................
+facce9c|coolsnowwolf|Mon May 4 11:42:26 2026 +0800|luci-app-ssr-plus: install with csstidy and jsmini
+2137699|coolsnowwolf|Mon May 4 10:38:02 2026 +0800|luci-app-ssr-plus: move socks5 proxy nodes to xray-core support
+3abe40e|coolsnowwolf|Mon May 4 10:05:22 2026 +0800|luci-app-ssr-plus: move ss rust with Obfs / V2ray Plugin / Shadow_TLS and Kcptun to Mihomo Support
+9286162|coolsnowwolf|Mon May 4 09:20:47 2026 +0800|luci-app-ssr-plus: add new single node ss type Shadowsocks Mihomo Client
+19f4586|coolsnowwolf|Mon May 4 08:41:15 2026 +0800|luci-app-ssr-plus: remove ChinaDNS NG support
+1f2851f|coolsnowwolf|Mon May 4 08:21:07 2026 +0800|luci-app-ssr-plus: move Hysteria 2 support to Xray-Core
+31c1452|coolsnowwolf|Mon May 4 08:03:26 2026 +0800|shadowsocks-rust: expand to support more platforms
+e7cef6a|coolsnowwolf|Mon May 4 07:49:21 2026 +0800|luci-app-ssr-plus: drop Shadowsocks Libev support
+579d793|coolsnowwolf|Mon May 4 07:09:20 2026 +0800|luci-app-ssr-plus: drop ssr-check dependency
+24909c4|coolsnowwolf|Mon May 4 00:27:09 2026 +0800|luci-app-ssr-plus: add client rules import/export/reset all functions
+aa6ccbe|coolsnowwolf|Mon May 4 00:07:50 2026 +0800|luci-app-ssr-plus: add import and export client rules for Mihomo Clash
+4b83784|coolsnowwolf|Sun May 3 23:43:27 2026 +0800|luci-app-ssr-plus: allow custom IP/CIDR rules for Mihomo Clash node
+827f1d2|coolsnowwolf|Sun May 3 22:16:59 2026 +0800|luci-app-ssr-plus: add xz-utils dependencies for OpenWrt trunk
+a977bd8|coolsnowwolf|Sun May 3 21:46:56 2026 +0800|luci-app-ssr-plus: renice pannel style in bootstrap dark theme
+f6d4997|coolsnowwolf|Sun May 3 20:27:21 2026 +0800|luci-app-ssr-plus: change subscribe save button behavior
 
 </details>

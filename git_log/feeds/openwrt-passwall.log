@@ -2,6 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3d57203|A-BO|Sun May 3 01:10:11 2026 +0800|luci: refactor cron code
-11c4b72|A-BO|Sat May 2 14:31:09 2026 +0800|luci: simplify remote doh parameters
+9365b3f|David Mandy|Mon May 4 00:12:44 2026 +0800|ci: update dependency versions
+ffea67c|A-BO|Sun May 3 23:39:06 2026 +0800|luci: 26.5.3
+e51dc7f|A-BO|Sun May 3 23:35:36 2026 +0800|luci: support xray freedom `finalRules` (action = allow) (#4352)
+f102b0d|A-BO|Sun May 3 13:55:05 2026 +0800|luci: fix
+8a5adeb|A-BO|Sun May 3 13:29:33 2026 +0800|luci: unified conver of node address to lowercase
 </details>
