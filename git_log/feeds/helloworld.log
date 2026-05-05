@@ -2,20 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-facce9c|coolsnowwolf|Mon May 4 11:42:26 2026 +0800|luci-app-ssr-plus: install with csstidy and jsmini
-2137699|coolsnowwolf|Mon May 4 10:38:02 2026 +0800|luci-app-ssr-plus: move socks5 proxy nodes to xray-core support
-3abe40e|coolsnowwolf|Mon May 4 10:05:22 2026 +0800|luci-app-ssr-plus: move ss rust with Obfs / V2ray Plugin / Shadow_TLS and Kcptun to Mihomo Support
-9286162|coolsnowwolf|Mon May 4 09:20:47 2026 +0800|luci-app-ssr-plus: add new single node ss type Shadowsocks Mihomo Client
-19f4586|coolsnowwolf|Mon May 4 08:41:15 2026 +0800|luci-app-ssr-plus: remove ChinaDNS NG support
-1f2851f|coolsnowwolf|Mon May 4 08:21:07 2026 +0800|luci-app-ssr-plus: move Hysteria 2 support to Xray-Core
-31c1452|coolsnowwolf|Mon May 4 08:03:26 2026 +0800|shadowsocks-rust: expand to support more platforms
-e7cef6a|coolsnowwolf|Mon May 4 07:49:21 2026 +0800|luci-app-ssr-plus: drop Shadowsocks Libev support
-579d793|coolsnowwolf|Mon May 4 07:09:20 2026 +0800|luci-app-ssr-plus: drop ssr-check dependency
-24909c4|coolsnowwolf|Mon May 4 00:27:09 2026 +0800|luci-app-ssr-plus: add client rules import/export/reset all functions
-aa6ccbe|coolsnowwolf|Mon May 4 00:07:50 2026 +0800|luci-app-ssr-plus: add import and export client rules for Mihomo Clash
-4b83784|coolsnowwolf|Sun May 3 23:43:27 2026 +0800|luci-app-ssr-plus: allow custom IP/CIDR rules for Mihomo Clash node
-827f1d2|coolsnowwolf|Sun May 3 22:16:59 2026 +0800|luci-app-ssr-plus: add xz-utils dependencies for OpenWrt trunk
-a977bd8|coolsnowwolf|Sun May 3 21:46:56 2026 +0800|luci-app-ssr-plus: renice pannel style in bootstrap dark theme
-f6d4997|coolsnowwolf|Sun May 3 20:27:21 2026 +0800|luci-app-ssr-plus: change subscribe save button behavior
-
+f98f427|coolsnowwolf|Tue May 5 09:09:33 2026 +0800|luci-app-ssr-plus: add mihomo Shadowsocks plugin obfs/v2ray-plugin/gost-plugin/shadow-tls/restls/kcptun support
+1246198|coolsnowwolf|Tue May 5 08:08:57 2026 +0800|luci-app-ssr-plus: add server nodes table list pageable and sortable function
+003e868|coolsnowwolf|Tue May 5 07:34:45 2026 +0800|luci-app-ssr-plus: improve the dns server fallback logic
+e332df7|coolsnowwolf|Mon May 4 22:06:17 2026 +0800|luci-app-ssr-plus: add lyaml dependency as essential for YAML parsing
+4185454|coolsnowwolf|Mon May 4 21:13:41 2026 +0800|luci-app-ssr-plus: restore Game Mode for lan clients
+45bf4c3|coolsnowwolf|Mon May 4 21:02:10 2026 +0800|luci-app-ssr-plus: store mihomo client rules in separate csv file
+53139d4|coolsnowwolf|Mon May 4 20:26:25 2026 +0800|luci-app-ssr-plus: check valid custom policies rules when import to yaml
+d7a1db7|coolsnowwolf|Mon May 4 20:14:36 2026 +0800|luci-app-ssr-plus: prefer ss-rust than mihomo with ss protocol
+aa074b8|coolsnowwolf|Mon May 4 19:40:33 2026 +0800|luci-app-ssr-plus: add save button for subscribe url tables
+26909fc|coolsnowwolf|Mon May 4 18:46:51 2026 +0800|Revert "luci-app-ssr-plus: move ss rust with Obfs / V2ray Plugin / Shadow_TLS and Kcptun to Mihomo Support"
+90475e5|coolsnowwolf|Mon May 4 17:29:36 2026 +0800|luci-app-ssr-plus: add subscribe selection auto-save option
+996fe48|coolsnowwolf|Mon May 4 16:59:55 2026 +0800|luci-app-ssr-plus: revert per subscribe URL update functional
+cce4700|coolsnowwolf|Mon May 4 13:36:40 2026 +0800|luci-app-ssr-plus: improve save subscribe button bahavior
+52e29c6|coolsnowwolf|Mon May 4 13:02:15 2026 +0800|luci-app-ssr-plus: update zh-cn translation
 </details>

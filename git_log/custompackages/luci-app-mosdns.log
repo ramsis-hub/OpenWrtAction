@@ -1,6 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-73aaccf|sbwml|Sun May 3 18:31:30 2026 +0800|luci-app-mosdns: convert code to ES6 style
-</details>

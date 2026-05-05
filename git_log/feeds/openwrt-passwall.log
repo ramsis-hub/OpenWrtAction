@@ -2,9 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9365b3f|David Mandy|Mon May 4 00:12:44 2026 +0800|ci: update dependency versions
-ffea67c|A-BO|Sun May 3 23:39:06 2026 +0800|luci: 26.5.3
-e51dc7f|A-BO|Sun May 3 23:35:36 2026 +0800|luci: support xray freedom `finalRules` (action = allow) (#4352)
-f102b0d|A-BO|Sun May 3 13:55:05 2026 +0800|luci: fix
-8a5adeb|A-BO|Sun May 3 13:29:33 2026 +0800|luci: unified conver of node address to lowercase
+92f72ea|A-BO|Tue May 5 02:30:43 2026 +0800|luci: improve vmess subscribe
+3b97ffe|A-BO|Mon May 4 20:33:45 2026 +0800|luci: optimize
 </details>
