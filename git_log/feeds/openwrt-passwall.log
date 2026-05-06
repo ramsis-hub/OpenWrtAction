@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-92f72ea|A-BO|Tue May 5 02:30:43 2026 +0800|luci: improve vmess subscribe
-3b97ffe|A-BO|Mon May 4 20:33:45 2026 +0800|luci: optimize
+f0343ce|A-BO|Wed May 6 11:32:14 2026 +0800|luci: optimize clash subscribe logic
+a898f36|A-BO|Tue May 5 22:32:45 2026 +0800|luci: optimize xray remote dns
+26003a2|A-BO|Tue May 5 19:49:53 2026 +0800|luci: support clash subscription parsing
 </details>
