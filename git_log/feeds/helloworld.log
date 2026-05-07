@@ -2,15 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-556ed58|coolsnowwolf|Tue May 5 23:13:54 2026 +0800|luci-app-ssr-plus: monitor mihomo ss servers by sid
-51c4351|coolsnowwolf|Tue May 5 20:42:33 2026 +0800|luci-app-ssr-plus: fix first_type candidate to find path
-6243bff|coolsnowwolf|Tue May 5 14:15:06 2026 +0800|luci-app-ssr-plus: improve subscribe through proxy update process
-1209770|coolsnowwolf|Tue May 5 13:34:34 2026 +0800|luci-app-ssr-plus: replace xray-core ss mode with mihomo ss mode with obfs
-38a6aca|coolsnowwolf|Tue May 5 13:16:14 2026 +0800|luci-app-ssr-plus: using mihomo ss mode as fallback when ss rust clinet not exist
-ebeef37|coolsnowwolf|Tue May 5 13:06:47 2026 +0800|luci-app-ssr-plus: check geoip and geosite data files at multiple locations
-eb2e401|coolsnowwolf|Tue May 5 12:50:29 2026 +0800|Revert "luci-app-ssr-plus: remove ChinaDNS NG support"
-65ccfe2|coolsnowwolf|Tue May 5 12:38:14 2026 +0800|luci-app-ssr-plus: trigger reload after pppoe wan up
-256a843|coolsnowwolf|Tue May 5 12:28:48 2026 +0800|luci-app-ssr-plus: display active node running type in status
-4716ff2|coolsnowwolf|Tue May 5 12:03:11 2026 +0800|luci-app-ssr-plus: uniform check_status function
-03eef86|coolsnowwolf|Tue May 5 11:49:12 2026 +0800|luci-app-ssr-plus: improve ssr-switch monitoring logic
+9a4d1ff|coolsnowwolf|Thu May 7 11:04:48 2026 +0800|xray-core: update to 26.5.3
 </details>

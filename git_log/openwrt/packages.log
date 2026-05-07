@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-fc6717da0|Rosen Penev|Thu Jan 29 21:26:43 2026 -0800|ffmpeg: update to 6.1.4
-8c48a7b3b|John Audia|Tue Apr 28 14:35:58 2026 -0400|rsync: update to 3.4.2
-fa03f55fc|Sander van Deijck|Sat May 2 23:31:15 2026 +0200|openvpn: disable wolfssl support
-deef5e5f0|Sander van Deijck|Sat May 2 20:22:11 2026 +0200|openvpn: update to 2.7.4
-</details>
