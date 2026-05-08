@@ -1,0 +1,9 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+81ebb0b3e|Stan Grishin|Mon May 4 03:01:56 2026 +0000|https-dns-proxy: update to 2026.03.18-2
+609846743|Chester A. Unal|Sat May 2 18:56:47 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-05-06
+51fdb917c|Chester A. Unal|Tue May 5 08:58:20 2026 +0100|bsbf-bonding: fix checking if interface is a bridge
+eb041d2fe|Alexandru Ardelean|Tue May 5 09:49:32 2026 +0300|avahi: update to 0.9-rc4
+</details>

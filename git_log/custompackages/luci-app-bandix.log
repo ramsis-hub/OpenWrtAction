@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-app-bandix new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+3ec473f|David Mandy|Thu May 7 23:50:25 2026 +0800|CI: update dependency versions
+c087ffa|stefanlei|Thu May 7 23:23:28 2026 +0800|luci-app-bandix: TC backend/order settings and i18n (v0.12.8)
+</details>

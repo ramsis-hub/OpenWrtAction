@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+236bd27019|Oskari Lemmela|Fri Nov 19 07:36:22 2021 +0200|ath79: add support for MikroTik RouterBOARD 960PGS
+906a8d7f70|Chester A. Unal|Tue Feb 24 15:39:36 2026 +0200|ath79: mikrotik: compile SWCONFIG and AR8216_PHY as modules
+9e7421174c|Sander Schutten|Wed Jan 15 08:38:17 2025 +0000|intel-microcode: fix dirty build
+530366cdfd|Florian Maurer|Wed Apr 15 01:05:45 2026 +0200|wifi-scripts: fix basic_rate mapping in supplicant ucode
+</details>

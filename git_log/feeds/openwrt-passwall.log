@@ -2,12 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bcf377f|A-BO|Thu May 7 09:55:35 2026 +0800|luci: optimize and fixup
-1c4616d|A-BO|Wed May 6 23:16:59 2026 +0800|luci: fix firewall `update_wan_sts` function
-002db09|David Mandy|Wed May 6 21:57:21 2026 +0800|ci: fixes some error
-d7908a1|David Mandy|Wed May 6 21:55:03 2026 +0800|ci: fixed some error
-d0cf6f9|David Mandy|Wed May 6 21:52:49 2026 +0800|ci: add auto close spam issue and prs action
-5362e18|David Mandy|Wed May 6 21:32:38 2026 +0800|ci: automated spam Issues
-6613409|A-BO|Wed May 6 17:20:44 2026 +0800|luci: optimize domain `blackhole` logic for xray shunt rule
-5cdbf10|A-BO|Wed May 6 15:40:31 2026 +0800|luci: modify the default value of tuic alpn
+20eb1a7|A-BO|Thu May 7 22:20:41 2026 +0800|luci: rename xray inbounds' `clients/accounts` to `users` > 26.5.3
+1ff731b|A-BO|Thu May 7 14:04:00 2026 +0800|luci: add haproxy version check
 </details>
