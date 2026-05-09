@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-bandix new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-1dce6f0|David Mandy|Thu May 7 23:50:40 2026 +0800|CI: update dependency versions
-318d680|stefanlei|Thu May 7 23:06:01 2026 +0800|chore: bump bandix to 0.12.9 and wire TC order/backend UCI
-</details>

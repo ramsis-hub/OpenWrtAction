@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-53f59f0aac|coolsnowwolf|Thu May 7 23:21:33 2026 +0800|luci-app-openvpn-server: fix co-work with openvpnc protocal
+a3ac471c96|coolsnowwolf|Fri May 8 22:56:18 2026 +0800|luci-app-firewall: add bbr option for fw3/fw4
+1cf9e2dfb2|coolsnowwolf|Fri May 8 14:44:39 2026 +0800|luci-theme-design: refresh wireless menu
+9b2d532377|coolsnowwolf|Fri May 8 14:22:01 2026 +0800|luci-theme-design: add compatie with dockerman
+f4cca3b71c|coolsnowwolf|Fri May 8 14:13:16 2026 +0800|luci-app-dockerman: add dockerd 29.1 support
+6bd7e2670e|coolsnowwolf|Fri May 8 13:21:35 2026 +0800|luci-theme-design: auto refresh cache after new luci app installed
 </details>

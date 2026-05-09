@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-20eb1a7|A-BO|Thu May 7 22:20:41 2026 +0800|luci: rename xray inbounds' `clients/accounts` to `users` > 26.5.3
-1ff731b|A-BO|Thu May 7 14:04:00 2026 +0800|luci: add haproxy version check
+49b171e|A-BO|Sat May 9 13:02:31 2026 +0800|Revert "luci: rename xray inbounds' `clients/accounts` to `users` > 26.5.3"
+1ed88d1|A-BO|Sat May 9 12:59:51 2026 +0800|luci: optimize the logic of adding fakeip rule in the firewall
+f1bf89b|A-BO|Sat May 9 00:44:55 2026 +0800|luci: remove tuic-client
+a2ae3aa|A-BO|Fri May 8 22:37:05 2026 +0800|luci: remove trojan-plus
 </details>
