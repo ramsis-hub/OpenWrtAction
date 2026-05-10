@@ -2,9 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0bcdcf67d7|Dmitry Mostovoy|Mon Feb 9 11:43:41 2026 -0500|mediatek: add cudy wr3000h-v1 ubootmod
-194bd76e57|Dmitry Mostovoy|Mon Feb 9 04:52:38 2026 -0500|mediatek: add cudy wr3000e-v1 ubootmod
-8afab079a5|Dmitry Mostovoy|Mon Feb 9 04:52:03 2026 -0500|mediatek: add cudy wr3000s-v1 ubootmod
-ddba80d21c|Dmitry Mostovoy|Mon Feb 9 04:51:31 2026 -0500|mediatek: add cudy wr3000p-v1 ubootmod
-79359ffe47|Dmitry Mostovoy|Mon Feb 9 04:51:15 2026 -0500|arm-trusted-firmware-mediatek: add Cudy DDR4 target
+e850a972b5|Hauke Mehrtens|Thu Apr 30 21:42:43 2026 +0200|mac80211: bump to version 6.18.26
 </details>

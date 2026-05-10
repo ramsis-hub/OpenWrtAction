@@ -2,11 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9a2923e|David Mandy|Sat May 9 03:54:45 2026 +0800|ci: fixes some error
-b8fa3e8|David Mandy|Sat May 9 03:15:32 2026 +0800|ci: auto compilation testing bump to v2 (#643)
-717e3a9|github-actions[bot]|Sat May 9 02:47:42 2026 +0800|naiveproxy: update to 148.0.7778.96-2 (#642)
-e36a916|github-actions[bot]|Sat May 9 02:47:31 2026 +0800|v2ray-geoip: update to 202605070042 (#640)
-fe9f3d3|github-actions[bot]|Sat May 9 02:47:13 2026 +0800|v2ray-geosite: update to 202605072256 (#641)
-4c614fd|David Mandy|Sat May 9 02:43:14 2026 +0800|ci: auto update package bump to v3 (#639)
-e79d5ae|A-BO|Fri May 8 21:34:59 2026 +0800|geoview: update to 0.2.6
+eda4d28|David Mandy|Sun May 10 02:17:35 2026 +0800|v2ray-geosite: update to 202605082251 (#645)
+21e2df6|David Mandy|Sun May 10 02:09:07 2026 +0800|ci: refactor Auto compilation testing workflow
 </details>
