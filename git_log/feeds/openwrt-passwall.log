@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-016a941|A-BO|Sat May 9 18:09:32 2026 +0800|luci: optimize xray balancing fallback node loop detection
-15f7c1f|A-BO|Sat May 9 13:43:01 2026 +0800|luci: optimize the logic of xray balancing fallback
-</details>

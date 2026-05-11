@@ -1,7 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-948dab4|coolsnowwolf|Sat May 9 16:18:36 2026 +0800|luci-app-ssr-plus: select default ChinaDNS-NG dns server for domestic and foreign
-57c7c3e|coolsnowwolf|Sat May 9 16:00:51 2026 +0800|luci-app-ssr-plus: add multi thread running mode for ipt2socks socks5 mode
-</details>
