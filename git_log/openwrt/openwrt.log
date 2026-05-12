@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+80f009766f|Robert Marko|Mon May 11 10:49:09 2026 +0200|microchipsw: fix LAN8814 QSGMII soft reset
+7044345016|Mikhail Zhilkin|Tue Apr 7 19:53:33 2026 +0300|mediatek: cudy nand: fix wrong nmbm configuration
+</details>
