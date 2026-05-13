@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7afed0c|A-BO|Tue May 12 11:32:56 2026 +0800|luci: optimize subscribe
-32ac46d|A-BO|Mon May 11 20:58:48 2026 +0800|luci: bump to 26.5.11
-9f70c20|A-BO|Mon May 11 20:29:37 2026 +0800|luci: optimize log related
-</details>
