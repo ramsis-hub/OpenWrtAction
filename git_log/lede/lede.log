@@ -1,7 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-b227398e1|coolsnowwolf|Tue May 12 12:28:31 2026 +0800|kernel: bump 6.18 to 6.18.29
-a5fecc2b6|coolsnowwolf|Tue May 12 12:22:12 2026 +0800|kernel: enable CONFIG_NETFILTER_XTABLES_LEGACY for kernel 6.18
-</details>

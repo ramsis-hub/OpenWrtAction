@@ -1,7 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0c24dfa|zxl hhyccc|Tue May 12 23:36:20 2026 +0800|Merge pull request #1951 from zxlhhyccc/path
-bdde946|zxlhhyccc|Tue May 12 21:27:41 2026 +0800|luci-app-ssr-plus: Delete node auto save without restart service.
-</details>

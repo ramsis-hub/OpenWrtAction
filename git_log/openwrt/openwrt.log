@@ -2,7 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-99211b26fb|Hannu Nyman|Tue May 12 22:56:36 2026 +0300|dnsmasq: apply six CVE-fix upstream patches to 2.91
-56d87f25a2|John Audia|Fri May 8 05:06:41 2026 -0400|kernel: bump 6.12 to 6.12.87
-a9e851a0d0|John Audia|Thu May 7 07:52:08 2026 -0400|kernel: bump 6.12 to 6.12.86
+2b06da1589|Hauke Mehrtens|Thu May 14 00:58:17 2026 +0200|OpenWrt v25.12.4: revert to branch defaults
+ba915c2ee7|Hauke Mehrtens|Thu May 14 00:58:13 2026 +0200|OpenWrt v25.12.4: adjust config defaults
+4ccb782af7|Tomasz Maciej Nowak|Mon May 4 19:48:41 2026 +0200|ath79: wlr-7100: move to tiny target
+955f2a74d8|Tomasz Maciej Nowak|Mon May 4 19:48:40 2026 +0200|ath79: wlr-7100: wire up 5GHz WLAN LED
+510cf47386|Tomasz Maciej Nowak|Mon May 4 19:48:39 2026 +0200|ath79: wlr-7100: fix MAC assignment
+ca43162854|Tomasz Maciej Nowak|Thu Mar 12 20:45:58 2026 +0100|ipq40xx: wr-1: fix WLAN LEDs labels
 </details>
