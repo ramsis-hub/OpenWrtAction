@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ce003cc|A-BO|Fri May 15 10:16:19 2026 +0800|luci: update readme.md
-2dc8555|A-BO|Thu May 14 20:41:57 2026 +0800|luci: optimize and fixup
-a1f9927|A-BO|Thu May 14 19:38:41 2026 +0800|luci: add edit button for homepage shunt rule node
-</details>

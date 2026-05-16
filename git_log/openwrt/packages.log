@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9bb8d0994|Daniel Golle|Fri May 8 18:20:23 2026 +0100|libb64: update to 2.0.0.1
-72b2296d6|Daniel Golle|Fri May 8 18:50:24 2026 +0100|transmission: update to 4.1.1
-cece7c883|Josef Schlehofer|Sun May 10 09:15:34 2026 +0200|flup: remove the package
+961f82698|Yanase Yuki|Fri May 15 16:57:04 2026 +0900|kcptun: remove package
+124faa398|Yanase Yuki|Fri May 15 16:45:14 2026 +0900|udp-broadcast-relay-redux: remove package
 </details>

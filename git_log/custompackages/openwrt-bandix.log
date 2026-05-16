@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-42d8624|David Mandy|Fri May 15 01:00:21 2026 +0800|ci: optimize code (#13)
+fc2ba97|David Mandy|Fri May 15 23:02:44 2026 +0800|update makefile pkg_hash value
 </details>
