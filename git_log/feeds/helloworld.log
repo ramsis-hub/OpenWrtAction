@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1fd8908|zxl hhyccc|Fri May 15 23:10:33 2026 +0800|Merge pull request #1959 from zxlhhyccc/path
-32df4f7|zxlhhyccc|Fri May 15 23:05:17 2026 +0800|luci-app-ssr-plus: Organize translation.
+b82ff5e|coolsnowwolf|Sat May 16 13:04:14 2026 +0800|luci-app-ssr-plus: using ChinaDNS-ng instead of mosdns for x86/arm by default
 </details>

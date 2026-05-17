@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+4b225d8|A-BO|Sat May 16 19:17:35 2026 +0800|luci: support hysteria2 realms (hysteria core)
+f1dfc0c|A-BO|Sat May 16 17:10:21 2026 +0800|luci: skip tls `fragment` for sing-box naive
+65b9f4b|A-BO|Sat May 16 13:35:47 2026 +0800|luci: unify hy2 obfs field name and optimize ui
+76e2e42|A-BO|Sat May 16 11:54:33 2026 +0800|luci: add quic config option for sing-box hy2 (>= 1.14 effectuate)
+</details>

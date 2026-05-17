@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-219d8cf|Eamon|Sat May 16 02:13:29 2026 +0800|feat: add configurable border radius (v0.11.7)
-fc44ead|Eamon|Sat May 16 01:31:04 2026 +0800|feat: add view enter animation and update README
+bbd6eee|Eamon|Sun May 17 03:34:38 2026 +0800|feat: redesign login aurora with dedicated color tokens
+25044fa|Eamon|Sun May 17 03:10:18 2026 +0800|perf: fix aurora compositing and remove login card animation
+3a2002a|Eamon|Sun May 17 02:49:48 2026 +0800|feat: add animated aurora background to login page
+107161e|Eamon|Sun May 17 01:27:31 2026 +0800|perf: rewrite login page for zero-repaint focus interactions
 </details>
