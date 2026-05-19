@@ -1,0 +1,8 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+db195eb|David Mandy|Mon May 18 21:00:09 2026 +0800|tuic-client: update to 1.8.2 (#659)
+cb8cced|A-BO|Mon May 18 15:21:10 2026 +0800|Revert "haproxy: add package"
+64bc5a6|A-BO|Mon May 18 15:21:02 2026 +0800|Revert "haproxy: update to 3.2.19"
+</details>

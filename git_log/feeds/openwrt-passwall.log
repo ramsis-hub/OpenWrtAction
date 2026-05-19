@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ef1ceaaf|A-BO|Mon May 18 09:27:48 2026 +0800|luci: optimize
-8a9b5569|A-BO|Sun May 17 18:36:31 2026 +0800|luci: remove shadowsocks-libev
-b8fbe130|A-BO|Sun May 17 17:02:17 2026 +0800|luci: support hysteria2 realms for sing-box (>= 1.14 effectuate)
-fc2bd9d4|A-BO|Sat May 16 19:17:35 2026 +0800|luci: support hysteria2 realms (hysteria core)
-4b225d84|A-BO|Sat May 16 19:17:35 2026 +0800|luci: support hysteria2 realms (hysteria core)
+241c414|A-BO|Tue May 19 02:13:41 2026 +0800|luci: fix hy(2) hop related issues
+080a748|A-BO|Mon May 18 21:32:28 2026 +0800|luci: add `tolerance` setting for xray balancer leastload
+08bab43|A-BO|Mon May 18 15:24:57 2026 +0800|luci: update readme.md
 </details>

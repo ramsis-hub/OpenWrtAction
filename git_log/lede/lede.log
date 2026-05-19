@@ -1,8 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6a3eb6461|coolsnowwolf|Sun May 17 16:08:16 2026 +0800|rpcd: backport ucode fix
-b0c655430|coolsnowwolf|Sun May 17 15:56:01 2026 +0800|Version Update to R26.05.20
-a10beb3e7|coolsnowwolf|Sun May 17 15:54:22 2026 +0800|kernel: bump all to latest HEAD
-</details>
