@@ -2,5 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1064188e0|Dirk Brenken|Mon May 18 23:21:19 2026 +0200|banip: update 1.8.8-4
+191f5bf9c|Tianling Shen|Tue May 19 10:59:49 2026 +0800|v2ray-core: Update to 5.49.0
+6ea2f8cbf|Tianling Shen|Tue May 19 10:59:24 2026 +0800|v2ray-geodata: Update to latest version
+5fa8daa91|Tianling Shen|Sat May 9 11:53:05 2026 +0800|openlist: Update to 4.2.1
+e2bd03bff|Tianling Shen|Sat May 9 11:47:19 2026 +0800|btop: Update to 1.4.7
+587253b2e|Tianling Shen|Sat May 9 11:34:18 2026 +0800|dnsproxy: Update to 0.81.3
+94f18590e|Tianling Shen|Sat May 9 11:32:47 2026 +0800|v2ray-core: Update to 5.48.0
+4be4f059c|Tianling Shen|Sat May 9 11:32:23 2026 +0800|yq: Update to 4.53.2
+e68effbd4|Tianling Shen|Sat May 9 10:57:17 2026 +0800|dufs: Update to 0.46.0
+344253c73|Tianling Shen|Sat May 9 10:56:48 2026 +0800|rclone: Update to 1.74.1
+6bf3680ec|Tianling Shen|Sat May 9 10:56:09 2026 +0800|v2ray-geodata: update to latest version
+df9bfef80|Tianling Shen|Sat May 9 10:55:47 2026 +0800|dos2unix: Update to 7.5.5
 </details>

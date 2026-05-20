@@ -2,7 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-241c414|A-BO|Tue May 19 02:13:41 2026 +0800|luci: fix hy(2) hop related issues
-080a748|A-BO|Mon May 18 21:32:28 2026 +0800|luci: add `tolerance` setting for xray balancer leastload
-08bab43|A-BO|Mon May 18 15:24:57 2026 +0800|luci: update readme.md
+0ce6d79b|A-BO|Wed May 20 11:53:02 2026 +0800|luci: optimize network interface setting
+6634ded8|A-BO|Tue May 19 22:36:55 2026 +0800|luci: shorten set names
+5cb8fd4d|A-BO|Tue May 19 20:23:47 2026 +0800|luci: optimize node outbound interface setting
+b1db1e47|A-BO|Tue May 19 17:39:40 2026 +0800|luci: Xray node add outbound interface option
+36876c36|A-BO|Tue May 19 13:31:56 2026 +0800|luci: Sing-Box node add outbound interface option
+48e35628|A-BO|Tue May 19 13:03:05 2026 +0800|luci: fix
 </details>
