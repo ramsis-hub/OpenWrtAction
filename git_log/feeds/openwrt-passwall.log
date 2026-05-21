@@ -2,10 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0ce6d79b|A-BO|Wed May 20 11:53:02 2026 +0800|luci: optimize network interface setting
-6634ded8|A-BO|Tue May 19 22:36:55 2026 +0800|luci: shorten set names
-5cb8fd4d|A-BO|Tue May 19 20:23:47 2026 +0800|luci: optimize node outbound interface setting
-b1db1e47|A-BO|Tue May 19 17:39:40 2026 +0800|luci: Xray node add outbound interface option
-36876c36|A-BO|Tue May 19 13:31:56 2026 +0800|luci: Sing-Box node add outbound interface option
-48e35628|A-BO|Tue May 19 13:03:05 2026 +0800|luci: fix
+fb4c198a|A-BO|Thu May 21 00:59:12 2026 +0800|luci: add hysteria(2) default bandwidth value for subscribe
+47ec87c4|A-BO|Thu May 21 00:33:40 2026 +0800|luci: exclude illegal node ip
+d9373af2|A-BO|Wed May 20 15:37:54 2026 +0800|luci: 26.5.20
 </details>

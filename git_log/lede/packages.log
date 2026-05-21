@@ -1,0 +1,9 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+fdfa8d0d|coolsnowwolf|Thu May 21 11:55:34 2026 +0800|Merge pull request #1104 from Internet1235/miniupnpc
+f585588e|coolsnowwolf|Thu May 21 11:55:16 2026 +0800|Merge pull request #1108 from smallprogram/master
+07c9bb5a|David Mandy|Tue May 12 21:48:43 2026 +0800|banip: bump version to 1.8.8 Signed-off-by: David Mandy <smallprogramzhusir@gmail.com>
+1a8f6302|Internet1235|Wed May 6 12:53:33 2026 +0800|miniupnpc: bump to 2.3.3
+</details>

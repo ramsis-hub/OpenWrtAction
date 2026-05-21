@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+42ea240132|Andrii Kuiukoff|Mon Apr 13 20:45:55 2026 +0300|uboot-mediatek: comfast cf-wr632ax: reduce ram speed to 1866 MT/s
+c01dc9c0fe|Andrii Kuiukoff|Sun May 17 13:50:06 2026 +0300|uboot-mediatek: comfast cf-wr632ax: sync with the main DTS
+</details>

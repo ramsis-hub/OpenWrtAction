@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-639cd5f41|Internet1235|Sun May 17 22:27:08 2026 +0800|kernel: bump 6.x to latest
+f198fbd98|Internet1235|Thu May 21 11:53:32 2026 +0800|kernel: bump 6.18 to 6.18.32 (#14026)
+bfbb7bef9|Miles Poupart|Wed May 20 18:00:07 2026 +0800|kernel: bump 6.12 to 6.12.90
 </details>
