@@ -2,6 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-643dda4|coolsnowwolf|Thu May 21 09:45:53 2026 +0800|Merge pull request #1950 from taowazi007/dev
-d7d2dc2|taowazi|Mon May 11 12:01:44 2026 +0800|feat(luci-app-ssr-plus): add Xray server support (VMess/VLESS/Trojan/Shadowsocks)
+aa1e400|zxl hhyccc|Thu May 21 23:13:49 2026 +0800|Merge pull request #1970 from zxlhhyccc/path
+958ac1c|zxlhhyccc|Thu May 21 23:12:13 2026 +0800|luci-app-ssr-plus: Fix `Xray ss` node import.
+bd5c834|zxl hhyccc|Thu May 21 23:00:32 2026 +0800|Merge pull request #1969 from zxlhhyccc/path
+1232e08|zxlhhyccc|Thu May 21 22:58:05 2026 +0800|luci-app-ssr-plus: When adding the upload configuration, delete the MD5.
+73f6121|zxl hhyccc|Thu May 21 22:54:57 2026 +0800|Merge pull request #1968 from zxlhhyccc/path
+d637e1a|zxlhhyccc|Thu May 21 22:47:28 2026 +0800|luci-app-ssr-plus: Fix and optimize apply/reapply.
+7681e78|zxl hhyccc|Thu May 21 22:31:54 2026 +0800|Merge pull request #1967 from zxlhhyccc/path
+e732a32|zxlhhyccc|Thu May 21 22:24:14 2026 +0800|luci-app-ssr-plus: Fix and optimize subscribe.
 </details>

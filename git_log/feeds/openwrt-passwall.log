@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fb4c198a|A-BO|Thu May 21 00:59:12 2026 +0800|luci: add hysteria(2) default bandwidth value for subscribe
-47ec87c4|A-BO|Thu May 21 00:33:40 2026 +0800|luci: exclude illegal node ip
-d9373af2|A-BO|Wed May 20 15:37:54 2026 +0800|luci: 26.5.20
+cf6991ef|A-BO|Fri May 22 11:26:12 2026 +0800|luci: optimize smartdns status display
 </details>

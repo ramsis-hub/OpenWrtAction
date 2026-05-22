@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-42ea240132|Andrii Kuiukoff|Mon Apr 13 20:45:55 2026 +0300|uboot-mediatek: comfast cf-wr632ax: reduce ram speed to 1866 MT/s
-c01dc9c0fe|Andrii Kuiukoff|Sun May 17 13:50:06 2026 +0300|uboot-mediatek: comfast cf-wr632ax: sync with the main DTS
+8dff4c9a34|Christian Marangi|Tue Apr 28 20:09:03 2026 +0200|airoha: backport net upstream fixes
 </details>
