@@ -1,7 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0753a0c36|Qingfang Deng|Sat May 16 21:31:40 2026 +0800|kernel: update pppoe patch
-f198fbd98|Internet1235|Thu May 21 11:53:32 2026 +0800|kernel: bump 6.18 to 6.18.32 (#14026)
-</details>

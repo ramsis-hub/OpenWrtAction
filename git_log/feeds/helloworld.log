@@ -2,12 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aa1e400|zxl hhyccc|Thu May 21 23:13:49 2026 +0800|Merge pull request #1970 from zxlhhyccc/path
-958ac1c|zxlhhyccc|Thu May 21 23:12:13 2026 +0800|luci-app-ssr-plus: Fix `Xray ss` node import.
-bd5c834|zxl hhyccc|Thu May 21 23:00:32 2026 +0800|Merge pull request #1969 from zxlhhyccc/path
-1232e08|zxlhhyccc|Thu May 21 22:58:05 2026 +0800|luci-app-ssr-plus: When adding the upload configuration, delete the MD5.
-73f6121|zxl hhyccc|Thu May 21 22:54:57 2026 +0800|Merge pull request #1968 from zxlhhyccc/path
-d637e1a|zxlhhyccc|Thu May 21 22:47:28 2026 +0800|luci-app-ssr-plus: Fix and optimize apply/reapply.
-7681e78|zxl hhyccc|Thu May 21 22:31:54 2026 +0800|Merge pull request #1967 from zxlhhyccc/path
-e732a32|zxlhhyccc|Thu May 21 22:24:14 2026 +0800|luci-app-ssr-plus: Fix and optimize subscribe.
+75b0644|zxl hhyccc|Fri May 22 23:00:28 2026 +0800|Merge pull request #1974 from zxlhhyccc/path
+dffaf8e|zxlhhyccc|Fri May 22 22:58:22 2026 +0800|luci-app-ssr-plus: Ping value is displayed as an integer.
+0ee6df8|zxl hhyccc|Fri May 22 22:36:27 2026 +0800|Merge pull request #1973 from zxlhhyccc/path
+c8b08aa|zxlhhyccc|Fri May 22 22:33:47 2026 +0800|luci-app-ssr-plus: Optimize the subscribe link function
+3d906e2|zxl hhyccc|Fri May 22 21:25:31 2026 +0800|Merge pull request #1972 from zxlhhyccc/path
+cfada3e|zxlhhyccc|Fri May 22 21:17:47 2026 +0800|luci-app-ssr-plus: Optimize the code for node and subscribe link migration.
 </details>
