@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aedf3dc|Eamon|Sat May 23 08:49:34 2026 +0800|refactor: split main.css into per-layer partial files
+837677f|Eamon|Sat May 23 14:26:29 2026 +0800|docs: increase logo-lockup display width to 360
+84054ff|Eamon|Sat May 23 14:24:32 2026 +0800|docs: increase logo-lockup display width to 280
+839fe26|Eamon|Sat May 23 14:23:10 2026 +0800|docs: replace logo + h1 header with logo-lockup image
 </details>

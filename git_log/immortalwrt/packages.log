@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b68d78d6a|Tianling Shen|Sat May 23 17:22:18 2026 +0800|Merge Official Source
+66ab3f772|Alexandru Ardelean|Sun May 10 12:05:25 2026 +0300|fatresize: fix PKG_MIRROR_HASH after .gitattributes change
+decd737cf|Josef Schlehofer|Tue May 5 09:17:26 2026 +0200|gots_engine: fix PKG_MIRROR_HASH
+</details>
