@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-837677f|Eamon|Sat May 23 14:26:29 2026 +0800|docs: increase logo-lockup display width to 360
-84054ff|Eamon|Sat May 23 14:24:32 2026 +0800|docs: increase logo-lockup display width to 280
-839fe26|Eamon|Sat May 23 14:23:10 2026 +0800|docs: replace logo + h1 header with logo-lockup image
+2b51a01|Eamon|Mon May 25 00:42:45 2026 +0800|feat: login custom background + transition perf refactor
 </details>

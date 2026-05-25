@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-808a6e5|KawaiiHachimi|Sat May 23 23:42:35 2026 +0800|material3: refine text position in cbi-tabmenu
+18bd0e6|cool|Sun May 24 17:37:10 2026 +0800|material3: prevent iOS double-tap zoom
+92766da|cool|Sun May 24 17:35:55 2026 +0800|material3: adjust mobile dropdown width
 </details>
