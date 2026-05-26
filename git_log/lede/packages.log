@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-287523205|Tianling Shen|Sat May 23 17:24:22 2026 +0800|netopeer2: fix build with libopenssl
+fb217116|coolsnowwolf|Mon May 25 18:31:08 2026 +0800|vlmcsd: install vlmcsd.config by default
 </details>

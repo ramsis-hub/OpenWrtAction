@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-be990eaca|Dee HY|Sun May 24 18:00:02 2026 +0800|kernel: add hwmon-corsair-cpro
+aa71d6a91|Miles Poupart|Mon May 25 18:20:01 2026 +0800|kernel: bump 6.12 to 6.12.91
+7800cc78d|Internet1235|Mon May 25 18:18:01 2026 +0800|kernel: bump 6.18 to 6.18.33
 </details>

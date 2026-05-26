@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a701807e2e|Tianling Shen|Mon May 25 10:35:11 2026 +0800|Merge Official Source
-74927c2cea|Hannu Nyman|Sat May 23 10:06:53 2026 +0300|treewide: backport translations and sync
-854f702961|Dirk Brenken|Fri May 22 20:48:28 2026 +0200|luci-app-travelmate: update 2.4.5-3
+4c9442e7a0|Interesting Gang|Tue May 5 10:50:57 2026 +0800|luci-app-passwall: bump to 26.5.20
 </details>

@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+012fc3fc3f|Mario Andrés Pérez|Mon Apr 27 21:32:14 2026 +0200|luci-app-package-manager: handle versioned provides from apk query
+51477ec783|Christian Korber|Fri May 22 12:03:46 2026 +0200|luci-app-firewall: keep enabled on cloning
+e429d2c307|Christian Korber|Fri May 22 12:00:27 2026 +0200|luci-base: keep not yet rendered clone elements
+2f8e9fdcce|Christian Korber|Thu May 21 16:20:18 2026 +0200|luci-base: fix order of clone bug
+</details>
