@@ -3,7 +3,6 @@
 # DIY Part 2: Post-feed customizations (after feeds install)
 # Minimal build for NanoPi R2S
 #
-
 echo "====== DIY Part 2: Post-Feed Customization ======"
 
 # ---------------------------------------------------------
@@ -32,45 +31,55 @@ cp -rf temp_golang/lang/golang feeds/packages/lang/
 rm -rf temp_golang
 
 # ---------------------------------------------------------
-# 4. Re-install feeds to pick up changes
+# 4. Re-install feeds to pick up golang change
 # ---------------------------------------------------------
 ./scripts/feeds update -a
 ./scripts/feeds install -a
 
 # ---------------------------------------------------------
-# 5. Auto-expand rootfs to fill entire SD card on first boot
+# 5. Auto-expand overlay to fill entire SD card on first boot
+#    Works with SquashFS + ext4 overlay (preserves factory reset)
 # ---------------------------------------------------------
 mkdir -p files/etc/uci-defaults
 cat << 'EXPAND_EOF' > files/etc/uci-defaults/30-auto-expand-rootfs
 #!/bin/sh
-#
-# Auto-expand root partition and filesystem to fill SD card
-# Runs once on first boot, then self-deletes
-#
+# Auto-expand overlay to fill SD card (SquashFS + ext4 overlay)
+# Runs once on first boot via uci-defaults, then self-deletes
 
-ROOT_DEV=$(lsblk -npo PKNAME "$(findmnt -nfo SOURCE /)" 2>/dev/null)
-ROOT_PART=$(findmnt -nfo SOURCE / 2>/dev/null)
-PART_NUM=$(echo "$ROOT_PART" | grep -oE '[0-9]+$')
+LOG_TAG="expand-rootfs"
 
-if [ -z "$ROOT_DEV" ] || [ -z "$PART_NUM" ]; then
-    logger -t expand-rootfs "Could not detect root device, skipping expansion"
-    exit 0
+# 1. Find the overlay device
+OVERLAY_DEV=$(block info 2>/dev/null | grep 'MOUNT="/overlay"' | cut -d: -f1)
+if [ -z "$OVERLAY_DEV" ]; then
+    # fallback: standard OpenWrt squashfs layout
+    OVERLAY_DEV="/dev/loop0"
 fi
 
-logger -t expand-rootfs "Expanding ${ROOT_PART} on ${ROOT_DEV} partition ${PART_NUM}"
+# 2. Find the underlying partition (p2 on SD card)
+ROOT_PART=$(awk '$2 == "/rom" {print $1; exit}' /proc/mounts)
+if [ -z "$ROOT_PART" ]; then
+    # fallback for mmcblk devices
+    ROOT_PART="/dev/mmcblk0p2"
+fi
 
-# Expand partition to use all remaining space
-echo "- +" | sfdisk --no-reread -N "$PART_NUM" "$ROOT_DEV" 2>/dev/null || \
-    parted -s "$ROOT_DEV" resizepart "$PART_NUM" 100% 2>/dev/null
+DISK=$(echo "$ROOT_PART" | sed 's/p[0-9]*$//')
+PART_NUM=$(echo "$ROOT_PART" | grep -oE '[0-9]+$')
 
-# Force kernel to re-read partition table
-partx -u "$ROOT_DEV" 2>/dev/null || partprobe "$ROOT_DEV" 2>/dev/null
+logger -t "$LOG_TAG" "Overlay=$OVERLAY_DEV, Partition=$ROOT_PART, Disk=$DISK, PartNum=$PART_NUM"
 
-# Resize the ext4 filesystem
-resize2fs "$ROOT_PART" 2>/dev/null
+# 3. Expand the partition to fill all remaining space
+parted -s "$DISK" resizepart "$PART_NUM" 100% 2>&1 | logger -t "$LOG_TAG"
 
-logger -t expand-rootfs "Root filesystem expanded successfully"
+# 4. Re-read partition table
+partx -u "$DISK" 2>/dev/null || partprobe "$DISK" 2>/dev/null
 
+# 5. Update loop device to see new partition size
+losetup -c "$OVERLAY_DEV" 2>&1 | logger -t "$LOG_TAG"
+
+# 6. Resize the ext4 overlay filesystem
+resize2fs "$OVERLAY_DEV" 2>&1 | logger -t "$LOG_TAG"
+
+logger -t "$LOG_TAG" "Overlay expanded successfully"
 exit 0
 EXPAND_EOF
 chmod +x files/etc/uci-defaults/30-auto-expand-rootfs
