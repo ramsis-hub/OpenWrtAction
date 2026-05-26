@@ -2,7 +2,6 @@
 # Minimized Build: ImmortalWrt + NanoPi R2S + OpenClash
 # Based on smallprogram/OpenWrtAction (MIT License)
 #
-
 name: Build-R2S-OpenClash
 
 on:
@@ -27,12 +26,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Build-ImmortalWrt-R2S
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Initialization Environment
         env:
@@ -42,7 +40,6 @@ jobs:
           sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc \
             /usr/local/share/boost /usr/share/swift
           sudo docker image prune --all --force 2>/dev/null || true
-
           sudo -E apt-get -qq update
           sudo -E apt-get -qq install ack antlr3 asciidoc autoconf automake \
             autopoint binutils bison build-essential bzip2 ccache clang cmake \
@@ -58,7 +55,6 @@ jobs:
             vim wget xmlto xxd zlib1g-dev zstd
           sudo -E apt-get -qq autoremove --purge
           sudo -E apt-get -qq clean
-
           sudo timedatectl set-timezone "$TZ"
           sudo mkdir -p /workdir
           sudo chown -R $USER:$GROUPS /workdir
@@ -87,13 +83,14 @@ jobs:
           chmod +x $DIY_P2_SH
           cd openwrt
           $GITHUB_WORKSPACE/$DIY_P2_SH
-          # Re-install feeds after part2 modifications
-          ./scripts/feeds update -a
-          ./scripts/feeds install -a
 
       - name: Apply .config
         run: |
-          [ -e $CONFIG_FILE ] && cp -f $CONFIG_FILE openwrt/.config
+          if [ ! -e "$CONFIG_FILE" ]; then
+            echo "::error::Config file $CONFIG_FILE not found!"
+            exit 1
+          fi
+          cp -f "$CONFIG_FILE" openwrt/.config
           cd openwrt
           make defconfig
 
@@ -159,4 +156,6 @@ jobs:
             - **Key Package:** OpenClash (with Mihomo/Meta core)
             - **Default IP:** 192.168.1.1
             - **Default Login:** root (no password)
+            - **Auto-expand:** Overlay auto-expands to fill SD card on first boot
+            - **Factory Reset:** Supported (SquashFS base preserved)
           files: ${{ steps.organize.outputs.FIRMWARE }}/*
