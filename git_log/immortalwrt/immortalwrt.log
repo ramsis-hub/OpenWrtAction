@@ -1,9 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-b08a7ebf15|Tianling Shen|Mon May 25 16:08:18 2026 +0800|aic8800: fix export symbols conflict in usb driver
-31a887c519|Tianling Shen|Fri May 22 14:33:03 2026 +0800|aic8800: fix pcie/usb driver build for mips
-eb61b4c7e9|Tianling Shen|Thu May 21 17:21:18 2026 +0800|aic8800: fix build with mips
-139026dc11|Tianling Shen|Wed Mar 18 09:56:04 2026 +0800|aic8800: Update to V5.0_2026_0123_5f7be68d
-</details>

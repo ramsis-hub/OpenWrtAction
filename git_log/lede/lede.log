@@ -1,7 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-aa71d6a91|Miles Poupart|Mon May 25 18:20:01 2026 +0800|kernel: bump 6.12 to 6.12.91
-7800cc78d|Internet1235|Mon May 25 18:18:01 2026 +0800|kernel: bump 6.18 to 6.18.33
-</details>

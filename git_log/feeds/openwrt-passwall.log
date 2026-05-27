@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b09a1abc|A-BO|Mon May 25 20:57:57 2026 +0800|luci: support hy2 `gecko` obfs for hysteria2 and sing-box
-74fdbf14|A-BO|Mon May 25 12:57:02 2026 +0800|luci: optimize anytls subscribe
+f82dada6|A-BO|Tue May 26 18:39:53 2026 +0800|luci: optimize
+be9939c8|A-BO|Tue May 26 18:19:34 2026 +0800|luci: optimize subscribe
+99b33dfa|A-BO|Tue May 26 17:39:39 2026 +0800|luci: fix `UrlEncode/UrlDecode` function in api
 </details>
