@@ -1,9 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0cf1cf2|zxl hhyccc|Tue May 26 23:44:58 2026 +0800|Merge pull request #1978 from zxlhhyccc/path
-16e99c5|zxlhhyccc|Tue May 26 23:38:00 2026 +0800|luci-app-ssr-plus: Fix the issue when manual add node SID are not continuous.
-bf885d4|zxl hhyccc|Tue May 26 23:36:49 2026 +0800|Merge pull request #1977 from zxlhhyccc/path
-08ab0cb|zxlhhyccc|Tue May 26 23:02:36 2026 +0800|luci-app-ssr-plus: Fix display issues of the mobile version of the subscribe list.
-</details>
