@@ -1,0 +1,23 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+3342d2b7|vernesong|Sat May 30 09:45:15 2026 +0800|Merge branch 'dev'
+56a42c03|vernesong|Sat May 30 09:31:23 2026 +0800|0.47.096
+1940fc61|vernesong|Mon May 25 10:12:07 2026 +0800|workflow: update compile action
+c9d10d9c|vernesong|Sun May 24 14:51:28 2026 +0800|Merge branch 'master' into dev
+e39a1e61|vernesong|Sun May 24 09:55:18 2026 +0800|workflow: update compile action
+3eada425|vernesong|Sun May 24 02:42:30 2026 +0800|fix: #5149
+c64a8942|vernesong|Thu May 21 08:15:43 2026 +0800|0.47.095
+58c195fa|kangtong|Thu May 21 08:15:08 2026 +0800|fix: validate geo data files before replacing to prevent rate-limit corruption (#5136)
+b4347008|hong0980|Wed May 20 07:26:43 2026 +0800|refactor(switch_dashboard): align buttons inline and simplify JS (#5143)
+0a94295b|vernesong|Fri May 15 01:51:07 2026 +0800|chore: streaming unlock test add Claude and Gemini
+4aaa67cb|vernesong|Thu May 14 03:04:04 2026 +0800|chore: #5137
+35db742f|vernesong|Wed May 13 13:15:33 2026 +0800|fix typo
+f35faf4c|vernesong|Wed May 13 06:58:52 2026 +0800|chore: add default db
+64301a73|vernesong|Sat May 9 03:28:46 2026 +0800|0.47.094
+87bb35c1|vernesong|Sat May 9 03:27:04 2026 +0800|chore: change default rule name for china ip bypass
+
+.....................
+
+</details>
