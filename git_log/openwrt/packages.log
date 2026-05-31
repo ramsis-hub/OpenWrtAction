@@ -2,6 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ee294a1aa|Noah Meyerhans|Mon May 25 11:09:01 2026 -0400|bind: bump to 9.20.23
-e1b12946b|Dirk Brenken|Fri May 29 13:57:31 2026 +0200|banip: update 1.8.8-5
+aef786a26|Alexandru Ardelean|Thu May 28 13:28:54 2026 +0300|python3: pin host curses to the SDK's narrow ncurses
+32ac4e7db|Ray Wang|Sun May 24 12:13:13 2026 +0800|hev-socks5-tunnel: update to 2.15.0
+581361e9f|Ray Wang|Sun May 24 12:11:20 2026 +0800|hev-socks5-tproxy: update to 2.11.0
+4bdfd0e69|Ray Wang|Sun May 24 12:09:18 2026 +0800|hev-socks5-server: update to 2.12.0
+e03de685d|Ray Wang|Sat Aug 23 17:08:44 2025 +0800|fsh: update to 4.11.0
 </details>

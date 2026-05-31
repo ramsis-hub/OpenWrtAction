@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-78c88ce188|Guoxin Pu|Thu May 28 15:46:20 2026 +0800|image: fix per device targz rootfs wrong suffix and redundant images
-</details>
