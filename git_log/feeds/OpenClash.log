@@ -1,8 +1,0 @@
-<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-a86fb847|vernesong|Sat May 30 17:23:52 2026 +0800|Merge branch 'dev'
-d1d9cada|vernesong|Sat May 30 17:19:25 2026 +0800|0.47.097
-ec23eb73|vernesong|Sat May 30 17:18:54 2026 +0800|chore: use du for filesize check
-</details>
