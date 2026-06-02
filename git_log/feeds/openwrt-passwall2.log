@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+3183ffe|A-BO|Tue Jun 2 11:37:21 2026 +0800|luci: replace `reject` with `return` of xray dns outbound
+</details>

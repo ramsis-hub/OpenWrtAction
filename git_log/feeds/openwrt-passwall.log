@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f21372a4|A-BO|Sun May 31 23:34:02 2026 +0800|luci: optimize
+6657bd2b|A-BO|Tue Jun 2 00:10:28 2026 +0800|luci: add `certificate` setting for xray and sing-box
+3eb5150d|A-BO|Mon Jun 1 17:54:41 2026 +0800|luci: exclude illegal node ip
+6d8ff6e3|A-BO|Mon Jun 1 17:17:24 2026 +0800|luci: replace `reject` with `return` of xray dns outbound
 </details>
