@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7fbd66d50|aiamadeus|Thu May 21 18:08:10 2026 +0800|modules: sync upstream config
+de1795d9d|Willem Lee|Tue Jun 2 18:01:59 2026 +0800|ipq60xx: add DPtech AP3000-2C support (#14022)
 </details>

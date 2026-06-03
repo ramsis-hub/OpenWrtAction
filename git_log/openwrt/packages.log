@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e4885fdc3|Daniel Golle|Mon Jun 1 03:19:22 2026 +0100|transmission: add p{read,write}v2 syscalls to seccomp filter
+3d6b4bd07|Michael Heimpold|Sat May 30 09:21:14 2026 +0200|php8: update to 8.4.21
 </details>
