@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+cf2e235|David Mandy|Thu Jun 4 01:53:03 2026 +0800|remove unused packages - shadowsocks-libev - trojan-plus - tuic-client - update ci code
+</details>
