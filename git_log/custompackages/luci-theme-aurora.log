@@ -1,0 +1,8 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+69083f3|Eamon|Thu Jun 4 23:12:14 2026 +0800|ci: add Claude PR review bot workflow
+c4e7ab3|Eamon|Thu Jun 4 22:10:28 2026 +0800|fix: apply button shape styles to input[type=button/submit/reset] elements
+03d965b|Eamon|Thu Jun 4 20:09:09 2026 +0800|fix: restore transition-all animations stripped in perf refactor
+</details>

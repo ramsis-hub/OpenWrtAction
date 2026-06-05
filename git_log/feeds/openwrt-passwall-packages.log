@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cf2e235|David Mandy|Thu Jun 4 01:53:03 2026 +0800|remove unused packages - shadowsocks-libev - trojan-plus - tuic-client - update ci code
+9e9ed6d|David Mandy|Thu Jun 4 22:01:32 2026 +0800|sing-box: update to 1.13.13 (#669)
+7189a36|David Mandy|Thu Jun 4 21:40:03 2026 +0800|v2ray-geosite: update to 202606032327 (#670)
+ad63a31|David Mandy|Thu Jun 4 21:39:46 2026 +0800|v2ray-geoip: update to 202606040101 (#668)
 </details>
