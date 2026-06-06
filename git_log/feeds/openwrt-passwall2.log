@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+c1aee75|Jackie264|Fri Jun 5 15:57:25 2026 +0800|luci: fix the problem of service startup stuck during apk upgrade (#1142)
+</details>

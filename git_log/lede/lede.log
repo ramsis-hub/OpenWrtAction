@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e66ed6966|Zoltan HERPAI|Thu Feb 5 14:13:00 2026 +0000|sunxi: enable 6.18 testing kernel
+51f3647fb|Internet1235|Fri Jun 5 15:46:42 2026 +0800|kernel: bump 6.18 to 6.18.34 (#14051)
+d20e365e5|Miles Poupart|Fri Jun 5 15:46:29 2026 +0800|kernel: bump 6.12 to 6.12.92 (#14053)
 </details>

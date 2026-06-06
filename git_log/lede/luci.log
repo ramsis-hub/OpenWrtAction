@@ -1,6 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-5fc1fd86ac|coolsnowwolf|Thu Jun 4 15:35:39 2026 +0800|luci-mod-system: add ufs sysupgrade support
-</details>
