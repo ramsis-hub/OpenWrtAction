@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e29b183c|A-BO|Fri Jun 5 16:34:56 2026 +0800|luci: add server-side delayed startup on boot
-29a8199b|A-BO|Fri Jun 5 16:01:35 2026 +0800|luci: fix the problem of service startup stuck during apk upgrade
-89bb7777|A-BO|Fri Jun 5 15:40:11 2026 +0800|luci: support new mkcp config for xray
-</details>
