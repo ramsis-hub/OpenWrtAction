@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+949487e090|Shiji Yang|Tue Jun 2 08:50:19 2026 +0800|kernel: bump 6.12 to 6.12.92
+b49512444f|Grische|Sun May 3 16:34:46 2026 +0200|ipq806x: ap3935: disable hibernation on LAN1
+</details>
