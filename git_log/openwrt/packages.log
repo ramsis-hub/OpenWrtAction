@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a4078ffcd|Alexandru Ardelean|Wed Apr 22 12:42:55 2026 +0300|shadow: update to 4.19.4
-8119f9f31|Josef Schlehofer|Mon Jun 8 23:08:10 2026 +0200|onionshare-cli: drop dependency for python3-pysocks and python3-unidecode
-6c09015df|Josef Schlehofer|Sun Jun 7 23:01:07 2026 +0200|perl: install libperl.so using $(INSTALL_BIN) to enable stripping
+3bab63a56|Niklas Thorild|Mon Jun 8 22:35:15 2026 +0200|telegraf: update to 1.39.0
+9907cd7eb|Wei-Ting Yang|Tue Jun 9 12:26:11 2026 +0800|bash: update to 5.3 patch level 12
+63c84107b|Georgi Valkov|Tue Jun 9 13:56:30 2026 +0300|rust: fix host build on x64 Darwin
 </details>

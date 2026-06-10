@@ -1,0 +1,9 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+9bfbc26|Eamon|Wed Jun 10 11:52:43 2026 +0800|ci: add manual workflow_dispatch trigger to PR review
+e0528dc|Eamon|Wed Jun 10 11:48:14 2026 +0800|ci: split issue bot into triage + analysis steps
+ea55cb0|Eamon|Wed Jun 10 11:43:02 2026 +0800|ci: split PR review into inline + summary steps
+90ba5b6|Eamon|Wed Jun 10 11:26:13 2026 +0800|ci: raise PR review bot max-turns 30 -> 50
+</details>
