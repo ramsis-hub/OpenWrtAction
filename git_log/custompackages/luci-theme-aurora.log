@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9bfbc26|Eamon|Wed Jun 10 11:52:43 2026 +0800|ci: add manual workflow_dispatch trigger to PR review
-e0528dc|Eamon|Wed Jun 10 11:48:14 2026 +0800|ci: split issue bot into triage + analysis steps
-ea55cb0|Eamon|Wed Jun 10 11:43:02 2026 +0800|ci: split PR review into inline + summary steps
-90ba5b6|Eamon|Wed Jun 10 11:26:13 2026 +0800|ci: raise PR review bot max-turns 30 -> 50
+6f5a022|Eamon|Thu Jun 11 02:01:31 2026 +0800|feat: add sidebar navigation mode
+7d9f6a1|Eamon|Wed Jun 10 16:46:04 2026 +0800|refactor: merge _plugins.css into _patches.css and sync dev docs
+f61edc7|Eamon|Wed Jun 10 12:44:30 2026 +0800|ci: review source-only diff, exclude generated htdocs
 </details>

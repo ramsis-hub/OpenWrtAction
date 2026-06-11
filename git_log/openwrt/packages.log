@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3bab63a56|Niklas Thorild|Mon Jun 8 22:35:15 2026 +0200|telegraf: update to 1.39.0
-9907cd7eb|Wei-Ting Yang|Tue Jun 9 12:26:11 2026 +0800|bash: update to 5.3 patch level 12
-63c84107b|Georgi Valkov|Tue Jun 9 13:56:30 2026 +0300|rust: fix host build on x64 Darwin
+1f0b48657|Josef Schlehofer|Mon Jun 8 09:05:18 2026 +0200|python3: fix host python extension compilation on macOS
 </details>

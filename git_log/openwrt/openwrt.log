@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+2a8b27fab9|Florian Eckert|Mon Sep 2 15:22:41 2024 +0200|base-files: move config_generate to preinit
+</details>
