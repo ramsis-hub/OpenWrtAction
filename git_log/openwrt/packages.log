@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1f0b48657|Josef Schlehofer|Mon Jun 8 09:05:18 2026 +0200|python3: fix host python extension compilation on macOS
+199253003|Tianling Shen|Thu Jun 11 14:51:21 2026 +0800|yq: backport upstream anchor fixes
+8abd70b2f|Tianling Shen|Wed Jun 10 11:55:20 2026 +0800|yq: Update to 4.53.3
 </details>

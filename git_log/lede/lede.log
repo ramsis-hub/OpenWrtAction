@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-59d2d7d87|Internet1235|Wed Jun 10 16:00:01 2026 +0800|kernel: refresh target 6.6 patches
+645ec1863|Miles Poupart|Thu Jun 11 18:00:08 2026 +0800|kernel: bump 6.12 to 6.12.93
+0b0f4228f|Internet1235|Thu Jun 11 16:00:01 2026 +0800|kernel: bump 6.18 to 6.18.35
 </details>

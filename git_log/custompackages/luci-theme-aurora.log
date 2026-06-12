@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6f5a022|Eamon|Thu Jun 11 02:01:31 2026 +0800|feat: add sidebar navigation mode
-7d9f6a1|Eamon|Wed Jun 10 16:46:04 2026 +0800|refactor: merge _plugins.css into _patches.css and sync dev docs
-f61edc7|Eamon|Wed Jun 10 12:44:30 2026 +0800|ci: review source-only diff, exclude generated htdocs
+30ae6c6|eamonxg|Thu Jun 11 23:14:52 2026 +0800|perf: GPU-friendly animations & explicit transition properties (#69)
+9856c5b|eamonxg|Thu Jun 11 18:57:13 2026 +0800|Redesign sidebar as edge-attached accordion with grouped labels (#70)
 </details>

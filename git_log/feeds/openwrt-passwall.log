@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-00e224e5|A-BO|Wed Jun 10 13:54:26 2026 +0800|luci: optimize shunt catch-all route
+ed7d31bc|A-BO|Fri Jun 12 00:16:55 2026 +0800|luci: adjust xray wireguard `kernelMode` to `noKernelTun`
 </details>
