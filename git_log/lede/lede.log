@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-645ec1863|Miles Poupart|Thu Jun 11 18:00:08 2026 +0800|kernel: bump 6.12 to 6.12.93
-0b0f4228f|Internet1235|Thu Jun 11 16:00:01 2026 +0800|kernel: bump 6.18 to 6.18.35
+987913ed9|Internet1235|Fri Jun 12 18:10:01 2026 +0800|openssl: update to version 3.6.3
 </details>

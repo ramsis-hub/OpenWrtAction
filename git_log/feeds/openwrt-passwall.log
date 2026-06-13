@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ed7d31bc|A-BO|Fri Jun 12 00:16:55 2026 +0800|luci: adjust xray wireguard `kernelMode` to `noKernelTun`
-</details>
