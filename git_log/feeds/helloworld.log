@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f4c8e7c|zxl hhyccc|Fri Jun 12 22:39:21 2026 +0800|Merge pull request #1988 from zxlhhyccc/path
-34bac56|zxlhhyccc|Fri Jun 12 22:37:16 2026 +0800|luci-app-ssr-plus: Fix HY2 import configuration
+a6c297a|zxl hhyccc|Sat Jun 13 22:37:07 2026 +0800|luci-app-ssr-plus: Fix the issue where SOCKS5 still shows as running when the service is stopped.
 </details>
