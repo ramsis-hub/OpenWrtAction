@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a6c297a|zxl hhyccc|Sat Jun 13 22:37:07 2026 +0800|luci-app-ssr-plus: Fix the issue where SOCKS5 still shows as running when the service is stopped.
+fb49d3c|zxl hhyccc|Sun Jun 14 16:02:32 2026 +0800|Merge pull request #1989 from zxlhhyccc/path
+f6b8048|zxlhhyccc|Sun Jun 14 16:00:04 2026 +0800|luci-app-ssr-plus: Fix auto-fill.
 </details>

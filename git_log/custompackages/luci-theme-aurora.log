@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a0b7c0d|Eamon|Sat Jun 13 18:21:25 2026 +0800|feat: redesign mobile navigation
-f5b2bba|eamonxg|Sat Jun 13 16:10:49 2026 +0800|refactor: migrate Aurora to two-layer color tokens
+7a106de|eamonxg|Mon Jun 15 13:06:42 2026 +0800|feat: generate Aurora design tokens from a flat OKLCH spec (#74)
 </details>

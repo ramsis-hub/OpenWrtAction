@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5f49ee49e|John Audia|Sat Jun 13 19:16:01 2026 +0300|shadow: reintroduce newgidmap and newuidmap
-6f690450a|John Audia|Sat Jun 13 19:04:10 2026 +0300|htop: update to 3.5.1
-765ae0a34|John Audia|Sat Jun 13 19:03:59 2026 +0300|htop: update to 3.5.0
-eb6f3e6b9|Dirk Brenken|Sat Jun 13 16:54:53 2026 +0200|adblock: readme update
+74beb0960|Antonio Pastor|Sun May 17 08:45:10 2026 -0400|netatalk: update to 4.4.3
+8644a2fc5|Hannu Nyman|Sun Jun 14 10:22:58 2026 +0300|collectd: ping - fix use-after-free when re-resolving a host
+cc461046c|Qingfang Deng|Sun Jun 14 10:22:44 2026 +0300|collectd: remove redundant liblua link flag
 </details>
