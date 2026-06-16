@@ -2,7 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-74beb0960|Antonio Pastor|Sun May 17 08:45:10 2026 -0400|netatalk: update to 4.4.3
-8644a2fc5|Hannu Nyman|Sun Jun 14 10:22:58 2026 +0300|collectd: ping - fix use-after-free when re-resolving a host
-cc461046c|Qingfang Deng|Sun Jun 14 10:22:44 2026 +0300|collectd: remove redundant liblua link flag
+726c1d171|Stan Grishin|Mon Jun 15 01:42:31 2026 +0000|adblock-fast: update to 1.2.4-2
+6154e6246|Glenn Strauss|Sun Jun 14 22:30:43 2026 -0400|lighttpd: update to lighttpd 1.4.83 release hash
+44f3c74b0|Glenn Strauss|Sat Dec 27 01:15:42 2025 -0500|lighttpd: 1.4.82-2
+df72cbe73|Glenn Strauss|Sat Dec 27 01:14:14 2025 -0500|lighttpd: mbedtls 3.x EC certs require drbg init
+1f8b6883c|Alarcon Laurent|Wed Dec 24 09:28:19 2025 +0100|lighttpd: fix plugin malformed dependencies
 </details>

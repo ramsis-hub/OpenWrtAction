@@ -1,0 +1,7 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+8dddaee18|coolsnowwolf|Mon Jun 15 22:59:52 2026 +0800|odhcpd: update to latest HEAD
+139afb6bd|aiamadeus|Fri May 22 18:16:08 2026 +0800|rockchip: sync dts with upstream
+</details>

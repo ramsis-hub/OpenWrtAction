@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fb49d3c|zxl hhyccc|Sun Jun 14 16:02:32 2026 +0800|Merge pull request #1989 from zxlhhyccc/path
-f6b8048|zxlhhyccc|Sun Jun 14 16:00:04 2026 +0800|luci-app-ssr-plus: Fix auto-fill.
+7088d13|zxl hhyccc|Tue Jun 16 00:01:12 2026 +0800|Merge pull request #1991 from zxlhhyccc/path
+faa0545|zxlhhyccc|Mon Jun 15 21:33:11 2026 +0800|naiveproxy: update to 149.0.7827.114-1
+0c7020d|zxlhhyccc|Mon Jun 15 22:03:22 2026 +0800|gn: update to git HEAD
+0ba2775|zxl hhyccc|Mon Jun 15 21:37:58 2026 +0800|v2ray-core: Update to 5.49.0
+d87136b|zxl hhyccc|Mon Jun 15 21:36:32 2026 +0800|mihomo: update to 1.19.27
+e770e87|zxl hhyccc|Mon Jun 15 21:35:19 2026 +0800|v2ray-plugin: update to 5.49.0
 </details>
