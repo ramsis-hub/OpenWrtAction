@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8ba8d1fb|coolsnowwolf|Tue Jun 16 11:59:01 2026 +0800|smartmontools: fix SIGSEGV running on loongarch64
+380439d4|coolsnowwolf|Tue Jun 16 16:13:03 2026 +0800|libseccomp: bump version
 </details>

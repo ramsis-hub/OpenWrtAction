@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+17c28ff96a|coolsnowwolf|Tue Jun 16 17:35:53 2026 +0800|luci-app-upnp: add firewall3 iptables support
+ed082a19b3|coolsnowwolf|Tue Jun 16 16:13:28 2026 +0800|luci-app-dockerman: bump version
+88bb18203f|coolsnowwolf|Tue Jun 16 15:03:46 2026 +0800|luci-theme-design: bump to v2026/06/16
+</details>

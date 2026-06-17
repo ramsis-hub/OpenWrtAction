@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-73079fa3f1|Sven Eckelmann|Tue May 19 21:43:16 2026 +0200|ramips: pax1800-lite: fix label-mac-device
+3f59bc0e14|Shiji Yang|Tue Jun 9 23:42:36 2026 +0800|kernel: bump 6.12 to 6.12.93
+80d9abb3f7|John Audia|Sat Jun 13 05:59:25 2026 -0400|backport: update dnsmasq to v2.93 from master
 </details>
