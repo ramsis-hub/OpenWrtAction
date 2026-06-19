@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d58d34e|Eamon|Wed Jun 17 22:51:25 2026 +0800|chore: compress logo.svg and update Shortcuts icon
+72a10dc|Eamon|Fri Jun 19 10:22:56 2026 +0800|chore: bump version to 1.0.0
+4f5ef09|Eamon|Thu Jun 18 17:03:23 2026 +0800|feat: soften light-mode info accent
 </details>

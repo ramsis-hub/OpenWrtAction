@@ -2,5 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a02ae01b|coolsnowwolf|Thu Jun 18 00:31:36 2026 +0800|ffmpeg: update to 7.1.4
+18f14d8e|coolsnowwolf|Fri Jun 19 13:45:11 2026 +0800|node: add loongarch64 support for 22.x
+caabca77|coolsnowwolf|Fri Jun 19 13:41:59 2026 +0800|miniupnpd: fix fw4 detection
+4e8be129|coolsnowwolf|Fri Jun 19 13:15:31 2026 +0800|miniupnpd: change DEFAULT_VARIANT to miniupnpd-iptables
+7f9b0c7d|coolsnowwolf|Fri Jun 19 10:51:09 2026 +0800|node: fix v12 build with GCC 14
+690a3cd2|coolsnowwolf|Thu Jun 18 13:31:33 2026 +0800|miniupnpd: lower nft cache callback log level
+28f49842|coolsnowwolf|Thu Jun 18 13:31:53 2026 +0800|Merge pull request #1117 from Internet1235/ddns-go
+3aae0605|coolsnowwolf|Thu Jun 18 13:31:43 2026 +0800|Merge pull request #1118 from Internet1235/xray-core
+05213bed|Internet1235|Wed Jun 17 12:56:24 2026 +0800|xray-core: update to 26.6.1
+dd903038|Internet1235|Wed Jun 17 12:51:01 2026 +0800|ddns-go: update to 6.17.1
 </details>

@@ -1,6 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-900aad8ab1|coolsnowwolf|Thu Jun 18 11:11:00 2026 +0800|luci-mod-system: add Docker opt mount target
-</details>
