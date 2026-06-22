@@ -2,14 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+4986fa260|coolsnowwolf|Mon Jun 22 10:32:51 2026 +0800|qualcommax: ipq50xx: add support for Xiaomi Redmi AX5400
+3d182dbcd|coolsnowwolf|Mon Jun 22 10:09:03 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
+a1a9cfe97|coolsnowwolf|Mon Jun 22 09:55:39 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 support
+d6d9804e7|coolsnowwolf|Mon Jun 22 09:40:25 2026 +0800|airoha: add RTL8261N PHY support
+df656f86f|coolsnowwolf|Mon Jun 22 01:51:54 2026 +0800|mt76: add NPU offload fixes for mt7996
+fe9ce6c5f|coolsnowwolf|Mon Jun 22 01:51:54 2026 +0800|airoha: w1700k: use available Realtek PHY package
+d545f969b|Ryan Chen|Fri Mar 6 13:44:32 2026 -0600|airoha: an7581: w1700k: increase RTL8261N PHY reset timing to match OEM
+1cdb6c621|Andrew LaMarche|Tue Jan 28 02:52:16 2025 +0000|airoha: add support for Gemtek W1700K
+fb3bc6f28|Andrew LaMarche|Sun Mar 8 20:48:25 2026 +0000|airoha: an7581: remove source-only
+3de5870dc|Andrew LaMarche|Fri Feb 20 15:03:12 2026 +0000|airoha: an7581: add uboot-envtools to default packages
+490551a07|Andrew LaMarche|Fri Feb 20 15:04:32 2026 +0000|airoha: add leds-gpio and gpio-button-hotplug to default packages
+d374dc6cb|coolsnowwolf|Mon Jun 22 02:38:04 2026 +0800|uboot-airoha: add AN7581 W1700K bootloader support
+ee31696b0|coolsnowwolf|Sat May 23 17:20:06 2026 +0800|autocore: enable WiFi NSS status display
+c477e3e8f|coolsnowwolf|Tue May 19 17:07:06 2026 +0800|mac80211: add nss wireless offload support
 106d73582|coolsnowwolf|Sun Jun 21 02:21:30 2026 +0800|kernel: bump all to latest HEAD
-d73ddea87|coolsnowwolf|Sun Jun 21 00:52:59 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
-d4d17560f|coolsnowwolf|Sun Jun 21 00:43:14 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 (Double Fish AX1800) support
-3142861c1|coolsnowwolf|Sun Jun 21 00:17:20 2026 +0800|autocore: enable WiFi NSS status display
-7180cf71a|coolsnowwolf|Sun Jun 21 00:07:46 2026 +0800|mac80211: add nss wireless offload support for Qualcomm IPQ60xx/IPQ807x
-2bddcb5fa|coolsnowwolf|Sat Jun 20 23:13:51 2026 +0800|qualcommax: ipq60xx: use factory.bin as default uboot flashable ubi firmware
-2ee5dbe75|coolsnowwolf|Sat Jun 20 23:06:56 2026 +0800|mac80211: fix per-phy band detection
-41beda3fa|coolsnowwolf|Sat Jun 20 22:56:42 2026 +0800|ipq-wifi: update to Git HEAD (2026-05-18)
-1a839a4d1|coolsnowwolf|Sat Jun 20 22:34:01 2026 +0800|toolchain: binutils: fix compilation with GCC15
-0f14d0196|coolsnowwolf|Sat Jun 20 17:26:53 2026 +0800|qualcommax: ipq60xx: add Link NN6000v1/v2 support
+
+.....................
+
 </details>

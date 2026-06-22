@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-747103a50|Chester A. Unal|Thu Jun 18 15:35:43 2026 +0100|bsbf-openwrt-resources: do not reload firewall
-d59f799fd|Chester A. Unal|Tue Jun 9 20:06:14 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-06-19
+1f716bde7|George Sapkin|Sat Jun 13 16:30:55 2026 +0300|golang: bump 1.26 to 1.26.4
+c9ee3f01c|George Sapkin|Sat Jun 13 17:48:05 2026 +0300|golang: use upstream build ID logic
+8d63814c1|Dirk Brenken|Sun Jun 21 18:43:35 2026 +0200|banip: update 1.8.9-2
+c1b1d9f1f|Chester A. Unal|Sun Jun 21 09:44:20 2026 +0100|bsbf-bonding: fix final wan interface check and delete wan quietly
 </details>
