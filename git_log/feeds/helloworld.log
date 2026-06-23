@@ -2,20 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4b3251b|coolsnowwolf|Mon Jun 22 11:54:04 2026 +0800|luci-app-ssr-plus: gate proxy backend by firewall
-ab81606|zxl hhyccc|Sun Jun 21 23:50:59 2026 +0800|Revert `luci-app-ssr-plus: Fix socks5 running status.`
-7129b3a|zxl hhyccc|Sun Jun 21 20:12:37 2026 +0800|Merge pull request #1997 from zxlhhyccc/path
-52556c8|zxlhhyccc|Sun Jun 21 20:03:07 2026 +0800|luci-app-ssr-plus: Adjust the indentation.
-4b0c475|zxl hhyccc|Sun Jun 21 20:01:16 2026 +0800|Merge pull request #1996 from zxlhhyccc/path
-4dac3f2|zxlhhyccc|Sun Jun 21 19:59:57 2026 +0800|luci-app-ssr-plus: luci: rename xray inbounds' clients/accounts to users (> 26.5.3)
-ed3aa50|zxl hhyccc|Sun Jun 21 19:56:48 2026 +0800|Merge pull request #1995 from zxlhhyccc/path
-4847315|zxlhhyccc|Sun Jun 21 19:37:20 2026 +0800|luci-app-ssr-plus: add manual fetch of pinnedPeerCertSha256 and verifyPeerCertByName.
-109a4c1|zxl hhyccc|Sun Jun 21 16:54:12 2026 +0800|Merge pull request #1994 from zxlhhyccc/path
-2879d23|coolsnowwolf|Sun Jun 21 15:20:25 2026 +0800|luci-app-ssr-plus: add mihomoconvert subscriptions template URL option
-da77b44|coolsnowwolf|Sun Jun 21 14:49:38 2026 +0800|luci-app-ssr-plus: add snell proxy support with mihomo
-e843b4a|coolsnowwolf|Sun Jun 21 14:30:48 2026 +0800|luci-app-ssr-plus: allow add single vless/vmess server node and import URL with mihomo
-1d3eb86|coolsnowwolf|Sun Jun 21 14:14:34 2026 +0800|luci-app-ssr-plus: migrate xray vmess/vless/ss/ssr/socks5 support to mihomo
-b454a45|coolsnowwolf|Sun Jun 21 13:51:00 2026 +0800|luci-ssr-plus: fix AnyTLS subscribe with mihomo with '/' parse error
-24ad308|zxlhhyccc|Sun Jun 21 13:16:53 2026 +0800|luci-app-ssr-plus: optimize hysteria2 realm
-
+90c9f17|zxl hhyccc|Tue Jun 23 00:42:33 2026 +0800|Merge pull request #1998 from zxlhhyccc/path
+0512143|zxlhhyccc|Mon Jun 22 22:12:16 2026 +0800|luci-app-ssr-plus: Fix the V2Ray single-node running status not being shown when using Mihomo.
 </details>

@@ -2,6 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+bbe358fd8|coolsnowwolf|Sat Mar 7 10:02:01 2026 +0800|qualcommax: add Xiaomi Redmi AX5400 support
+d055f8ba1|coolsnowwolf|Wed Mar 4 10:09:03 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
+883fd76b9|coolsnowwolf|Tue Mar 3 19:05:39 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 support
 4986fa260|coolsnowwolf|Mon Jun 22 10:32:51 2026 +0800|qualcommax: ipq50xx: add support for Xiaomi Redmi AX5400
 3d182dbcd|coolsnowwolf|Mon Jun 22 10:09:03 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
 a1a9cfe97|coolsnowwolf|Mon Jun 22 09:55:39 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 support
@@ -14,10 +17,5 @@ fb3bc6f28|Andrew LaMarche|Sun Mar 8 20:48:25 2026 +0000|airoha: an7581: remove s
 3de5870dc|Andrew LaMarche|Fri Feb 20 15:03:12 2026 +0000|airoha: an7581: add uboot-envtools to default packages
 490551a07|Andrew LaMarche|Fri Feb 20 15:04:32 2026 +0000|airoha: add leds-gpio and gpio-button-hotplug to default packages
 d374dc6cb|coolsnowwolf|Mon Jun 22 02:38:04 2026 +0800|uboot-airoha: add AN7581 W1700K bootloader support
-ee31696b0|coolsnowwolf|Sat May 23 17:20:06 2026 +0800|autocore: enable WiFi NSS status display
-c477e3e8f|coolsnowwolf|Tue May 19 17:07:06 2026 +0800|mac80211: add nss wireless offload support
-106d73582|coolsnowwolf|Sun Jun 21 02:21:30 2026 +0800|kernel: bump all to latest HEAD
-
-.....................
 
 </details>

@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-760a8fcfdf|coolsnowwolf|Mon Jun 22 11:54:04 2026 +0800|luci-proto-openvpnc: support firewall4 dependency
-9be3a8a6db|coolsnowwolf|Mon Jun 22 02:44:22 2026 +0800|luci-app-airoha-npu: add Airoha NPU status plugin
+04529e22e7|coolsnowwolf|Mon Jun 22 17:18:32 2026 +0800|luci: support fw4 brcm fullcone nat
 </details>
