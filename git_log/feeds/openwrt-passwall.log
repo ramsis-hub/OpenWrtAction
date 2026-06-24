@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f878c5fb|A-BO|Tue Jun 23 11:14:03 2026 +0800|luci: fix realm of xray
-aa31a6dd|A-BO|Mon Jun 22 17:51:09 2026 +0800|luci: add `vivo` connection detection url option
+bb57a136|A-BO|Tue Jun 23 14:48:33 2026 +0800|luci: update default rules
 </details>

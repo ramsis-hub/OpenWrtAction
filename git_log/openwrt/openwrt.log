@@ -1,0 +1,15 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+c484731c5a|Mikhail Zhilkin|Wed May 20 23:22:29 2026 +0300|mediatek: add support for netis EAP930 V1
+14216493a5|Tianling Shen|Wed Mar 18 17:49:56 2026 +0800|mediatek: add GL.iNET GL-MT3600BE support
+1da8e25558|Fil Dunsky|Sun May 24 20:44:10 2026 +0300|ramips: mt76x8: cudy-lt300-v3: fix backup partition offset
+ed5611d2f8|Mikhail Zhilkin|Wed May 13 20:55:57 2026 +0300|uboot-mediatek: fix bl2 dependency for Qihoo 360T7
+102c0729d3|Mikhail Zhilkin|Sun Apr 5 13:47:38 2026 +0300|mediatek: add support for Qihoo 360T7 (UBI layout)
+e40ccd6a92|Mikhail Zhilkin|Sun Apr 5 13:46:25 2026 +0300|uboot-mediatek: add Qihoo 360T7 (UBI) support
+e39ca3fb8a|Mikhail Zhilkin|Sat Apr 4 16:49:26 2026 +0300|atf-mediatek: add mt7981 UBI DDR3-1866 build
+432586f250|Mikhail Zhilkin|Sat Apr 4 16:53:16 2026 +0300|mediatek: filogic: fix wrong dts file permission
+168098b074|Mikhail Zhilkin|Sat Apr 4 16:41:36 2026 +0300|mediatek: filogic: Qihoo 360T7: fix DDR3 rate
+22bbb890db|Shiji Yang|Thu Dec 11 19:16:56 2025 +0800|arm-trusted-firmware-mediatek: use MT/s as DDR speed unit
+</details>
