@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bb57a136|A-BO|Tue Jun 23 14:48:33 2026 +0800|luci: update default rules
+04e003df|A-BO|Wed Jun 24 20:35:57 2026 +0800|luci: add realm url format validate
+03a2bbab|A-BO|Wed Jun 24 20:22:40 2026 +0800|luci: fix `parse_realm_uri` fun in api
 </details>

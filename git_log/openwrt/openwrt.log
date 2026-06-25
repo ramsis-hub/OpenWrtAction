@@ -2,14 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c484731c5a|Mikhail Zhilkin|Wed May 20 23:22:29 2026 +0300|mediatek: add support for netis EAP930 V1
-14216493a5|Tianling Shen|Wed Mar 18 17:49:56 2026 +0800|mediatek: add GL.iNET GL-MT3600BE support
-1da8e25558|Fil Dunsky|Sun May 24 20:44:10 2026 +0300|ramips: mt76x8: cudy-lt300-v3: fix backup partition offset
-ed5611d2f8|Mikhail Zhilkin|Wed May 13 20:55:57 2026 +0300|uboot-mediatek: fix bl2 dependency for Qihoo 360T7
-102c0729d3|Mikhail Zhilkin|Sun Apr 5 13:47:38 2026 +0300|mediatek: add support for Qihoo 360T7 (UBI layout)
-e40ccd6a92|Mikhail Zhilkin|Sun Apr 5 13:46:25 2026 +0300|uboot-mediatek: add Qihoo 360T7 (UBI) support
-e39ca3fb8a|Mikhail Zhilkin|Sat Apr 4 16:49:26 2026 +0300|atf-mediatek: add mt7981 UBI DDR3-1866 build
-432586f250|Mikhail Zhilkin|Sat Apr 4 16:53:16 2026 +0300|mediatek: filogic: fix wrong dts file permission
-168098b074|Mikhail Zhilkin|Sat Apr 4 16:41:36 2026 +0300|mediatek: filogic: Qihoo 360T7: fix DDR3 rate
-22bbb890db|Shiji Yang|Thu Dec 11 19:16:56 2025 +0800|arm-trusted-firmware-mediatek: use MT/s as DDR speed unit
+be3ea6b93f|John Crispin|Mon Jun 15 10:50:16 2026 +0200|wifi-scripts: fix EAP STA support in supplicant config generation
+0fb3ed2501|Hauke Mehrtens|Wed Jun 24 01:53:14 2026 +0200|odhcp6c: update to Git HEAD (2026-06-20)
+1c5daff5ac|Chad Monroe|Mon Jun 15 14:21:02 2026 -0700|hostapd: fix misplaced radar-detected ubus notification
+4c2cfecc80|Hafiz Zafran|Sun May 31 06:31:08 2026 +0800|wireless-regdb: update to version 2026.05.30
+f75c27efd7|Fengyu Wu|Sat Jun 6 09:51:54 2026 +0800|ca-certificates: update to 20260601
+6bad5f2050|Shiji Yang|Fri Jun 19 21:50:12 2026 +0800|kernel: bump 6.12 to 6.12.94
+ba5b20a5a0|Andrew LaMarche|Wed May 20 13:51:46 2026 +0000|uboot-airoha: add switch node for an7581 dtsi
+3f3f0828b1|Mikhail Kshevetskiy|Tue Feb 17 11:40:39 2026 +0300|uboot-airoha: an7583: fix wrong bits for SPI and SLIC clock
+6b7fb8e9c2|Mikhail Kshevetskiy|Wed Feb 11 17:33:43 2026 +0300|uboot-airoha: update to U-Boot v2026.01
+7029a38c93|Shine|Fri Jun 12 16:27:28 2026 +0200|scripts: dhcpv6: harmonize IAID between IA_NA and IA_PD requests
 </details>

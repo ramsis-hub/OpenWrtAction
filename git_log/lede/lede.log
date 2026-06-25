@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aabbe6431|coolsnowwolf|Tue Jun 23 14:32:42 2026 +0800|qualcommax: ipq60xx: improve Qihoo 360V6 support
+ea1ea5a2e|Mieczyslaw Nalewaj|Sun Dec 14 01:53:22 2025 +0100|package: gpio-button-hotplug: adapt to kernel 6.18
 </details>
