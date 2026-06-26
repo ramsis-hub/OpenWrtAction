@@ -2,10 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f9656b220|Alexandru Ardelean|Thu Apr 16 21:15:27 2026 +0300|vobject: update to 0.9.9; add test.sh
-84a86faaf|Daniel F. Dickinson|Thu May 7 03:04:18 2026 -0400|radicale3: bump version and adjust dependencies
-376e082e3|Daniel F. Dickinson|Thu May 7 03:00:02 2026 -0400|radicale3: clean out cspell hints
-575e71df8|Hirokazu MORIKAWA|Mon Jun 22 20:36:36 2026 +0900|node: bump to 22.23.0
-1e8762925|Rui Salvaterra|Wed Jun 3 10:31:44 2026 +0100|tor: update to 0.4.9.9 stable
-1df6112ae|Wei-Ting Yang|Tue Jun 23 12:46:26 2026 +0800|expat: update to 2.8.1
+135d391b8|Erik Conijn|Thu Jun 11 14:50:58 2026 +0200|openvpn: set ENABLE-DCO default to n
+d011e9936|Qingfang Deng|Thu Apr 23 13:23:43 2026 +0800|ovpn-dco: work around EIP-197 incompatibility
+b19d06c83|Andy Chiang|Mon Apr 20 00:27:15 2026 +0700|openvpn: add kmod-ovpn-backports dependency
+10819afeb|Chester A. Unal|Wed Jun 24 19:58:37 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-06-24
 </details>

@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-04e003df|A-BO|Wed Jun 24 20:35:57 2026 +0800|luci: add realm url format validate
-03a2bbab|A-BO|Wed Jun 24 20:22:40 2026 +0800|luci: fix `parse_realm_uri` fun in api
+c910a6b9|A-BO|Fri Jun 26 11:36:34 2026 +0800|luci: add hy2 gecko packet size setting
 </details>
