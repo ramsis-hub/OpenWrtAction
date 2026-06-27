@@ -1,0 +1,6 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+120f782c|coolsnowwolf|Fri Jun 26 23:06:38 2026 +0800|ffmpeg: add v4l2 m2m support for riscv64
+</details>

@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-135d391b8|Erik Conijn|Thu Jun 11 14:50:58 2026 +0200|openvpn: set ENABLE-DCO default to n
-d011e9936|Qingfang Deng|Thu Apr 23 13:23:43 2026 +0800|ovpn-dco: work around EIP-197 incompatibility
-b19d06c83|Andy Chiang|Mon Apr 20 00:27:15 2026 +0700|openvpn: add kmod-ovpn-backports dependency
-10819afeb|Chester A. Unal|Wed Jun 24 19:58:37 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-06-24
+88e34c020|Chester A. Unal|Fri Jun 26 07:56:20 2026 +0100|bsbf-resources: add conffiles for bsbf-bonding and bsbf-mptcp
 </details>

@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aec2a6005|Luiz Angelo Daros de Luca|Sat May 16 18:32:04 2026 +0200|kernel: backport rtl8365mb driver improvements
+1c7c087cd|Til Kaiser|Mon Jan 26 19:48:48 2026 +0100|kernel: add empty Module.symvers.tmp workaround
 </details>
