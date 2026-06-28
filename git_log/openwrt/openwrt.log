@@ -2,6 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b830633cb8|Felix Fietkau|Fri Jun 26 19:00:36 2026 +0200|wifi-scripts: fix disabled vif tracking using wrong dictionary key
-eb8cd69f91|Andrii Kuiukoff|Thu Jun 18 13:56:23 2026 +0300|mediatek: creatlentem clt-r30b1: add all-in-UBI layout
+7e84cb6c50|Hauke Mehrtens|Sun Jun 28 00:47:22 2026 +0200|odhcpd: update to Git openwrt-25.12 (2026-06-28)
+24151bab4f|Fil Dunsky|Wed Jun 3 21:18:20 2026 +0300|mediatek: add WD-R3000N-G2A as ALT device for Bazis AX3000WM
+daaf5bc69b|sh3ikh-faisal|Sat Feb 28 00:02:29 2026 +0530|mediatek: add support for JioRouter AX6000 JIDU6101
+0def1dd578|Roland Reinl|Thu Apr 16 21:11:46 2026 +0200|ipq40xx: add support for Linksys MR9000
+bfdfff63a4|Robert Marko|Mon May 18 21:38:46 2026 +0200|ipq-wifi: update to Git HEAD (2026-05-18)
+797f2565cf|Robert Marko|Thu May 7 11:10:49 2026 +0200|ipq-wifi: update to Git HEAD (2026-05-05)
+bbb36bbc2f|David Bauer|Sat Mar 7 18:43:39 2026 +0100|ipq-wifi: update to latest HEAD
+60e53ffdb0|Robert Marko|Tue Feb 17 20:44:31 2026 +0100|ipq-wifi: update to Git HEAD (2026-02-17)
+fcfd34dff8|Robert Marko|Fri Feb 13 21:26:31 2026 +0100|ipq-wifi: update to Git HEAD (2026-02-13)
+f191b85d2f|Mieczyslaw Nalewaj|Thu Nov 27 13:17:50 2025 +0100|leds: add "network" LED trigger (lan/wan/wlan)
+c992691136|Chukun Pan|Sat Mar 28 16:19:20 2026 +0800|airoha: disable afe by default for an7581
 </details>

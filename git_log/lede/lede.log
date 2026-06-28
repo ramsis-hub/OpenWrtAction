@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1c7c087cd|Til Kaiser|Mon Jan 26 19:48:48 2026 +0100|kernel: add empty Module.symvers.tmp workaround
+5fcacc977|Daniel Golle|Fri Apr 10 21:00:29 2026 +0100|mediatek: build driver for built-in 2.5GE PHY
 </details>

@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-88e34c020|Chester A. Unal|Fri Jun 26 07:56:20 2026 +0100|bsbf-resources: add conffiles for bsbf-bonding and bsbf-mptcp
+ffc3606b8|Rui Salvaterra|Thu Jun 25 14:56:13 2026 +0100|tor: update to 0.4.9.10 stable
+130534e10|Thibaut VARÈNE|Mon Jun 22 20:06:01 2026 +0200|uspot: update to Git HEAD (2026-06-22)
 </details>
