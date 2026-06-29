@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5fcacc977|Daniel Golle|Fri Apr 10 21:00:29 2026 +0100|mediatek: build driver for built-in 2.5GE PHY
+94808ff04|coolsnowwolf|Sun Jun 28 21:35:17 2026 +0800|autocore: add nss wifi offload status display for usage command
+19ee13283|Daniel Golle|Fri Apr 10 21:01:12 2026 +0100|mediatek: enable Linux 6.18 testing kernel
 </details>
