@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+c919ada1c|Mieczyslaw Nalewaj|Thu Dec 25 18:40:35 2025 +0100|mac80211: fix build failure on kernel 6.18
 94808ff04|coolsnowwolf|Sun Jun 28 21:35:17 2026 +0800|autocore: add nss wifi offload status display for usage command
-19ee13283|Daniel Golle|Fri Apr 10 21:01:12 2026 +0100|mediatek: enable Linux 6.18 testing kernel
 </details>

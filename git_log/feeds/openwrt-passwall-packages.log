@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-3be1c8a|David Mandy|Mon Jun 29 00:36:16 2026 +0800|Revert "shadowsocksr-libev: fixes mirror hash"
-</details>

@@ -2,6 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-537959b|coolsnowwolf|Mon Jun 29 11:11:13 2026 +0800|luci-app-ssr-plus: add main program updater
-c23137d|coolsnowwolf|Sun Jun 28 16:50:06 2026 +0800|ci: match feeds to sdk release branches release
+d2a4df8|zxl hhyccc|Tue Jun 30 00:30:09 2026 +0800|Merge pull request #2010 from zxlhhyccc/update
+b5d6a92|zxlhhyccc|Tue Jun 30 00:27:33 2026 +0800|luci-app-ssr-plus: Optimize fragment new lengths/delays for xray.
+736b7fa|zxl hhyccc|Mon Jun 29 22:20:04 2026 +0800|Merge pull request #2009 from zxlhhyccc/update
+f6b918a|zxlhhyccc|Mon Jun 29 22:16:37 2026 +0800|luci-app-ssr-plus: add hy2 gecko packet size setting and subscribe
+4d3d8c4|zxl hhyccc|Mon Jun 29 21:28:06 2026 +0800|Merge pull request #2008 from zxlhhyccc/update
+53e3a80|zxlhhyccc|Mon Jun 29 21:27:10 2026 +0800|luci-app-ssr-plus: add realm url format validate.
+de268ee|zxl hhyccc|Mon Jun 29 21:21:37 2026 +0800|Merge pull request #2007 from zxlhhyccc/update
+d97655d|zxlhhyccc|Mon Jun 29 21:20:32 2026 +0800|luci-app-ssr-plus: fix parse_realm_uri fun.
+f4d357d|zxl hhyccc|Mon Jun 29 21:16:08 2026 +0800|Merge pull request #2006 from zxlhhyccc/update
+4938f3b|zxlhhyccc|Sun Jun 28 19:55:46 2026 +0800|luci-app-ssr-plus: Add the option to manually select the core.
 </details>
