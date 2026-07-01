@@ -2,10 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bb9df8541c|Hauke Mehrtens|Tue Jun 30 00:03:59 2026 +0200|OpenWrt v25.12.5: revert to branch defaults
-f0a60eee2f|Hauke Mehrtens|Tue Jun 30 00:03:42 2026 +0200|OpenWrt v25.12.5: adjust config defaults
-f5dae5ece4|Dimitri Souza|Fri Jun 26 19:59:43 2026 -0300|mediatek: acer-predator-w6x: add LED boot status support
-481e0a16f4|Shine|Mon Jun 29 09:23:45 2026 +0200|scripts: dhcpv6: don't report custom ip6class if default
-ebae538f22|Christian Marangi|Tue Mar 10 16:23:33 2026 +0100|airoha: add pending patch for additional GPIO pins for PHY LED0
-ded2716fd9|Mieczyslaw Nalewaj|Sun Jun 7 19:35:10 2026 +0200|kernel: split nf-nathelper-extra into individual packages
+c8ee844d60|Fil Dunsky|Fri Jun 5 17:53:45 2026 +0300|mediatek: add support Livinet Li320
 </details>

@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c919ada1c|Mieczyslaw Nalewaj|Thu Dec 25 18:40:35 2025 +0100|mac80211: fix build failure on kernel 6.18
-94808ff04|coolsnowwolf|Sun Jun 28 21:35:17 2026 +0800|autocore: add nss wifi offload status display for usage command
+771acca02|Felix Fietkau|Fri May 6 15:49:58 2022 +0200|kernel: fix flow offload issues with pppoe
 </details>
