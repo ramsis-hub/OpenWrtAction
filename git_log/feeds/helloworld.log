@@ -2,11 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7be5f69|zxl hhyccc|Tue Jun 30 22:00:14 2026 +0800|Merge pull request #2012 from zxlhhyccc/update
-dc0b982|zxlhhyccc|Tue Jun 30 21:58:34 2026 +0800|Revert "luci-app-ssr-plus: Add TLS for clash to verify name of leaf certificate."
-ff0c724|zxl hhyccc|Tue Jun 30 21:31:43 2026 +0800|Merge pull request #2011 from zxlhhyccc/update
-3c1e6ab|zxlhhyccc|Tue Jun 30 21:27:53 2026 +0800|luci-app-ssr-plus: Add TLS for clash to verify name of leaf certificate.
-6b260f5|zxl hhyccc|Tue Jun 30 20:12:59 2026 +0800|xray-core: update to 26.6.27
-b3238f2|zxl hhyccc|Tue Jun 30 20:10:47 2026 +0800|dnsproxy: Update to 0.81.4
-cbd1be4|zxl hhyccc|Tue Jun 30 20:08:22 2026 +0800|hysteria: update to 2.9.3
+b6fbb3c|zxl hhyccc|Wed Jul 1 22:23:13 2026 +0800|Merge pull request #2015 from zxlhhyccc/update
+b1556e5|zxlhhyccc|Wed Jul 1 21:41:12 2026 +0800|luci-app-ssr-plus: Fix the connectivity detection of TUIC node.
+68f0c45|zxl hhyccc|Wed Jul 1 21:39:10 2026 +0800|Merge pull request #2013 from sKyissKy/dev
+9a8a77a|zxl hhyccc|Wed Jul 1 21:38:47 2026 +0800|Merge pull request #2014 from zxlhhyccc/update
+61ae81a|zxlhhyccc|Wed Jul 1 20:55:15 2026 +0800|luci-app-ssr-plus: Disable IPv4 rp_filter for TPROXY compatibility.
+2f00926|sKy|Wed Jul 1 17:38:45 2026 +0800|gn: fix builds with older host toolchains
 </details>
