@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2de5a76|Eamon|Thu Jul 2 10:33:08 2026 +0800|build: sync .ut files over ssh stdin instead of scp
+ff8ba76|eamonxg|Fri Jul 3 01:14:49 2026 +0800|feat: expand mega-menu section icon map (#84)
+aecf9fa|eamonxg|Thu Jul 2 15:54:37 2026 +0800|perf: optimize mega-menu reveal and close animations (#83)
 </details>

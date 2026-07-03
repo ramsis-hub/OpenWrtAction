@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e0a945186|Erik Conijn|Sat Jun 20 08:54:39 2026 +0200|netbird: update to 0.73.2
-028372089|Bruce Chen|Tue Jun 30 19:10:17 2026 +0800|aliyun-cli: update to 3.4.0
+d07aac4d3|Ray Wang|Tue Jun 23 21:10:47 2026 +0800|fsh: fix a typo in fshs.init
+19b511dea|Stan Grishin|Wed Jul 1 18:13:57 2026 +0000|pbr: update to 1.2.2-18
 </details>

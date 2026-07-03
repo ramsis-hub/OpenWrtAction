@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-949e61ec65|Hauke Mehrtens|Wed Jul 1 23:10:44 2026 +0200|odhcp6c: Increase PKG_RELEASE
-df8a0c1654|Hauke Mehrtens|Wed Jul 1 23:08:05 2026 +0200|ead: Increase PKG_RELEASE
-863c6159a2|Grische|Wed Jun 17 14:09:18 2026 +0200|rockchip: add support for FriendlyARM NanoPi R2S Plus
-826a01ef39|Mikhail Zhilkin|Mon Feb 9 22:27:10 2026 +0300|qualcommax: ipq50xx: add support for CMCC MR3000D-CI
-</details>

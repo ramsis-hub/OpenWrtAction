@@ -2,10 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b6fbb3c|zxl hhyccc|Wed Jul 1 22:23:13 2026 +0800|Merge pull request #2015 from zxlhhyccc/update
-b1556e5|zxlhhyccc|Wed Jul 1 21:41:12 2026 +0800|luci-app-ssr-plus: Fix the connectivity detection of TUIC node.
-68f0c45|zxl hhyccc|Wed Jul 1 21:39:10 2026 +0800|Merge pull request #2013 from sKyissKy/dev
-9a8a77a|zxl hhyccc|Wed Jul 1 21:38:47 2026 +0800|Merge pull request #2014 from zxlhhyccc/update
-61ae81a|zxlhhyccc|Wed Jul 1 20:55:15 2026 +0800|luci-app-ssr-plus: Disable IPv4 rp_filter for TPROXY compatibility.
-2f00926|sKy|Wed Jul 1 17:38:45 2026 +0800|gn: fix builds with older host toolchains
+142ae21|zxl hhyccc|Fri Jul 3 00:53:08 2026 +0800|Merge pull request #2018 from zxlhhyccc/update
+c04ace9|zxlhhyccc|Fri Jul 3 00:51:30 2026 +0800|luci-app-ssr-plus: Fix the issue of null value for node alias.
+9716385|zxl hhyccc|Fri Jul 3 00:48:46 2026 +0800|Merge pull request #2017 from zxlhhyccc/update
+f4ab1da|zxlhhyccc|Thu Jul 2 23:55:17 2026 +0800|luci-app-ssr-plus: Fix issue where old MD5 files are not deleted when switch subscribe.
 </details>
