@@ -1,7 +1,0 @@
-<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ff8ba76|eamonxg|Fri Jul 3 01:14:49 2026 +0800|feat: expand mega-menu section icon map (#84)
-aecf9fa|eamonxg|Thu Jul 2 15:54:37 2026 +0800|perf: optimize mega-menu reveal and close animations (#83)
-</details>

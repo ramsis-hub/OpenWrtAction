@@ -2,8 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-142ae21|zxl hhyccc|Fri Jul 3 00:53:08 2026 +0800|Merge pull request #2018 from zxlhhyccc/update
-c04ace9|zxlhhyccc|Fri Jul 3 00:51:30 2026 +0800|luci-app-ssr-plus: Fix the issue of null value for node alias.
-9716385|zxl hhyccc|Fri Jul 3 00:48:46 2026 +0800|Merge pull request #2017 from zxlhhyccc/update
-f4ab1da|zxlhhyccc|Thu Jul 2 23:55:17 2026 +0800|luci-app-ssr-plus: Fix issue where old MD5 files are not deleted when switch subscribe.
+75c5881|zxlhhyccc|Sat Jul 4 00:10:43 2026 +0800|luci-app-ssr-plus: Fix update of "apple" domain name.
+9ae99b8|zxl hhyccc|Sat Jul 4 00:07:48 2026 +0800|Merge pull request #2020 from zxlhhyccc/update
+db445e7|zxlhhyccc|Fri Jul 3 21:44:13 2026 +0800|shadowsocksr-libev: Fix bug.
+bd0789e|zxl hhyccc|Fri Jul 3 21:42:19 2026 +0800|Merge pull request #2019 from zxlhhyccc/update
+330dcf8|zxlhhyccc|Fri Jul 3 21:34:29 2026 +0800|gn: update to git HEAD
 </details>

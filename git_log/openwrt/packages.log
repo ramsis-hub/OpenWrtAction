@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d07aac4d3|Ray Wang|Tue Jun 23 21:10:47 2026 +0800|fsh: fix a typo in fshs.init
-19b511dea|Stan Grishin|Wed Jul 1 18:13:57 2026 +0000|pbr: update to 1.2.2-18
+6d8b4edd3|Christian Lachner|Fri Jul 3 16:23:49 2026 +0200|haproxy: update to v3.2.21
+ad6cbf693|Dirk Brenken|Fri Jul 3 21:27:41 2026 +0200|adblock: update 4.5.6-3
+bc70454fb|Hannu Nyman|Fri Jul 3 16:34:42 2026 +0300|nano: update to 9.1
 </details>

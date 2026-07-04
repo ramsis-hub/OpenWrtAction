@@ -1,6 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e2d0877|sbwml|Thu Jul 2 23:09:30 2026 +0800|mosdns: add size and backups config for log file rotation
-</details>
