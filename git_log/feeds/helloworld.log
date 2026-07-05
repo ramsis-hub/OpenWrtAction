@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-75c5881|zxlhhyccc|Sat Jul 4 00:10:43 2026 +0800|luci-app-ssr-plus: Fix update of "apple" domain name.
-9ae99b8|zxl hhyccc|Sat Jul 4 00:07:48 2026 +0800|Merge pull request #2020 from zxlhhyccc/update
-db445e7|zxlhhyccc|Fri Jul 3 21:44:13 2026 +0800|shadowsocksr-libev: Fix bug.
-bd0789e|zxl hhyccc|Fri Jul 3 21:42:19 2026 +0800|Merge pull request #2019 from zxlhhyccc/update
-330dcf8|zxlhhyccc|Fri Jul 3 21:34:29 2026 +0800|gn: update to git HEAD
+d824e285|coolsnowwolf|Sun Jul 5 11:35:40 2026 +0800|luci-app-ssr-plus: bump version to v196.3
+3f92a1f9|zxlhhyccc|Sat Jul 4 00:10:43 2026 +0800|luci-app-ssr-plus: Fix update of "apple" domain name.
+75c58810|zxlhhyccc|Sat Jul 4 00:10:43 2026 +0800|luci-app-ssr-plus: Fix update of "apple" domain name.
 </details>

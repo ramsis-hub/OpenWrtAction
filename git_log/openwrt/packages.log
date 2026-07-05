@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6d8b4edd3|Christian Lachner|Fri Jul 3 16:23:49 2026 +0200|haproxy: update to v3.2.21
-ad6cbf693|Dirk Brenken|Fri Jul 3 21:27:41 2026 +0200|adblock: update 4.5.6-3
-bc70454fb|Hannu Nyman|Fri Jul 3 16:34:42 2026 +0300|nano: update to 9.1
+953086665|Josef Schlehofer|Sun Jun 28 21:37:27 2026 +0200|vscode: update commit message validation line length
+45a31aada|David Adam|Sun May 10 02:41:06 2026 +0800|fish: updated to 4.7.1
 </details>
