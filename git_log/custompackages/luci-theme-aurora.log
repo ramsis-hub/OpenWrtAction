@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5c9fd6b|Eamon|Sun Jul 5 11:40:35 2026 +0800|fix: crisp up light-mode neutrals and saturate the brand accent
-3c07a77|Eamon|Sat Jul 4 23:55:01 2026 +0800|feat: discover patches at render time, making patches/ a drop-in extension point
+ac46144|eamonxg|Mon Jul 6 05:32:41 2026 +0800|agent: add theme performance skill
 </details>

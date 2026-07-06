@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+e93a938c6|Tianling Shen|Mon Jul 6 10:03:42 2026 +0800|Merge Official Source
 2ce5aea10|Etienne Champetier|Sat Jul 4 16:59:16 2026 -0400|prometheus-node-exporter-lua: add test / skip test-version
 70e8b590d|Bruno Marinier|Mon Jun 8 15:25:29 2026 -0400|prometheus-node-exporter-lua: add unbound stats collector
 139222f19|Jun Ouyang|Sat Oct 11 11:19:25 2025 +0800|prometheus-node-exporter-lua: check if status is nil before processing wifi device metrics interfaces
@@ -16,5 +17,7 @@ a688f504d|Etienne Champetier|Sun Jul 5 05:43:40 2026 -0400|realtek-poe: skip ci 
 6706e28b4|Etienne Champetier|Sun Jul 5 05:37:30 2026 -0400|mwan3: skip ci version check
 d011c4fb8|Etienne Champetier|Sun Jul 5 05:01:13 2026 -0400|modemmanager: fix dependency and ci
 1642b5875|micpf|Mon Feb 9 16:52:10 2026 +0100|modemmanager: fix netifd proto sim path
-84544ea60|Michael Heimpold|Sun Jun 28 13:17:24 2026 +0200|ser2net: filter non-printable characters from custom options
+
+.....................
+
 </details>

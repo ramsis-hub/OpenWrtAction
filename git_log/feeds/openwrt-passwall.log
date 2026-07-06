@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-22450c2a|lwb1978|Sat Jul 4 19:38:53 2026 +0800|luci: fix and optimize subscribe
+797704c5|wybb|Mon Jul 6 01:07:20 2026 +0800|luci: fix hy2 link import bandwidth defaults (#4414)
 </details>

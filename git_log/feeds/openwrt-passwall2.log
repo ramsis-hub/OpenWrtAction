@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ec45817|m3m0ry|Sat Jul 4 19:40:56 2026 +0800|luci: preserve Reality options for AnyTLS subscriptions (#1174)
-</details>
