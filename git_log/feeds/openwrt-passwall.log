@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-797704c5|wybb|Mon Jul 6 01:07:20 2026 +0800|luci: fix hy2 link import bandwidth defaults (#4414)
+20db1985|ShanStone|Mon Jul 6 22:04:21 2026 +0800|luci: eliminate tr process in insert_nftset function
 </details>

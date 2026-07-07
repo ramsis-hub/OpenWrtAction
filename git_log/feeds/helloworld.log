@@ -1,8 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0e1e0ad|zxl hhyccc|Sun Jul 5 23:15:17 2026 +0800|luci-app-ssr-plus: fix link library identifier.
-d621283|zxl hhyccc|Sun Jul 5 21:55:30 2026 +0800|luci-app-ssr-plus: Fix type erro.
-c131a54|zxl hhyccc|Sun Jul 5 21:27:11 2026 +0800|luci-app-ssr-plus: add "vivo" connection detection url option
-</details>
