@@ -2,8 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7ea3693|Eamon|Tue Jul 7 11:49:37 2026 +0800|chore: improve Vite HMR logs
-1d03479|Eamon|Tue Jul 7 10:09:22 2026 +0800|refactor: consume @eamonxg/aurora-tokens instead of in-tree token model
-336cddc|Eamon|Tue Jul 7 01:32:15 2026 +0800|build: zero-config dev environment and robust .ut template sync
-9cb8b1d|Eamon|Tue Jul 7 00:24:19 2026 +0800|build: drop the remove-layers PostCSS pass, ship native @layer structure
+1b48f1e|Eamon|Wed Jul 8 00:47:57 2026 +0800|fix: close mobile drawer instantly to prevent ghosting on navigation
+a21c7ee|Eamon|Wed Jul 8 00:24:10 2026 +0800|feat: redesign sidebar top area and unify collapse control
 </details>

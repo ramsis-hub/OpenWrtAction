@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-20db1985|ShanStone|Mon Jul 6 22:04:21 2026 +0800|luci: eliminate tr process in insert_nftset function
-</details>

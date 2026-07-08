@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-50ea41ea0|Thibaut VARÈNE|Tue Jun 30 10:44:41 2026 +0200|uspot: update to Git HEAD (2026-06-30)
+6bb0adf14|Daniel F. Dickinson|Wed Jun 24 19:57:06 2026 -0400|radicale3: tweak description for modern clients
+a462359a7|Daniel F. Dickinson|Wed Jun 24 19:52:28 2026 -0400|radicale3: bump version to 3.7.5
 </details>
