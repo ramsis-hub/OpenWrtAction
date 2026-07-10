@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ab08f6a524|Rosen Penev|Thu Jul 2 14:53:21 2026 -0700|mac80211: ath9k: call reset on init
-</details>

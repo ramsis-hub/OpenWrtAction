@@ -1,9 +1,0 @@
-<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0e02044|Eamon|Thu Jul 9 01:52:56 2026 +0800|fix: round table header corners only on the first row
-64ae2df|Eamon|Thu Jul 9 01:33:31 2026 +0800|fix: clamp form control widths to a uniform 210px baseline
-45cbcf3|Eamon|Thu Jul 9 01:20:08 2026 +0800|fix: default link colour to the brand colour in both modes
-031283c|Eamon|Thu Jul 9 00:43:14 2026 +0800|fix: park hidden tooltips off-screen and stack mobile card fields
-</details>
