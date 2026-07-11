@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7834bdc7f|Alexandru Ardelean|Thu Jul 9 16:55:35 2026 +0300|avahi: fix typo in version check override
-5c12bb506|Mario Andrés Pérez|Tue Nov 18 14:47:47 2025 +0100|avahi: define missing DEFAULT_VARIANT and add conflicts - Add DEFAULT_VARIANT to "avahi-daemon" and "libavahi" virtual packages; set to "dbus" variant because it is more compatible. When some package depends on one of these virtual packages an arbitrarily variant it is selected. This avoids that.
-70ccf20cc|Alexandru Ardelean|Fri Jul 3 16:24:41 2026 +0300|avahi: update to 0.9-rc5 / 0.9_rc5
-9d2da95d6|George Sapkin|Mon May 11 20:10:13 2026 +0300|avahi: move version checks to override
+71dc6b7bd|Alexandru Ardelean|Fri May 29 06:59:23 2026 +0300|kea: bump to 3.0.3
 </details>

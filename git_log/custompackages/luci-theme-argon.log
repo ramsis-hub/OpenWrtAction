@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-theme-argon new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+8344bc9|老竭力|Fri Jul 10 14:57:50 2026 +0800|Merge pull request #678 from ckorber/pr/cbi_tooltip
+fe7b105|Christian Korber|Thu Jul 9 12:53:00 2026 +0200|fix(css): remove transform on tooltip
+</details>
