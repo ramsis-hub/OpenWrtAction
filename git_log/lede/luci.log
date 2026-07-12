@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+53b556d98a|coolsnowwolf|Sun Jul 12 11:39:03 2026 +0800|luci-mod-network: fix wireless sta+ap mode unset uci
+</details>
