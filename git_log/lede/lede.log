@@ -1,8 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-405f95510|coolsnowwolf|Sun Jul 12 08:54:19 2026 +0800|kernel: bump 6.18 to 6.18.36
-6b8b39a13|Miles Poupart|Sun Jul 12 08:22:11 2026 +0800|kernel: bump 6.12 to 6.12.95 (#14083)
-18ce6f116|coolsnowwolf|Sat Jul 11 16:41:14 2026 +0800|airoha: use kernel 6.18 by default
-</details>

@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-53b556d98a|coolsnowwolf|Sun Jul 12 11:39:03 2026 +0800|luci-mod-network: fix wireless sta+ap mode unset uci
+4823684a20|coolsnowwolf|Sun Jul 12 20:34:35 2026 +0800|luci-mod-network: add qca-wifi repeater mode
+7d8b17f72d|coolsnowwolf|Sun Jul 12 19:15:20 2026 +0800|luci-mod-network: add dual repeater apcliX support
+622d6722cb|coolsnowwolf|Sun Jul 12 12:10:41 2026 +0800|luci-mod-network: keep ht-mode when connect with sta+ap
 </details>

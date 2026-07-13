@@ -2,15 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-41a01ab|coolsnowwolf|Sun Jul 12 10:23:36 2026 +0800|luci-app-ssr-plus: bump version to v196.5
-2b37e20|coolsnowwolf|Sun Jul 12 10:13:55 2026 +0800|mihomo: update to 1.19.28
-74e31f0|coolsnowwolf|Sun Jul 12 10:10:01 2026 +0800|xray-core: update to 26.7.11
-656790b|coolsnowwolf|Sun Jul 12 10:03:50 2026 +0800|CI: omit build info from release assets
-78789ab|coolsnowwolf|Sun Jul 12 09:16:24 2026 +0800|CI: use Go 1.26 for IPK package builds
-c5b8f8e|coolsnowwolf|Sun Jul 12 08:19:44 2026 +0800|CI: allow manual package build tests
-f35e170|coolsnowwolf|Sun Jul 12 08:15:56 2026 +0800|CI: remove duplicate workflow package for release
-759113b|zxl hhyccc|Sat Jul 11 22:36:40 2026 +0800|luci-app-ssr-plus: add unsafe fingerprint to xray settings.
-cdf326e|coolsnowwolf|Sat Jul 11 21:30:16 2026 +0800|simple-obfs: tallball to tar.xz
-0948fe9|coolsnowwolf|Sat Jul 11 17:55:46 2026 +0800|luci-app-ssr-plus: bump version to v196.4
-b06044a|coolsnowwolf|Sat Jul 11 17:47:55 2026 +0800|simple-obfs: update tarball to tar.gz
+39a9579|zxl hhyccc|Mon Jul 13 00:24:24 2026 +0800|naiveproxy: update to 150.0.7871.63-1
 </details>

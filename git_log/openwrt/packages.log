@@ -2,5 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2e291e7dc|Eric Fahlgren|Sat Jul 11 06:53:23 2026 -0700|owut: update to 2026.07.08
+77e57b4d1|Daniel F. Dickinson|Fri Jul 10 02:12:21 2026 -0400|zabbix: add version check override
+2b71b804f|Daniel F. Dickinson|Thu Jul 9 23:30:55 2026 -0400|zabbix: remove dependency on symbol ZABBIX_ENABLE_ZABBIX
+9d13661b7|Daniel F. Dickinson|Sun Jun 21 22:27:42 2026 -0400|zabbix: bump to 7.0.27 and fix Makefile
+f4460b61a|Daniel F. Dickinson|Sat May 9 17:32:18 2026 -0400|zabbix: prevent invalid package selection
+2d3c4a3bf|Daniel F. Dickinson|Sat May 9 14:41:25 2026 -0400|zabbix: bump version
+dceecc22b|Daniel F. Dickinson|Mon Mar 16 02:43:17 2026 -0400|zabbix: hide CONFIG symbols when no Zabbix package selected
+880a3bb44|Daniel F. Dickinson|Mon Mar 16 02:34:27 2026 -0400|zabbix: change spaces to tabs in Config.in
+60f08463e|Daniel F. Dickinson|Mon Mar 16 02:30:50 2026 -0400|zabbix: move small config-xx.in back to Makefile
+501ebaace|Daniel F. Dickinson|Mon Feb 16 12:37:05 2026 -0500|zabbix: add full variants and add-on support for other
 </details>

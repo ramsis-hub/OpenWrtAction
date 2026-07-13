@@ -1,0 +1,10 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+feb14282|A-BO|Mon Jul 13 00:47:17 2026 +0800|luci: add OR logic support to node rule matching
+6f0873c5|A-BO|Sun Jul 12 23:22:49 2026 +0800|luci: optimize and adjust
+a49686d1|ShanStone|Sun Jul 12 22:09:57 2026 +0800|luci: typo iptables.sh
+a961328b|ShanStone|Sun Jul 12 21:38:32 2026 +0800|luci; clean up shell syntax typos
+6b9ff417|ShanStone|Sun Jul 12 21:19:27 2026 +0800|luci: enhance efficiency of insert_nftset
+</details>
