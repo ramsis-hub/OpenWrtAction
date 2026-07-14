@@ -1,0 +1,12 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+07e112488|Miles Poupart|Thu Jun 4 08:22:11 2026 +0800|kernel: bump 6.12 to 6.12.95
+76a764d21|coolsnowwolf|Mon Jul 13 18:04:19 2026 +0800|kernel: bump all to latest HEAD
+f08c8cb6c|coolsnowwolf|Wed May 20 18:05:50 2026 +0800|mac80211: fix 6GHz and refresh patch
+405f95510|coolsnowwolf|Sun Jul 12 08:54:19 2026 +0800|kernel: bump 6.18 to 6.18.36
+6b8b39a13|Miles Poupart|Sun Jul 12 08:22:11 2026 +0800|kernel: bump 6.12 to 6.12.95 (#14083)
+18ce6f116|coolsnowwolf|Sat Jul 11 16:41:14 2026 +0800|airoha: use kernel 6.18 by default
+bedbed034|coolsnowwolf|Sat Jul 11 15:34:15 2026 +0800|rockchip: switch to kernel 6.18
+</details>
