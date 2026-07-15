@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bf1037ce|A-BO|Mon Jul 13 16:43:17 2026 +0800|luci: add default value for xray fragment
+7df94111|A-BO|Tue Jul 14 22:52:24 2026 +0800|luci: add batch backup node support for socks
 </details>

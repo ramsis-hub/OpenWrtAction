@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5cded38|A-BO|Tue Jul 14 22:59:44 2026 +0800|luci: add default value for xray fragment
+</details>
