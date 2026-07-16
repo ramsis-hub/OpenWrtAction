@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-023331deb|Dirk Brenken|Tue Jul 14 18:38:15 2026 +0200|adblock: update 4.5.6-4
+d3dba685e|Jack Lovell|Sun May 31 15:49:39 2026 +0100|ocserv: support custom server SSL certificate
+af3588c20|Paul Donald|Tue Apr 21 16:10:02 2026 +0200|ocserv: bump to v1.4.1
 </details>

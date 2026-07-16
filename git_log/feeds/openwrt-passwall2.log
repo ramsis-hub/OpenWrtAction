@@ -2,5 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5cded38|A-BO|Tue Jul 14 22:59:44 2026 +0800|luci: add default value for xray fragment
+e9c2c67|handsomeji|Thu Jul 16 01:14:06 2026 +0800|luci: 26.7.16
+27c71e8|A-BO|Tue Jul 14 22:52:24 2026 +0800|luci: add batch backup node support for socks
+88cd462|A-BO|Wed Jul 15 12:46:23 2026 +0800|luci: xray inbound reality add `minClientVer`
+b5a9e1c|A-BO|Wed Jul 15 12:56:52 2026 +0800|luci: remove xray `allowInsecure`
+ff0b874|handsomeji|Thu Jul 16 01:07:55 2026 +0800|luci: add manual fetch of pinnedPeerCertSha256
+b752b2d|handsomeji|Thu Jul 16 00:31:11 2026 +0800|luci: optimize code
+ff13158|handsomeji|Wed Jul 15 18:32:37 2026 +0800|luci: adjust and optimize
+d9d559b|Jackie264|Thu Jul 16 00:53:59 2026 +0800|luci: fix auto-migrate fragment configs and prevent xray core panic (#1182)
+a3fe398|SwordKing|Wed Jul 15 17:15:30 2026 +0800|luci: add ech support in trojan link sharing and subscription (#1183)
 </details>

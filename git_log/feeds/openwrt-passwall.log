@@ -2,5 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7df94111|A-BO|Tue Jul 14 22:52:24 2026 +0800|luci: add batch backup node support for socks
+cf813135|A-BO|Wed Jul 15 17:17:54 2026 +0800|luci: add ech support in trojan link sharing and subscription
+f075d6ec|A-BO|Wed Jul 15 12:59:00 2026 +0800|luci: 26.7.15
+3c107355|A-BO|Wed Jul 15 12:56:52 2026 +0800|luci: remove xray `allowInsecure`
+a44717e7|A-BO|Wed Jul 15 12:46:23 2026 +0800|luci: xray inbound reality add `minClientVer`
 </details>
