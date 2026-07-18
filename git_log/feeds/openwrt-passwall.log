@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3f7695d6|A-BO|Thu Jul 16 21:40:01 2026 +0800|luci: 26.7.16
-20fd7808|handsomeji|Thu Jul 16 00:31:11 2026 +0800|luci: optimize code
-ef0df88c|A-BO|Thu Jul 16 17:21:59 2026 +0800|luci: adjust and optimize
-6770f11b|A-BO|Thu Jul 16 13:36:59 2026 +0800|luci: support manual fetch of xray hy2 `pinnedPeerCertSha256`
-c8ce288e|A-BO|Thu Jul 16 13:19:18 2026 +0800|luci: fixup
+b6d5443b|A-BO|Sat Jul 18 01:20:24 2026 +0800|luci: adjust nftables `drop` to `reject`
+49175d02|A-BO|Fri Jul 17 23:28:07 2026 +0800|luci: add `HappyEyeballs` for xray
+678d4cdd|A-BO|Fri Jul 17 13:25:44 2026 +0800|luci: adjust code
 </details>

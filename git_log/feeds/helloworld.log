@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3493f92|zxlhhyccc|Thu Jul 16 23:11:31 2026 +0800|luci-app-ssr-plus: Fix mihomo dashboard and other UI layouts on mobile devices.
-34fe8a7|zxl hhyccc|Thu Jul 16 22:54:26 2026 +0800|Merge pull request #2026 from banana121/fix-xhr-bug
-598b01a|banana121|Thu Jul 16 11:37:28 2026 +0800|Fix XHR.post TypeError in LuCI new version
+3959d35|coolsnowwolf|Sat Jul 18 10:51:40 2026 +0800|luci-app-ssr-plus: bump version to v196.6
+3847099|zxlhhyccc|Fri Jul 17 23:45:24 2026 +0800|luci-app-ssr-plus: Fix and optimize the display on mobile devices.
 </details>
