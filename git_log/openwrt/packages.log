@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-629228132|Michael A Cassaniti|Sat Jul 4 09:35:19 2026 +1000|acme-common: version bump to 1.5.3 after adding nftables hooks
-17a46611c|Michael A Cassaniti|Mon Jun 22 13:17:52 2026 +1000|acme-common: move nftables rule to hook
+e7dfc505b|Alexandru Ardelean|Sat Jul 18 17:54:50 2026 +0300|wget: rank wget-nossl below uclient-fetch for the wget alternative
+ef026618e|Ismail Kundakci|Sun Jul 12 22:40:21 2026 +0300|docker: update to 29.6.1
+6796ae1b9|Ismail Kundakci|Sun Jul 12 22:40:21 2026 +0300|dockerd: update to 29.6.1
+e0e944c38|Ismail Kundakci|Sun Jul 12 22:40:21 2026 +0300|containerd: update to 2.2.5
+9488d6d51|Ismail Kundakci|Sun Jul 12 22:40:21 2026 +0300|runc: update to 1.3.6
+450d269d1|Daniel F. Dickinson|Mon Jul 13 00:28:12 2026 -0400|radicale3: bump version to 3.7.6
 </details>

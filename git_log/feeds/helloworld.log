@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3959d35|coolsnowwolf|Sat Jul 18 10:51:40 2026 +0800|luci-app-ssr-plus: bump version to v196.6
-3847099|zxlhhyccc|Fri Jul 17 23:45:24 2026 +0800|luci-app-ssr-plus: Fix and optimize the display on mobile devices.
+aa3506e|zxlhhyccc|Sat Jul 18 23:17:26 2026 +0800|luci-app-ssr-plus: support manual fetch of xray hy2 pinnedPeerCertSha256.
+be46023|zxl hhyccc|Sat Jul 18 22:11:56 2026 +0800|mihomo: update to 1.19.29
+6f10005|zxlhhyccc|Sat Jul 18 21:13:29 2026 +0800|luci-app-ssr-plus: Adjust the update logic of the database.
 </details>
