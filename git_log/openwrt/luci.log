@@ -1,0 +1,11 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+61d191e37b|Stan Grishin|Fri Jul 17 18:25:43 2026 +0000|luci-app-https-dns-proxy: update to 2026.05.06-1
+a8350bc4ad|Stan Grishin|Fri Jul 17 18:25:18 2026 +0000|luci-app-adblock-fast: update to 1.2.4-4
+0465916d7a|Stan Grishin|Fri Jul 17 18:14:32 2026 +0000|luci-app-pbr: update to 1.2.2-20
+ca9f73a885|Dirk Brenken|Sun Jul 19 18:32:05 2026 +0200|luci-app-banip: fix ACL for non-root users
+e1cf240ade|Dirk Brenken|Sun Jul 19 18:20:15 2026 +0200|luci-app-adblock: fix ACL for non-root users
+48ac0e4beb|Dirk Brenken|Sun Jul 19 18:03:34 2026 +0200|luci-app-travelmate: fix WLAN scan for non-root users
+</details>

@@ -1,8 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-aa3506e|zxlhhyccc|Sat Jul 18 23:17:26 2026 +0800|luci-app-ssr-plus: support manual fetch of xray hy2 pinnedPeerCertSha256.
-be46023|zxl hhyccc|Sat Jul 18 22:11:56 2026 +0800|mihomo: update to 1.19.29
-6f10005|zxlhhyccc|Sat Jul 18 21:13:29 2026 +0800|luci-app-ssr-plus: Adjust the update logic of the database.
-</details>

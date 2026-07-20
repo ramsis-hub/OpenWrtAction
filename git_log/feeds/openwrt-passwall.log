@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d4b2a510|wybb|Sun Jul 19 00:06:48 2026 +0800|luci: add server startup delay setting (#4429)
-5d8f411a|ShanStone|Sat Jul 18 21:20:27 2026 +0800|luci: optimise nftset timeout (#4427)
+73cd7a97|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
+3e3cf508|A-BO|Sun Jul 19 15:50:09 2026 +0800|luci: adjust nftables environment dependency check
+bd0b58aa|handsomeji|Sun Jul 19 15:05:01 2026 +0800|luci: adjust iptables `drop` to `reject`
+b8bb676b|A-BO|Sun Jul 19 15:01:29 2026 +0800|luci: update default rules
 </details>
