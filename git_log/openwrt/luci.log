@@ -2,10 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2acd536063|Coia Prant|Wed May 27 10:03:15 2026 +0000|luci-mod-network: don't show Carrier on dynamic/alias interface
-237d6354ef|Daniel F. Dickinson|Fri Jul 3 21:31:20 2026 -0400|luci-app-nut: only allow admin write access and limit read access
-c155cd9945|Paul Donald|Tue May 26 17:26:02 2026 +0300|luci-app-ddns: correctness fixes
-61232153a8|Dirk Brenken|Mon Jul 20 18:15:38 2026 +0200|luci-app-banip: grant the ubus file methods used by the frontend
-7370d6b85e|Dirk Brenken|Mon Jul 20 18:05:22 2026 +0200|luci-app-adblock: grant the ubus file methods used by the frontend
-f539c17ad2|Dirk Brenken|Mon Jul 20 17:51:46 2026 +0200|luci-app-travelmate: fix status polling and uplink creation for non-root users
+8291c9f524|Dirk Brenken|Tue May 12 21:28:44 2026 +0200|luci-app-lxc: fix authenticated path traversal and ACL bypass (host root)
+a03941bdd4|Liangbin Lian|Wed Jul 1 21:14:09 2026 +0800|luci-base: dispatcher.uc: escape URL path and username when logging
 </details>

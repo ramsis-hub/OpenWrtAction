@@ -1,0 +1,12 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+f36e3e98d|Hauke Mehrtens|Tue Jul 21 03:15:29 2026 +0200|cgi-io: update to Git HEAD (2026-07-21)
+e84caf600|Niklas Thorild|Mon Jul 20 22:24:02 2026 +0200|telegraf: update to 1.39.2
+320310783|Dharmik Parmar|Thu Jul 2 09:01:55 2026 +0530|watchcat: update package maintainers
+c5a67ea9b|Dharmik Parmar|Thu Jul 2 09:01:19 2026 +0530|watchcat: resolve logical interface names
+62cda43de|Dharmik Parmar|Wed Jun 24 22:37:18 2026 +0530|watchcat: clarify recovery timer baseline
+1eb8198d6|Dharmik Parmar|Mon May 11 23:34:08 2026 +0530|watchcat: add optional failure timer reset
+8ecbd3404|Dharmik Parmar|Sun May 10 01:47:48 2026 +0530|watchcat: clarify restart log wording
+</details>

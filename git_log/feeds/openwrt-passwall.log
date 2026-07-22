@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+d0112412|A-BO|Tue Jul 21 17:23:59 2026 +0800|luci: add the `pexcn` rule list
+17906250|A-BO|Mon Jul 20 20:06:30 2026 +0800|luci: Adjust the fakedns logic of the DNS component
+9b98ad44|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
 a26ccb26|A-BO|Mon Jul 20 20:06:30 2026 +0800|luci: Adjust the fakedns logic of the DNS component
+73cd7a97|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
 </details>
