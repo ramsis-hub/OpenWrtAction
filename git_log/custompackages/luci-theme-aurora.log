@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+7f0ef46|Eamon|Thu Jul 23 01:23:30 2026 +0800|fix: unify header glyphs on the Tabler set
+3cd64d3|eamonxg|Wed Jul 22 22:17:52 2026 +0800|feat: upgrade header route search into a command palette (#91)
+</details>

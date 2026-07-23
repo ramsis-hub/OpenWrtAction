@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8291c9f524|Dirk Brenken|Tue May 12 21:28:44 2026 +0200|luci-app-lxc: fix authenticated path traversal and ACL bypass (host root)
-a03941bdd4|Liangbin Lian|Wed Jul 1 21:14:09 2026 +0800|luci-base: dispatcher.uc: escape URL path and username when logging
+e03260dd7c|Hauke Mehrtens|Tue Jul 21 22:38:48 2026 +0200|luci-proto-ipv6: dhcpv6: add option to select the DHCPv6 client ID
+be10db9f09|Hauke Mehrtens|Tue Jul 21 22:38:48 2026 +0200|luci-base: protocol/dhcp: add option to select the DHCPv4 client ID
 </details>

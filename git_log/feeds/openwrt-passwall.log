@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d0112412|A-BO|Tue Jul 21 17:23:59 2026 +0800|luci: add the `pexcn` rule list
-17906250|A-BO|Mon Jul 20 20:06:30 2026 +0800|luci: Adjust the fakedns logic of the DNS component
-9b98ad44|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
-a26ccb26|A-BO|Mon Jul 20 20:06:30 2026 +0800|luci: Adjust the fakedns logic of the DNS component
-73cd7a97|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
+e9c05acf|A-BO|Thu Jul 23 11:24:18 2026 +0800|luci: optimize
+3e525ad2|A-BO|Wed Jul 22 22:11:59 2026 +0800|luci: add `disable-reuse` option for anytls
+3db89c69|A-BO|Wed Jul 22 21:27:50 2026 +0800|luci: optimize anytls subscription
+804dcf7f|A-BO|Wed Jul 22 12:55:08 2026 +0800|luci: optimize xray balancing logic
 </details>
