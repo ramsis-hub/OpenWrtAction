@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e9c05acf|A-BO|Thu Jul 23 11:24:18 2026 +0800|luci: optimize
-3e525ad2|A-BO|Wed Jul 22 22:11:59 2026 +0800|luci: add `disable-reuse` option for anytls
-3db89c69|A-BO|Wed Jul 22 21:27:50 2026 +0800|luci: optimize anytls subscription
-804dcf7f|A-BO|Wed Jul 22 12:55:08 2026 +0800|luci: optimize xray balancing logic
+ae5d8e9d|A-BO|Fri Jul 24 10:55:42 2026 +0800|luci: 26.7.24
+1287338f|A-BO|Fri Jul 24 10:40:56 2026 +0800|luci: adjust the logic of socks auto switch
+3fdfb25d|A-BO|Thu Jul 23 18:01:17 2026 +0800|luci: optimize clash subconverter
 </details>

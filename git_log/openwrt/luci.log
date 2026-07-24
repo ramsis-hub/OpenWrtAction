@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e03260dd7c|Hauke Mehrtens|Tue Jul 21 22:38:48 2026 +0200|luci-proto-ipv6: dhcpv6: add option to select the DHCPv6 client ID
-be10db9f09|Hauke Mehrtens|Tue Jul 21 22:38:48 2026 +0200|luci-base: protocol/dhcp: add option to select the DHCPv4 client ID
+7ef993840a|Hannu Nyman|Thu Jul 23 23:04:43 2026 +0300|treewide: backport and sync translations.
 </details>

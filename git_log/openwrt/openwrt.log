@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-029fec8245|Hauke Mehrtens|Tue Jul 21 03:28:58 2026 +0200|rpcd: update to Git HEAD (2026-07-19)
-eae2afc352|Shine|Sun May 31 20:33:57 2026 +0200|scripts: dhcp: option to override preferred Client ID per interface
-</details>
