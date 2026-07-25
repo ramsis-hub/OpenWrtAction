@@ -2,10 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-67d0d63|Eamon|Thu Jul 23 21:31:15 2026 +0800|docs: add the eamonxg package feed as an install method
-96054be|Eamon|Thu Jul 23 20:16:19 2026 +0800|chore: untrack local superpowers spec doc
-c096d63|Eamon|Thu Jul 23 16:57:44 2026 +0800|ci: emit the missing-token annotation on stdout
-ed08cb0|Eamon|Thu Jul 23 16:56:14 2026 +0800|ci: fail the release when the feed is never notified
-b2d83a7|Eamon|Thu Jul 23 14:53:52 2026 +0800|docs: specify Aurora release poster
-7ab8b09|Eamon|Thu Jul 23 12:54:45 2026 +0800|ci: dispatch openwrt-feed rebuild on tag release
+7066351|shiraneko|Sat Jul 25 02:15:34 2026 +0800|fix: add CSS patches for luci-app-qmodem admin pages (#92)
 </details>

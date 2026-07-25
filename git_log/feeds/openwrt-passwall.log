@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ae5d8e9d|A-BO|Fri Jul 24 10:55:42 2026 +0800|luci: 26.7.24
-1287338f|A-BO|Fri Jul 24 10:40:56 2026 +0800|luci: adjust the logic of socks auto switch
-3fdfb25d|A-BO|Thu Jul 23 18:01:17 2026 +0800|luci: optimize clash subconverter
-</details>
