@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7066351|shiraneko|Sat Jul 25 02:15:34 2026 +0800|fix: add CSS patches for luci-app-qmodem admin pages (#92)
+5d72aff|eamonxg|Sun Jul 26 00:19:47 2026 +0800|perf: optimize raw theme assets
+f6d6b41|Eamon|Sat Jul 25 17:44:55 2026 +0800|feat: in-mock navigation, one-key capture and hardening for /mocks/
+9f0006e|Eamon|Sat Jul 25 02:14:21 2026 +0800|feat: add a dev mock-pages workflow for third-party app pages
 </details>

@@ -1,6 +1,0 @@
-<details> <summary> <b>OpenWrt-nikki new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-f06b6b4|Joseph Mory|Fri Jul 24 14:21:54 2026 +0800|fix: mojibake when saving a large file
-</details>

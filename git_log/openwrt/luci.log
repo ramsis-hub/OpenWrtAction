@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-58d43e57af|Jo-Philipp Wich|Fri Jul 24 11:56:35 2026 +0200|rpcd: fix file ACLs for symlinked /proc paths
+b0db6e77e5|Hauke Mehrtens|Sat Jul 4 01:50:45 2026 +0200|luci-mod-network: wireless: add gcmp256, sae_ext_key, transition_disable
+c6a99a74f4|Hauke Mehrtens|Sat Jul 4 01:50:45 2026 +0200|luci-mod-network: wireless: add WPA3-Personal Compatibility Mode
 </details>

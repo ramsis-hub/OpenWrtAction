@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+4d0fec5a48|Fil Dunsky|Fri May 1 10:05:22 2026 +0300|mediatek: cleanup Huasifei WH3000 / WH3000 Pro dts
+2a9a97a6ec|Fil Dunsky|Fri Apr 3 13:04:33 2026 +0300|mediatek: add support for Wavlink WL-WNT100X3 ubootmod
+ac12ba266e|Fil Dunsky|Fri Apr 3 12:44:50 2026 +0300|mediatek: add support for Wavlink WL-WNT100X3
+cedb1a8147|Hauke Mehrtens|Tue Jul 21 23:15:48 2026 +0200|mac80211: bump to version 6.18.39
+</details>
