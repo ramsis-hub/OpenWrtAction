@@ -2,7 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5d72aff|eamonxg|Sun Jul 26 00:19:47 2026 +0800|perf: optimize raw theme assets
-f6d6b41|Eamon|Sat Jul 25 17:44:55 2026 +0800|feat: in-mock navigation, one-key capture and hardening for /mocks/
-9f0006e|Eamon|Sat Jul 25 02:14:21 2026 +0800|feat: add a dev mock-pages workflow for third-party app pages
+e14cfcd|Eamon|Mon Jul 27 00:51:38 2026 +0800|refactor: rewrite patches in plain css, shedding the tailwind toll
+a5b44da|Eamon|Mon Jul 27 00:51:26 2026 +0800|feat: teach patches to load scripts and dress the log pages
+ca1e665|Eamon|Sun Jul 26 22:21:00 2026 +0800|fix: borrow the config app's translated mode labels
+d682f12|Eamon|Sun Jul 26 22:07:46 2026 +0800|fix: repaint the bar in step with theme flips
+cc3b7c9|Eamon|Sun Jul 26 21:43:02 2026 +0800|feat: slide the sidebar and content as one coupled wall
+b473e82|Eamon|Sun Jul 26 21:42:49 2026 +0800|test: catch stale assertions up with the aligned radii
+ac043fa|Eamon|Sun Jul 26 20:08:05 2026 +0800|fix: align stray radii with their component peers
+ac20829|Eamon|Sun Jul 26 19:28:26 2026 +0800|refactor: scope the content width cap to centred layouts
 </details>

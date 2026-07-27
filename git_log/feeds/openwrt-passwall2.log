@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-05d3eea|YourLi|Sun Jul 26 02:20:55 2026 +0800|luci-app-passwall2: add independent log and loglevel support for ACL rules (#1194)
+5ef64bc|Ali Zamani J|Sun Jul 26 10:31:56 2026 +0330|luci-app-passwall2: monitor queued processes (#1197)
 </details>

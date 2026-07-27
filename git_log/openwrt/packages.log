@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+32bce3906|Dirk Brenken|Sun Jul 26 21:53:09 2026 +0200|adblock: keep the GeoIP map usable without a local uplink
+4ab7a800c|Dirk Brenken|Sun Jul 26 19:54:08 2026 +0200|banip: fix the local uplink lookup of the GeoIP map
+7db9dfef4|Dirk Brenken|Sun Jul 26 06:48:30 2026 +0200|travelmate: fix loss of configured uplink mac address
+</details>

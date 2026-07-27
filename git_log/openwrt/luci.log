@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b0db6e77e5|Hauke Mehrtens|Sat Jul 4 01:50:45 2026 +0200|luci-mod-network: wireless: add gcmp256, sae_ext_key, transition_disable
-c6a99a74f4|Hauke Mehrtens|Sat Jul 4 01:50:45 2026 +0200|luci-mod-network: wireless: add WPA3-Personal Compatibility Mode
+37279809c2|Hannu Nyman|Sun Jul 26 23:07:28 2026 +0300|luci-base: sync translations
+46a6849ad9|Hannu Nyman|Sun Jul 26 22:57:49 2026 +0300|luci-proto-wireguard: escape slash in regex in javascript
+300b563f7b|Hannu Nyman|Sun Jul 26 22:57:38 2026 +0300|treewide: escape slash chars in regex strings in .js files
+35e46cd9cf|Dirk Brenken|Sun Jul 26 21:34:57 2026 +0200|luci-app-adblock: fix dropped and unescaped map entries
+be08889299|Dirk Brenken|Sun Jul 26 19:26:36 2026 +0200|luci-app-banip: several map improvements
+fc5ce458ac|Andy Chiang|Sat Jul 25 17:49:51 2026 +0700|luci-app-ddns: fix syntax error
 </details>

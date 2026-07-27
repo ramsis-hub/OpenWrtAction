@@ -2,5 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6d47b3d5cf|hokyouni|Sun Jul 26 00:04:34 2026 +0800|luci-app-turboacc: fix Broadcom spelling (#409)
+50325b18e8|coolsnowwolf|Sun Jul 26 21:43:39 2026 +0800|luci-mod-network: avoid QCA wireless runtime stalls
+349a4823af|coolsnowwolf|Sun Jul 26 16:05:17 2026 +0800|luci-mod-network: default AP tx power display to 30 dBm
+5c474ae68e|coolsnowwolf|Sun Jul 26 16:02:04 2026 +0800|luci-mod-status: check carrier before showing port speed
+533f2d3518|coolsnowwolf|Sun Jul 26 15:57:38 2026 +0800|luci-mod-network: avoid blocking on wireless runtime state
 </details>
