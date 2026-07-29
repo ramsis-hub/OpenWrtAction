@@ -1,0 +1,7 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b61f907ec4|Hannu Nyman|Tue Jul 28 23:30:34 2026 +0300|luci-lua-runtime: update timezone data to 2026c
+8faf80b5dc|Hannu Nyman|Tue Jul 28 23:30:18 2026 +0300|luci-base: update timezone data to 2026c
+</details>

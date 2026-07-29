@@ -1,0 +1,14 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+152b86e6ab|Florian Maurer|Mon Dec 29 01:30:27 2025 +0100|package: utils: umbim: add dns servers independent of peerdns
+75824a7524|Florian Maurer|Mon Dec 29 01:30:03 2025 +0100|package: utils: uqmi: add dns servers independent of peerdns
+5e8820fd2b|Tomáš Macholda|Tue Jul 7 17:47:52 2026 +0200|mvebu: turris-mox: fix USB2 detection
+79ccde842f|Štěpán Dalecký|Fri Jun 5 19:04:30 2026 +0200|mvebu: set MOX firmware fallback via cmdline
+126b593a48|Štěpán Dalecký|Fri Jun 5 17:47:03 2026 +0200|mvebu: add kmod-btmrvl to Turris MOX packages
+a08b30de2d|Štěpán Dalecký|Fri Jun 5 16:02:09 2026 +0200|mvebu: fix Turris MOX update
+7d74311702|Štěpán Dalecký|Tue May 19 08:17:43 2026 +0200|mvebu: add mwifiex sdio kernel module for Turris Mox
+6a65e9e479|Štěpán Dalecký|Tue May 19 08:17:43 2026 +0200|mvebu: add fw_env.config for Turris Mox
+791568c2cc|Štěpán Dalecký|Tue May 19 08:17:43 2026 +0200|mvebu: fix squashfs boot for Turris Mox
+</details>

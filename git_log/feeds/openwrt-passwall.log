@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-edbf910e|A-BO|Mon Jul 27 13:24:36 2026 +0800|luci: adjust the access control logging logic
-</details>
