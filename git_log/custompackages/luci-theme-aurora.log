@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e681ecb|Eamon|Wed Jul 29 23:26:01 2026 +0800|fix: render every log token verbatim, copies byte-identical
+ee16953|Eamon|Wed Jul 29 22:38:50 2026 +0800|fix: contain select-all, follow the tail, leave dmesg unsplit
+</details>

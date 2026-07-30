@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+636c7218|A-BO|Wed Jul 29 20:50:06 2026 +0800|Revert "luci: add `disable-reuse` option for anytls"
+</details>

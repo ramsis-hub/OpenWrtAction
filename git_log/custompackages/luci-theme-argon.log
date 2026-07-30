@@ -1,7 +1,0 @@
-<details> <summary> <b>luci-theme-argon new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-b43b34c|老竭力|Tue Jul 28 18:29:20 2026 +0800|Merge pull request #692 from sydnkj/master
-a496b6e|WenisOK|Tue Jul 28 18:09:02 2026 +0800|fix(pr) 修复#688，仅修改了编译产物，没有修改less源代码的问题
-</details>
