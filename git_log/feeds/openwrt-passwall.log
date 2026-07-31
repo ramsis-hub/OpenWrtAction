@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-636c7218|A-BO|Wed Jul 29 20:50:06 2026 +0800|Revert "luci: add `disable-reuse` option for anytls"
+85cb3f75|A-BO|Thu Jul 30 13:27:08 2026 +0800|luci: optimize
 </details>
