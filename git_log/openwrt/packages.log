@@ -1,6 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-b49a19078|Tyrel M. McQueen|Fri Jul 31 06:43:11 2026 -0400|unbound: update to 1.25.2 From upstream: 1.25.2 consolidates security fixes for issues reported over a period of time. There are fixes for CVE-2026-14586, CVE-2026-32665, CVE-2026-40691, CVE-2026-41637, CVE-2026-42955, CVE-2026-44621, CVE-2026-44687, CVE-2026-44690, CVE-2026-46582, CVE-2026-50045, CVE-2026-50046, CVE-2026-50243, CVE-2026-50248, CVE-2026-50251, CVE-2026-50252, CVE-2026-52863, CVE-2026-54478, CVE-2026-55708, CVE-2026-55717, CVE-2026-55973, CVE-2026-55990, CVE-2026-55991, CVE-2026-56416 and CVE-2026-56444.
-</details>
