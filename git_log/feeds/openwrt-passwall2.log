@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5b3ab64|garshany|Mon Aug 3 22:46:50 2026 +0300|luci-app-passwall2: fix hang on start with non-tty stdin (#1202)
+</details>

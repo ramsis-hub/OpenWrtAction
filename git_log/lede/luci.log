@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8a80dd11af|Dirk Brenken|Sun Aug 2 20:35:15 2026 +0200|luci-app-adblock: sync with release 4.5.7-1
+89dde1c8c2|coolsnowwolf|Tue Aug 4 02:42:15 2026 +0800|luci-mod-network: show stations on initial refresh
 </details>
