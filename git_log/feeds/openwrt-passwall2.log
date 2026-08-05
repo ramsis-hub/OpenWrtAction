@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5b3ab64|garshany|Mon Aug 3 22:46:50 2026 +0300|luci-app-passwall2: fix hang on start with non-tty stdin (#1202)
+c1d3d4f|garshany|Tue Aug 4 09:29:56 2026 +0300|luci: don't record a restart entry when the binary is missing (#1203)
 </details>
