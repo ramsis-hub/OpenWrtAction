@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-c1d3d4f|garshany|Tue Aug 4 09:29:56 2026 +0300|luci: don't record a restart entry when the binary is missing (#1203)
-</details>

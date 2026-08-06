@@ -1,6 +1,0 @@
-<details> <summary> <b>OpenWrt-nikki new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-388f34e|KozakLordOfMatrix|Tue Aug 4 12:17:05 2026 +0300|fix(rpcd): use TLS listen address for API requests when configured (#884)
-</details>
