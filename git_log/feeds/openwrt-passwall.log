@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0c986270|A-BO|Fri Aug 7 02:24:44 2026 +0800|luci: fixup in `iptables`
+08e44e62|A-BO|Fri Aug 7 01:49:05 2026 +0800|luci: optimize route rules for shunt node in gfw mode
+</details>

@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-821d3f0d64|Dirk Brenken|Wed Aug 5 18:34:22 2026 +0200|luci-app-adblock: frontpage/DNS report UI  redesign
+1654281656|Dirk Brenken|Thu Aug 6 21:30:00 2026 +0200|luci-app-banip: frontpage/Set report UI  redesign
+2a8d2f1f91|Dirk Brenken|Thu Aug 6 16:04:25 2026 +0200|luci-app-travelmate: frontpage UI  redesign
 </details>
