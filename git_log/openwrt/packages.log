@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-86c73a3c4|Etienne Champetier|Thu Aug 6 20:49:31 2026 -0400|simple-captive-portal: update to 2026.08.06 / use port 80
-f39ad7f14|Andris PE|Mon May 18 18:00:25 2026 +0000|simple-captive-portal: order nft chains predictably
-da0b58341|Dirk Brenken|Thu Aug 6 21:26:44 2026 +0200|banip: report the last run timestamp as ISO 8601
-277ad304e|Dirk Brenken|Thu Aug 6 15:56:40 2026 +0200|travelmate: release 2.4.7-1
-</details>

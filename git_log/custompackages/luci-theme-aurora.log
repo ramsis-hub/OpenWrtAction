@@ -1,0 +1,14 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+2030065|Eamon|Sat Aug 8 03:54:38 2026 +0800|Revert "fix: bust asset caches by mtime so updates land without a hard refresh"
+a736b08|Eamon|Sat Aug 8 03:53:02 2026 +0800|chore: bump to 1.1.14
+402b90b|Eamon|Sat Aug 8 03:47:53 2026 +0800|fix: bust asset caches by mtime so updates land without a hard refresh
+09ef157|Eamon|Sat Aug 8 03:06:55 2026 +0800|feat: two always-visible background cards replace the segmented switch
+c3646b3|Eamon|Sat Aug 8 02:56:52 2026 +0800|feat: dress the studio background panel via its page patch
+2941100|Eamon|Sat Aug 8 02:41:30 2026 +0800|feat: let the login card go frosted with its own three tunables
+66c3196|Eamon|Sat Aug 8 01:51:41 2026 +0800|feat: floor readability for any plugin page with a content canvas
+bb975aa|Eamon|Sat Aug 8 01:44:58 2026 +0800|fix: lift admin content above the fixed background layer
+98a7217|Eamon|Sat Aug 8 01:16:40 2026 +0800|feat: custom admin background behind frosted chrome and translucent cards
+</details>

@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0c986270|A-BO|Fri Aug 7 02:24:44 2026 +0800|luci: fixup in `iptables`
-08e44e62|A-BO|Fri Aug 7 01:49:05 2026 +0800|luci: optimize route rules for shunt node in gfw mode
+8ac81b1b|A-BO|Sat Aug 8 03:06:54 2026 +0800|luci: refactor socks auto switch logic
+a2989df1|A-BO|Fri Aug 7 21:51:00 2026 +0800|luci: dnsmasq supports geosite parsing
+65360259|A-BO|Fri Aug 7 13:39:51 2026 +0800|luci: optimize dns related code
 </details>

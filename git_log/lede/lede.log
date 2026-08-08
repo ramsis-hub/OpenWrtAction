@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-73c1191eb|aiamadeus|Tue Aug 4 18:05:09 2026 +0800|rockchip: package 3588 NPU driver
+e8bce2746|sucrisa|Fri Aug 7 18:00:10 2026 +0800|autocore: fix rps cpu mask on x86
 </details>

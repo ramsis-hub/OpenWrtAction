@@ -1,0 +1,19 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+993184f|handsomeji|Fri Aug 7 23:14:28 2026 +0800|luci: bump to 26.8.7
+91016a7|A-BO|Tue Aug 4 23:35:43 2026 +0800|luci: fix translate
+fff7e88|A-BO|Tue Aug 4 22:28:04 2026 +0800|luci: add anytls `client_metadata`
+d80a287|wybb|Fri Jul 31 13:45:33 2026 +0800|luci: preserve empty Hy bandwidth settings
+80b53e4|A-BO|Fri Jul 24 10:40:56 2026 +0800|luci: adjust the logic of socks auto switch
+ad691db|A-BO|Thu Jul 23 11:24:18 2026 +0800|luci: optimize
+b3e7049|A-BO|Wed Jul 22 22:11:59 2026 +0800|luci: add `disable-reuse` option for anytls
+5f15d83|A-BO|Wed Jul 22 21:27:50 2026 +0800|luci: optimize anytls subscription
+39be5a0|A-BO|Wed Jul 22 12:55:08 2026 +0800|luci: optimize xray balancing logic
+4524570|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
+f7981a3|A-BO|Fri Jul 17 23:28:07 2026 +0800|luci: add `HappyEyeballs` for xray
+89ca8e4|A-BO|Fri Jul 17 13:25:44 2026 +0800|luci: adjust code
+1a3c394|handsomeji|Sat Jul 18 14:48:10 2026 +0800|luci: adjust code
+fb5514a|handsomeji|Fri Aug 7 22:42:46 2026 +0800|luci: shunt rules support group and optimize code
+</details>

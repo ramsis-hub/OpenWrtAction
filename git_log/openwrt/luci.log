@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-1654281656|Dirk Brenken|Thu Aug 6 21:30:00 2026 +0200|luci-app-banip: frontpage/Set report UI  redesign
-2a8d2f1f91|Dirk Brenken|Thu Aug 6 16:04:25 2026 +0200|luci-app-travelmate: frontpage UI  redesign
-</details>
