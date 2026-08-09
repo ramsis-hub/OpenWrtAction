@@ -1,6 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e8bce2746|sucrisa|Fri Aug 7 18:00:10 2026 +0800|autocore: fix rps cpu mask on x86
-</details>

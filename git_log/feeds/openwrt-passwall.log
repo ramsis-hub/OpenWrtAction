@@ -2,7 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8ac81b1b|A-BO|Sat Aug 8 03:06:54 2026 +0800|luci: refactor socks auto switch logic
-a2989df1|A-BO|Fri Aug 7 21:51:00 2026 +0800|luci: dnsmasq supports geosite parsing
-65360259|A-BO|Fri Aug 7 13:39:51 2026 +0800|luci: optimize dns related code
+320cc59b|A-BO|Sun Aug 9 03:25:47 2026 +0800|luci: fix socks
+1646e0a0|A-BO|Sun Aug 9 01:19:21 2026 +0800|luci: section cfgid add prefix
+f6476672|A-BO|Sun Aug 9 00:27:39 2026 +0800|luci: optimize code
+6b97e65c|A-BO|Sat Aug 8 22:24:37 2026 +0800|luci: fix shunt node fakedns logic
+0f7b49c3|A-BO|Sat Aug 8 13:20:32 2026 +0800|luci: optimize shunt rules group
+2d658cae|A-BO|Sat Aug 8 12:54:15 2026 +0800|luci: shunt rules support group and optimize code
 </details>

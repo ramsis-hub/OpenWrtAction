@@ -2,18 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-993184f|handsomeji|Fri Aug 7 23:14:28 2026 +0800|luci: bump to 26.8.7
-91016a7|A-BO|Tue Aug 4 23:35:43 2026 +0800|luci: fix translate
-fff7e88|A-BO|Tue Aug 4 22:28:04 2026 +0800|luci: add anytls `client_metadata`
-d80a287|wybb|Fri Jul 31 13:45:33 2026 +0800|luci: preserve empty Hy bandwidth settings
-80b53e4|A-BO|Fri Jul 24 10:40:56 2026 +0800|luci: adjust the logic of socks auto switch
-ad691db|A-BO|Thu Jul 23 11:24:18 2026 +0800|luci: optimize
-b3e7049|A-BO|Wed Jul 22 22:11:59 2026 +0800|luci: add `disable-reuse` option for anytls
-5f15d83|A-BO|Wed Jul 22 21:27:50 2026 +0800|luci: optimize anytls subscription
-39be5a0|A-BO|Wed Jul 22 12:55:08 2026 +0800|luci: optimize xray balancing logic
-4524570|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
-f7981a3|A-BO|Fri Jul 17 23:28:07 2026 +0800|luci: add `HappyEyeballs` for xray
-89ca8e4|A-BO|Fri Jul 17 13:25:44 2026 +0800|luci: adjust code
-1a3c394|handsomeji|Sat Jul 18 14:48:10 2026 +0800|luci: adjust code
-fb5514a|handsomeji|Fri Aug 7 22:42:46 2026 +0800|luci: shunt rules support group and optimize code
+2617adf|handsomeji|Sun Aug 9 09:21:37 2026 +0800|luci: `gen_short_uuid()` -> `gen_random_char()`
+9d5b186|handsomeji|Sun Aug 9 09:15:46 2026 +0800|luci: fix typo
+e840e43|handsomeji|Sun Aug 9 01:39:21 2026 +0800|luci: optimize and fix detail
+1450c76|handsomeji|Sun Aug 9 00:35:52 2026 +0800|luci: Sing-Box add `cipherSuites` option
+c62cdd7|handsomeji|Sat Aug 8 22:34:45 2026 +0800|luci: fix #1185
+89b4527|handsomeji|Sat Aug 8 22:01:31 2026 +0800|luci: Xray add `cipherSuites` option
+54cac8e|handsomeji|Sat Aug 8 19:24:13 2026 +0800|luci: subscribe_list does not use anonymous id
+adb0a00|handsomeji|Sat Aug 8 19:02:41 2026 +0800|luci: acl_rule does not use anonymous id
+5f5e247|handsomeji|Sat Aug 8 20:47:05 2026 +0800|luci: fix socks
+708363d|handsomeji|Sat Aug 8 19:09:09 2026 +0800|luci: section cfgid add prefix
+95130e8|handsomeji|Sat Aug 8 15:27:00 2026 +0800|luci: optimize code
+bc2cdb3|A-BO|Sat Aug 8 13:20:32 2026 +0800|luci: optimize shunt rules group
 </details>

@@ -1,0 +1,7 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+8321f2e8b|Dirk Brenken|Sat Aug 8 17:50:24 2026 +0200|travelmate: update 2.4.7-3
+ca1e305ae|Dirk Brenken|Sat Aug 8 14:20:50 2026 +0200|travelmate: treat an unresolvable captive portal as an error
+</details>
