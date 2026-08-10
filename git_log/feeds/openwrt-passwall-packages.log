@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b4f719f|David Mandy|Sun Aug 9 21:00:27 2026 +0800|v2ray-geoip: update to 202608060031 (#707)
+ec035dd|David Mandy|Sun Aug 9 21:00:12 2026 +0800|v2ray-geosite: update to 202608082221 (#706)
+8ab33b1|David Mandy|Sun Aug 9 17:34:19 2026 +0800|sing-box: update to 1.13.18 (#705)
+e092b31|David Mandy|Sun Aug 9 15:54:04 2026 +0800|hysteria: update to 2.12.1 (#704)
+</details>

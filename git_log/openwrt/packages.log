@@ -2,6 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8321f2e8b|Dirk Brenken|Sat Aug 8 17:50:24 2026 +0200|travelmate: update 2.4.7-3
-ca1e305ae|Dirk Brenken|Sat Aug 8 14:20:50 2026 +0200|travelmate: treat an unresolvable captive portal as an error
+b13be99a2|Ray Wang|Fri Aug 7 13:32:05 2026 +0800|hev-socks5-server: update to 2.13.0
+a6b11e27b|Ray Wang|Fri Aug 7 13:32:16 2026 +0800|hev-socks5-tproxy: update to 2.13.0
+80610e3f1|Ray Wang|Wed Jul 22 20:07:08 2026 +0800|hev-socks5-tproxy: update to 2.12.0
+a1f98397d|Ray Wang|Fri Aug 7 13:32:21 2026 +0800|hev-socks5-tunnel: update to 2.17.0
+7fe72c0f9|Ray Wang|Mon Jul 20 22:32:30 2026 +0800|hev-socks5-tunnel: update to 2.16.0
 </details>
