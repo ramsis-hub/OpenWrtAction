@@ -2,9 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b13be99a2|Ray Wang|Fri Aug 7 13:32:05 2026 +0800|hev-socks5-server: update to 2.13.0
-a6b11e27b|Ray Wang|Fri Aug 7 13:32:16 2026 +0800|hev-socks5-tproxy: update to 2.13.0
-80610e3f1|Ray Wang|Wed Jul 22 20:07:08 2026 +0800|hev-socks5-tproxy: update to 2.12.0
-a1f98397d|Ray Wang|Fri Aug 7 13:32:21 2026 +0800|hev-socks5-tunnel: update to 2.17.0
-7fe72c0f9|Ray Wang|Mon Jul 20 22:32:30 2026 +0800|hev-socks5-tunnel: update to 2.16.0
+4c9742083|Dirk Brenken|Mon Aug 10 19:35:56 2026 +0200|banip: fix cpu core calculation
+6a6240d78|Dirk Brenken|Mon Aug 10 19:15:09 2026 +0200|adblock: fix cpu core calculation
 </details>
