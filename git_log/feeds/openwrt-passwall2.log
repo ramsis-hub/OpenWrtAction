@@ -2,10 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6a4f7f5f|handsomeji|Mon Aug 10 21:02:28 2026 +0800|luci: bump to 26.8.10
-15ee1508|handsomeji|Mon Aug 10 20:12:33 2026 +0800|luci: adjust Sing-Box DNS strategy logic
-828a1284|handsomeji|Mon Aug 10 20:05:58 2026 +0800|luci: remove front_dns logic
-c213e53e|handsomeji|Sun Aug 9 19:06:24 2026 +0800|luci: simplify code
-f319a5cc|handsomeji|Mon Aug 10 01:08:41 2026 +0800|luci: simplify code
-2fd571b9|handsomeji|Sun Aug 9 19:06:24 2026 +0800|luci: simplify code
+ec961b3|handsomeji|Tue Aug 11 14:29:03 2026 +0800|luci: fix Socks with HTTP status
+9075e5f|Jackie264|Tue Aug 11 14:33:21 2026 +0800|luci: fix: migrate legacy Socks_ node references in uci-defaults
 </details>
