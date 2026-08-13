@@ -2,13 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-25b7a87f7|Richard Muzik|Tue Jun 30 11:17:01 2026 +0200|transmission: update to version 4.1.3
-4e6946299|hingbong|Sat May 30 04:54:07 2026 +0000|rust: update to 1.96.0
-ae448b9e3|Josef Schlehofer|Mon Aug 10 10:46:16 2026 +0200|librespeed-cli: update to 1.0.13
-04a736ba4|Niklas Thorild|Mon Aug 10 23:27:29 2026 +0200|telegraf: update to 1.39.3
-d2236f370|Josef Schlehofer|Mon Aug 10 04:07:12 2026 +0200|librespeed-cli-rust: add new package
-5b3f98094|Daniel F. Dickinson|Sat Aug 8 18:09:46 2026 -0400|radicale3: bump to v3.7.8
-5bae464e3|Daniel F. Dickinson|Mon Jul 20 23:47:45 2026 -0400|radicale3: bump version to v3.7.7
-b003ac1d5|Sander van Deijck|Mon Aug 10 14:36:39 2026 +0200|openvpn: update to 2.7.6
-be41c07e4|Sander van Deijck|Mon Aug 10 14:33:13 2026 +0200|ovpn-dco: update to version 7.1.0.2026080300
+ec3a80b65|Josef Schlehofer|Wed Aug 12 08:00:03 2026 +0200|librespeed-cli-rust: update to 0.1.1
 </details>

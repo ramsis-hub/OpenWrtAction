@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-47dcb95d|A-BO|Tue Aug 11 17:09:13 2026 +0800|luci: 26.8.11
-ed8aa068|A-BO|Tue Aug 11 17:07:12 2026 +0800|luci: fix: migrate legacy Socks_ node references in uci-defaults
-d92fcef5|A-BO|Tue Aug 11 14:58:31 2026 +0800|luci: fix Socks with HTTP status
+cded06e8|A-BO|Wed Aug 12 20:44:49 2026 +0800|luci: optimize and fix shunt rule list
+ef9ae795|A-BO|Wed Aug 12 13:55:18 2026 +0800|luci: 26.8.12
+bfa1972d|A-BO|Wed Aug 12 13:50:25 2026 +0800|luci: optimize and fix firewall code
 </details>
