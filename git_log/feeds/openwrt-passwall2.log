@@ -2,8 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3a4fbfb|handsomeji|Thu Aug 13 00:11:49 2026 +0800|luci: optimize the node list and shunt rule list sort logic
-46362b2|handsomeji|Wed Aug 12 01:02:58 2026 +0800|luci: server: update
-bf8ca77|handsomeji|Tue Aug 11 00:08:48 2026 +0800|luci: server: rename sectiontype
-0e29ca6|handsomeji|Thu Aug 13 01:16:45 2026 +0800|luci: i18n: update
+94b20bf|handsomeji|Fri Aug 14 01:37:16 2026 +0800|luci: bump to 26.8.14
+a011b9d|bruceliu1388|Fri Aug 14 00:33:15 2026 +0800|luci: fix: don't prefix literal /dev/null log_file with TMP_PATH
+5089d7b|A-BO|Thu Aug 13 22:00:10 2026 +0800|luci: server: add duplicate username validation
+78fdb9b|handsomeji|Thu Aug 13 18:36:36 2026 +0800|luci: optimize code
 </details>
