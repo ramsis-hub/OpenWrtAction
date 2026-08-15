@@ -2,8 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-94b20bf|handsomeji|Fri Aug 14 01:37:16 2026 +0800|luci: bump to 26.8.14
-a011b9d|bruceliu1388|Fri Aug 14 00:33:15 2026 +0800|luci: fix: don't prefix literal /dev/null log_file with TMP_PATH
-5089d7b|A-BO|Thu Aug 13 22:00:10 2026 +0800|luci: server: add duplicate username validation
-78fdb9b|handsomeji|Thu Aug 13 18:36:36 2026 +0800|luci: optimize code
+a6569bb|handsomeji|Tue Aug 11 00:11:38 2026 +0800|luci: server: add WireGuard with Sing-Box
+b10cc6e|itoywh|Sat Aug 15 01:38:22 2026 +0800|luci: socks_auto_switch: test_url hardening (max_time cap + recheck) (#1223)
+0600f8c|handsomeji|Fri Aug 14 21:09:44 2026 +0800|luci: add `remote_rewrite_ttl` option with Sing-Box
+655602e|handsomeji|Fri Aug 14 17:30:29 2026 +0800|luci: optimize code
+7d6760f|itoywh|Fri Aug 14 19:35:11 2026 +0800|luci: fix(dns): keep global dns.strategy dual-stack so a single-stack choice does not leak to the other DNS path (#1221)
 </details>

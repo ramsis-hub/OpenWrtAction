@@ -1,0 +1,6 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+433524bda|coolsnowwolf|Fri Aug 14 13:44:43 2026 +0800|odhcpd: update to Git HEAD (2026-06-28) 68f382690bfa statefiles: escape client hostnames in the lease state file
+</details>
