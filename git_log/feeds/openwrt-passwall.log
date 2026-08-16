@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-2566b43b|A-BO|Sat Aug 15 03:12:45 2026 +0800|luci: optimize code
-d615c6bd|A-BO|Sat Aug 15 00:12:50 2026 +0800|luci: fix page redirect issue in JS LuCI CBI
-efc46cc8|A-BO|Fri Aug 14 22:57:16 2026 +0800|luci: fixup
-9c9251f6|handsomeji|Thu Aug 13 18:36:36 2026 +0800|luci: optimize code
-</details>

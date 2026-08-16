@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-d69c2a7bea|Myeongjae SONG|Sun Aug 2 07:23:22 2026 +0000|ramips: fix PCIe reset GPIOs for ipTIME A8004T
-95dec97d08|Dmitry Mostovoy|Tue Jul 28 03:26:19 2026 -0400|mediatek: add support for Cudy WR3000U v1
-347fd4537b|Fil Dunsky|Wed Aug 12 06:14:46 2026 +0300|mediatek: filogic: fix sysupgrade for Wavlink WL-WNT100X3
-</details>

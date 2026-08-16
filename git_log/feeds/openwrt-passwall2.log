@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a6569bb|handsomeji|Tue Aug 11 00:11:38 2026 +0800|luci: server: add WireGuard with Sing-Box
-b10cc6e|itoywh|Sat Aug 15 01:38:22 2026 +0800|luci: socks_auto_switch: test_url hardening (max_time cap + recheck) (#1223)
-0600f8c|handsomeji|Fri Aug 14 21:09:44 2026 +0800|luci: add `remote_rewrite_ttl` option with Sing-Box
-655602e|handsomeji|Fri Aug 14 17:30:29 2026 +0800|luci: optimize code
-7d6760f|itoywh|Fri Aug 14 19:35:11 2026 +0800|luci: fix(dns): keep global dns.strategy dual-stack so a single-stack choice does not leak to the other DNS path (#1221)
+0c8e615|handsomeji|Sun Aug 16 00:46:52 2026 +0800|luci: optimize code
+a495957|handsomeji|Sat Aug 15 18:21:01 2026 +0800|luci: optimize code
+15c72af|handsomeji|Sat Aug 15 14:13:08 2026 +0800|luci: optimize code
+d3f837f|handsomeji|Sat Aug 15 14:40:05 2026 +0800|luci: server: add WireGuard with Xray
 </details>
