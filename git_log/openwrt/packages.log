@@ -1,0 +1,13 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+cf82ed0ac|Sergei S.|Wed Jul 29 14:50:56 2026 +0400|sing-box: bump to 1.13.18 without Naive outbound support
+5b6cc215d|Josef Schlehofer|Sat Aug 8 00:21:50 2026 +0200|rust: build soft-float on soft-float PowerPC subtargets
+c4418092c|Josef Schlehofer|Sun Aug 9 11:08:31 2026 +0200|rust: fix compare_exchange_weak never succeeding on mpc85xx
+f8b35d48b|Josef Schlehofer|Sat Aug 15 12:12:39 2026 +0200|luajit2: update to 2026-07-31
+a6a052ee8|Josef Schlehofer|Sat Aug 15 11:21:08 2026 +0200|luajit2: fix build and runtime on powerpc
+f0c97a4f8|Seo Suchan|Mon Jun 8 06:32:24 2026 +0900|luajit2: update test-version.sh to actual test
+064e33e04|Seo Suchan|Fri May 29 00:09:26 2026 +0900|luajit2: add test-version.sh
+4b017dedf|Javier Marcet|Mon Mar 2 21:41:29 2026 +0100|luajit2: update to v2.1-20260227
+</details>

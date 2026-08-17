@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ba810a6c9|Kenneth Kasilag|Sun Jun 21 22:37:38 2026 +0000|qualcommbe: use kernel 6.18 by default
+bf069ebff|Qingfang Deng|Tue Jul 28 09:20:05 2026 +0800|ppp: fix precompiled filter option
 </details>
