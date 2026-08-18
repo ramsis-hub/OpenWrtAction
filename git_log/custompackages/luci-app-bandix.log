@@ -1,0 +1,8 @@
+<details> <summary> <b>luci-app-bandix new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+d899c02|stefanlei|Tue Aug 18 08:15:08 2026 +0800|chore: bump version to 0.12.10
+edac75f|stefanlei|Tue Aug 18 08:13:03 2026 +0800|refactor: remove donation section
+2877f77|stefanlei|Mon Aug 17 21:42:38 2026 +0800|refactor: remove homepage advertisements
+</details>

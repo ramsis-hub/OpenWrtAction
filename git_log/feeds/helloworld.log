@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fd110ba|zxl hhyccc|Sun Aug 16 15:40:12 2026 +0800|Merge pull request #2035 from Bianzinan/bianzinan-fix-multiline-nft-comments
-7f0e9a3|zxl hhyccc|Sun Aug 16 15:33:57 2026 +0800|Merge pull request #2034 from Opnwall/agent/fix-ipt2socks-socks5-startup
-6c162e1|Sound|Tue Aug 11 12:48:49 2026 +0800|luci-app-ssr-plus: fix multiline nft comments
-000cdff|fang|Sun Aug 9 12:04:38 2026 +0800|luci-app-ssr-plus: fix authenticated SOCKS5 startup
+29cff0e|zxlhhyccc|Mon Aug 17 21:35:58 2026 +0800|ipt2socks-rs: Add new package.
+ea28a36|zxlhhyccc|Mon Aug 17 21:27:15 2026 +0800|gn: update to git HEAD (2026-08-13)
+b2493ab|zxlhhyccc|Mon Aug 17 21:18:44 2026 +0800|luci-app-ssr-plus: Optimize page redirect issue in JS LuCI cbi.
 </details>

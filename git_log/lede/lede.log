@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bf069ebff|Qingfang Deng|Tue Jul 28 09:20:05 2026 +0800|ppp: fix precompiled filter option
+ed9364067|Miles Poupart|Mon Aug 17 11:46:44 2026 +0800|kernel: bump 6.12 to 6.12.103 (#14108)
 </details>

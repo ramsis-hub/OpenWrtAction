@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6734945|Eamon|Sun Aug 16 22:54:41 2026 +0800|docs: add the same-document router architecture diagram
-664c795|eamonxg|Sun Aug 16 21:38:43 2026 +0800|feat: same-document navigation for view pages via the Navigation API
+58d6498|Eamon|Mon Aug 17 12:47:44 2026 +0800|fix: hand same-URL navigations to the server, Turbo-shaped progress bar, no focus ring on the landmark
+4e71cb6|Eamon|Mon Aug 17 11:01:57 2026 +0800|fix: declare the used color scheme
 </details>
