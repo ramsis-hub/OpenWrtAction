@@ -1,7 +1,0 @@
-<details> <summary> <b>OpenWrt-nikki new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-3799926|Joseph Mory|Mon Aug 17 15:25:51 2026 +0800|fix: redundant cron task in edge cases
-2221830|Joseph Mory|Mon Aug 17 15:24:18 2026 +0800|fix: allow read/write to the target of log file symbolic link
-</details>

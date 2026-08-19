@@ -1,8 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-29cff0e|zxlhhyccc|Mon Aug 17 21:35:58 2026 +0800|ipt2socks-rs: Add new package.
-ea28a36|zxlhhyccc|Mon Aug 17 21:27:15 2026 +0800|gn: update to git HEAD (2026-08-13)
-b2493ab|zxlhhyccc|Mon Aug 17 21:18:44 2026 +0800|luci-app-ssr-plus: Optimize page redirect issue in JS LuCI cbi.
-</details>

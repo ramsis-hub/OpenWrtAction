@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ed9364067|Miles Poupart|Mon Aug 17 11:46:44 2026 +0800|kernel: bump 6.12 to 6.12.103 (#14108)
+e6cc2bedf|John Audia|Thu Dec 25 08:31:13 2025 -0500|nat46: fix reproducible-build failure
 </details>
