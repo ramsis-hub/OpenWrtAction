@@ -1,0 +1,8 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+35f4b67|A-BO|Wed Aug 19 10:15:49 2026 +0800|luci: optimize js luci cbi page redirect
+af504f4|handsomeji|Wed Aug 19 18:14:30 2026 +0800|luci: fix and enhance monitor script
+346baf6|handsomeji|Sun Aug 16 16:40:04 2026 +0800|luci: Xray `dokodemo-door` -> `tunnel`
+</details>

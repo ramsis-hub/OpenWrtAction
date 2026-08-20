@@ -1,6 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e6cc2bedf|John Audia|Thu Dec 25 08:31:13 2025 -0500|nat46: fix reproducible-build failure
-</details>
