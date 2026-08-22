@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-98896d19|A-BO|Thu Aug 20 23:39:09 2026 +0800|luci: restart after NTP time becomes valid on RTC-less devices
-2be58b89|A-BO|Thu Aug 20 23:20:41 2026 +0800|luci: server: sing-box add missing users code
-</details>

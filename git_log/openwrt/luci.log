@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+1b355a69ae|Dirk Brenken|Fri Aug 21 21:50:49 2026 +0200|luci-app-banip: sync with banip base package
+</details>

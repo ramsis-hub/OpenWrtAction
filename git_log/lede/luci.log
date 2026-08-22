@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+ee9eee0767|lean|Fri Aug 21 15:55:23 2026 +0800|luci-mod-network: refresh non-QCA state on initial render
+</details>
