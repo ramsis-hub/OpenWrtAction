@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+ef6edba0|A-BO|Sun Aug 23 01:12:00 2026 +0800|luci: merge `TCP` and `UDP` node
+</details>
