@@ -1,9 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-54d8647|sbwml|Sun Aug 23 09:44:36 2026 +0800|luci-app-mosdns: po: update zh_Hans translation
-c045d39|sbwml|Sun Aug 23 09:38:50 2026 +0800|mosdns: fix(cache): harden prefetch logic and fix potential data race
-b230ca1|sbwml|Sat Aug 22 23:31:07 2026 +0800|luci-app-mosdns: add proactive prefetch support
-04fdf57|sbwml|Sat Aug 22 23:02:21 2026 +0800|mosdns: cache: add proactive prefetch support
-</details>
