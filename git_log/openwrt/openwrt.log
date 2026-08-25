@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ecbf832c08|Murad Rabadanov|Wed Jul 29 08:52:42 2026 +0300|mediatek: filogic: add support for netis N6 V2
-e472455a76|Mieczyslaw Nalewaj|Sat Aug 22 11:00:58 2026 +0200|mediatek: mt7622: remove bogus dsa-migration from Netgear WAX206
-</details>
