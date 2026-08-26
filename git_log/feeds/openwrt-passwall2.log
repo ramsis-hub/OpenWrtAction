@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b72a171|A-BO|Mon Aug 24 20:52:14 2026 +0800|add .gitattributes
-047e537|handsomeji|Mon Aug 24 20:58:09 2026 +0800|luci: code format
+0551d5a|A-BO|Tue Aug 25 11:41:03 2026 +0800|luci: fix socks
 </details>
