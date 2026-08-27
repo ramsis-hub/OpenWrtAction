@@ -1,6 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-86b43b9|Bard|Tue Aug 25 12:14:34 2026 +0800|install.sh: replace v2dat with geo2txt
-</details>

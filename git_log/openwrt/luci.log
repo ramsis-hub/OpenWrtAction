@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+643a79d645|Dirk Brenken|Thu Aug 27 10:58:05 2026 +0200|luci-app-banip: replace the CARTO basemap with local outlines
+</details>

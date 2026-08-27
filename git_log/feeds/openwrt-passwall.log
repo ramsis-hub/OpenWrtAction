@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-548a6e45|A-BO|Wed Aug 26 00:33:15 2026 +0800|luci: 26.8.26
-0be900dd|A-BO|Wed Aug 26 00:28:40 2026 +0800|luci: optimize dnsmasq
-78aed603|A-BO|Tue Aug 25 11:34:52 2026 +0800|luci: fix socks
+244af3d5|A-BO|Thu Aug 27 16:36:23 2026 +0800|luci: optimize firewall filter vpsip
+06c016b9|A-BO|Thu Aug 27 01:04:06 2026 +0800|luci: improved js luci logic
+f2330bb1|David Mandy|Wed Aug 26 16:21:50 2026 +0800|luci: Fixed an issue with refreshing server-side firewall rules
 </details>

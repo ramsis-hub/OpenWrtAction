@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0551d5a|A-BO|Tue Aug 25 11:41:03 2026 +0800|luci: fix socks
+9badadf|handsomeji|Thu Aug 27 00:21:47 2026 +0800|luci: bump to 26.8.27
+8244f14|Eldar Timraleev|Wed Aug 26 19:19:59 2026 +0300|luci: Fix ACL UDP and DNS rule regressions (#1241)
+cd98cbb|handsomeji|Wed Aug 26 23:55:44 2026 +0800|luci: improved js luci logic
 </details>
