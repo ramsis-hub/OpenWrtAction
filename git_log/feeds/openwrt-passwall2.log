@@ -2,7 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9badadf|handsomeji|Thu Aug 27 00:21:47 2026 +0800|luci: bump to 26.8.27
-8244f14|Eldar Timraleev|Wed Aug 26 19:19:59 2026 +0300|luci: Fix ACL UDP and DNS rule regressions (#1241)
-cd98cbb|handsomeji|Wed Aug 26 23:55:44 2026 +0800|luci: improved js luci logic
+98fc727|itoywh|Fri Aug 28 18:11:22 2026 +0800|luci: clarify psw2_vps log - gate LB log on balancing_enable, restore anti-loop log (#1247)
+cc074ed|handsomeji|Thu Aug 27 17:54:42 2026 +0800|luci: re-add ACL process log
+cadf37f|handsomeji|Thu Aug 27 15:30:08 2026 +0800|luci: fix missing dnsmasq dns redirect logic
+1999056|handsomeji|Thu Aug 27 17:03:33 2026 +0800|luci: fix IPv6 remote DNS
 </details>

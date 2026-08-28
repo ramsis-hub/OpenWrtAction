@@ -1,8 +1,0 @@
-<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-9dd9dc1|Eamon|Wed Aug 26 18:27:01 2026 +0800|refactor: source the dev tooling from the shared devkit
-e748f7c|Eamon|Wed Aug 26 17:43:55 2026 +0800|refactor: source the client router from the shared devkit
-3ff488f|Eamon|Wed Aug 26 16:03:54 2026 +0800|chore: add vertical agent workflows with approval and review gates
-</details>

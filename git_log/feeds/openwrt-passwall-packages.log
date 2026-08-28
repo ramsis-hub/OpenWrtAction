@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e13e463|David Mandy|Thu Aug 27 03:48:01 2026 +0800|shadowsocks-rust: update to 1.25.0 (#714)
-a8302d5|David Mandy|Wed Aug 26 19:11:32 2026 +0800|v2ray-geoip: update to 202608200014 (#712)
-368afcc|David Mandy|Wed Aug 26 19:11:19 2026 +0800|v2ray-geosite: update to 202608252219 (#713)
-</details>
