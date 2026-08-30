@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-93695ef4|lwb1978|Sat Aug 29 02:24:49 2026 +0800|luci: optimize filter node ip
+bbd09893|A-BO|Sat Aug 29 22:38:05 2026 +0800|luci: enhance backup and restore functionality
 </details>

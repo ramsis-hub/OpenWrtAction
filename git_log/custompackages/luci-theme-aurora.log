@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fa418a3|Eamon|Fri Aug 28 19:37:33 2026 +0800|fix: stop the port status cards overlapping
+2fbd124|Eamon|Sat Aug 29 18:07:21 2026 +0800|chore: rebuild the router with devkit 0.3.1
+05b25ea|Eamon|Sat Aug 29 17:58:38 2026 +0800|test: fail the walk gate on fallbacks of claimed nodes
+d747e5f|Eamon|Sat Aug 29 16:21:58 2026 +0800|fix: scroll-to-head on the log page landed under the alert banner
 </details>
