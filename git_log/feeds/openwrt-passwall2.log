@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-45631b4|A-BO|Fri Aug 28 09:53:47 2026 +0800|luci: support hysteria2 realm `portMapping`
-fb2a20b|A-BO|Thu Aug 27 23:56:18 2026 +0800|luci: optimize the geoview cache cleanup logic
-93a3fa5|handsomeji|Thu Aug 27 23:37:46 2026 +0800|luci: re-add direct DNS option
-0179546|handsomeji|Sun Aug 30 00:35:18 2026 +0800|luci: adjust and optimize
-</details>
