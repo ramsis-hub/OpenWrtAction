@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+12b3390|A-BO|Mon Aug 31 23:05:40 2026 +0800|luci: optimize shunt route
+3f9339a|SwordKing|Mon Aug 31 17:45:45 2026 +0800|luci: optimize haproxy config (#1252)
+</details>
