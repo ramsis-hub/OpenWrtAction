@@ -1,8 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-908d290|sbwml|Mon Aug 31 23:31:44 2026 +0800|luci-app-mosdns: statistics: optimize polling DOM updates and sparkline touch interaction
-83f6b5a|sbwml|Mon Aug 31 23:13:38 2026 +0800|mosdns: stats_api: exclude blocked queries from cache hit percentage
-ad28f69|sbwml|Mon Aug 31 23:13:30 2026 +0800|mosdns: update dependencies
-</details>

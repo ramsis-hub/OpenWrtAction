@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8c61e55f|lean|Mon Aug 31 15:10:58 2026 +0800|openvpn: use native DCO driver on Linux 6.16+
-75a27d75|lean|Mon Aug 31 15:10:58 2026 +0800|strongswan: fix ChaCha20-Poly1305 kernel dependency
+52082da2|coolsnowwolf|Wed Sep 2 01:15:52 2026 +0800|openvpn: revert 2.7.6 and native DCO update
 </details>

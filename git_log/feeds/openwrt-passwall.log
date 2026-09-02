@@ -2,9 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-56adb0e2|A-BO|Tue Sep 1 10:40:58 2026 +0800|luci: 26.9.1
-5acbe52d|A-BO|Tue Sep 1 10:38:38 2026 +0800|luci: update WeChat C2C Xray domain exclusion to regex
-41a38af7|A-BO|Tue Sep 1 10:14:33 2026 +0800|luci: update default rules
-2155bdc2|A-BO|Mon Aug 31 23:04:15 2026 +0800|luci: optimize shunt route
-7d1d1cef|A-BO|Mon Aug 31 16:15:42 2026 +0800|luci: repair and optimize
+8c1a38c9|A-BO|Wed Sep 2 11:20:17 2026 +0800|luci: fix geo view
+febbd4a0|A-BO|Wed Sep 2 09:47:50 2026 +0800|luci: optimize index status
 </details>
