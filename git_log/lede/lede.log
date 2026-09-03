@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-63fe018ab|coolsnowwolf|Wed Sep 2 01:23:52 2026 +0800|gettext-full: revert to 0.22.5
-92effb01f|coolsnowwolf|Wed Sep 2 01:04:50 2026 +0800|netifd: guard PSE support on kernel headers
-00adc40c1|coolsnowwolf|Wed Sep 2 00:50:33 2026 +0800|iptables: add libiptext runtime dependencies
+16b091e12|coolsnowwolf|Wed Sep 2 23:15:25 2026 +0800|hostapd: drop files provided by wifi-scripts
+87040395e|coolsnowwolf|Wed Sep 2 23:00:36 2026 +0800|tools: revert gnulib to stable-202401
+dbd42ad68|coolsnowwolf|Wed Sep 2 18:00:00 2026 +0800|base-files: drop legacy wifi script
 </details>
