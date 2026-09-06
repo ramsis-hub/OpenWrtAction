@@ -2,5 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d765b90d3|coolsnowwolf|Sun Jul 19 18:08:15 2026 +0800|mac80211: reorder patches for better sync
+3dfce952e|coolsnowwolf|Sun Sep 6 12:10:07 2026 +0800|loongarch64: use kernel 6.18 by default
+f9e958b9c|coolsnowwolf|Sun Sep 6 12:09:27 2026 +0800|x86: use kernel 6.18 by default
+29e06a479|coolsnowwolf|Sun Sep 6 10:25:57 2026 +0800|qca-nss-ecm: delay acceleration for short flows
+112f745bb|coolsnowwolf|Sun Sep 6 07:38:40 2026 +0800|luci-app-mtwifi: fix VHT BW signaling dynamic value
+d1e5ffee6|coolsnowwolf|Sun Sep 6 06:03:07 2026 +0800|ipq806x: add Linksys E8350 v1 factory image support
+3a9ac9368|coolsnowwolf|Sun Sep 6 05:14:21 2026 +0800|ath10k-ct: use matching patches for 5.15 API
+9ec995375|coolsnowwolf|Sun Sep 6 04:37:59 2026 +0800|generic: disable broken threaded backlog on 6.1
+22a8f5710|coolsnowwolf|Sun Sep 6 04:25:38 2026 +0800|README: document macOS command line tools requirement
+c8c7c4b49|coolsnowwolf|Sun Sep 6 04:07:03 2026 +0800|hostapd: disable ACS for supplicant-only builds
+ea6ca0d7f|coolsnowwolf|Sun Sep 6 04:05:01 2026 +0800|rockchip: drop conflicting rtw88 8821cu package
+a3e00c8b2|coolsnowwolf|Sun Sep 6 03:53:10 2026 +0800|mac80211: demote brcmfmac informational messages
+6013c7551|coolsnowwolf|Sun Sep 6 01:55:58 2026 +0800|fast-classifier: initialize lock before callbacks
+b7e3e43f2|coolsnowwolf|Sun Sep 6 01:42:09 2026 +0800|ath79: fix AR933x USB reset names
+6d063c6f6|coolsnowwolf|Sun Sep 6 00:57:44 2026 +0800|x86: include ixgbevf in generic images
+f4801ba9e|coolsnowwolf|Sun Sep 6 00:33:58 2026 +0800|rockchip: restore rk3568 DTS compatibility with kernel 5.15
+
+.....................
+
 </details>

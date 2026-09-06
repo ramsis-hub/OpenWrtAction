@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c0ea8dc|handsomeji|Fri Sep 4 20:06:44 2026 +0800|luci: fix
+e3eb9fa|handsomeji|Sun Sep 6 02:38:47 2026 +0800|luci: optimize
+bb8dc2a|w1977-0|Sat Sep 5 22:56:31 2026 +0800|luci: fix lease2hosts reload after pid file rename in 0e0644b (#1263)
+37ca0cd|handsomeji|Sat Sep 5 21:22:46 2026 +0800|luci: optimize
 </details>

@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+ba3243bba0|David Bauer|Sat Sep 5 23:59:50 2026 +0200|wifi-scripts: iface: set auth_type on unset encryption
+</details>
