@@ -2,12 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-42c4e4a0|coolsnowwolf|Mon Sep 7 12:24:30 2026 +0800|Merge pull request #1140 from Internet1235/uu
-a6e3babc|coolsnowwolf|Fri Mar 6 13:23:25 2026 +0800|cshark: add CloudShark capture tool
-8d6d1778|coolsnowwolf|Thu Mar 5 12:38:26 2026 +0800|ddns-scripts: add Tencent Cloud DNSPod API
-b4de3597|Internet1235|Sat Sep 5 19:13:48 2026 +0800|uugamebooster: update to 14.6.24
-08e907ab|github-actions[bot]|Sun Sep 6 03:32:16 2026 +0000|ci: sync upstream packages
-2478e665|coolsnowwolf|Sun Sep 6 11:30:58 2026 +0800|ci: sync vmlinux btf package
-b7602550|github-actions[bot]|Sun Sep 6 03:21:06 2026 +0000|ci: sync upstream packages
-7e806128|coolsnowwolf|Sun Sep 6 11:20:35 2026 +0800|ci: sync upstream packages
+bfa8c788|coolsnowwolf|Tue Sep 8 14:43:52 2026 +0800|softethervpn5: fix host build and update to 5.2.5188
+808d968e|coolsnowwolf|Mon Sep 7 18:31:24 2026 +0800|ovpn-dco: fix build on Linux 6.18.40+
+ef485bae|coolsnowwolf|Mon Sep 7 18:03:33 2026 +0800|node: add Node.js 24.x and 26.x support
 </details>

@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-98d8a72ea2|lean|Mon Sep 7 12:25:59 2026 +0800|luci-compat: support ucode WireGuard protocol helper
+a17a6bb553|Dirk Brenken|Mon Sep 7 19:14:31 2026 +0200|luci-app-travelmate: sync with base package 2.4.9-1
 </details>
