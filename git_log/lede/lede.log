@@ -2,13 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d1ab56eb7|coolsnowwolf|Tue Sep 8 11:09:17 2026 +0800|armsr: switch to Linux 6.18
-6e4b0d326|coolsnowwolf|Tue Sep 8 11:02:13 2026 +0800|kernel: fix UDP tunnel module selection on Linux 6.6
-eb1a9cfc4|coolsnowwolf|Tue Sep 8 10:38:46 2026 +0800|kernel: package split Realtek HDA codecs on Linux 6.18
-376d11dc9|coolsnowwolf|Tue Sep 8 10:22:21 2026 +0800|wireguard-tools: revert to 1.0.20250521
-3b2ce46ad|coolsnowwolf|Tue Sep 8 10:11:17 2026 +0800|kernel: restore crypto acceleration modules on x86 6.6
-d523e3ffe|coolsnowwolf|Tue Sep 8 00:03:34 2026 +0800|kernel: restrict accelerated crypto modules to Linux 6.12
-a2c5ab05a|coolsnowwolf|Mon Sep 7 23:31:53 2026 +0800|netifd: restore legacy wireless helper installation
-75318e581|coolsnowwolf|Mon Sep 7 14:22:06 2026 +0800|rockchip: backport missing RK3588 DTS nodes to 6.12
-9c0b39747|coolsnowwolf|Mon Sep 7 13:51:53 2026 +0800|rockchip: fix YT921x DSA patch indentation
+c6b59cab3|coolsnowwolf|Tue Sep 8 23:54:11 2026 +0800|kernel: fix dummy netdev initialization on 6.18
 </details>

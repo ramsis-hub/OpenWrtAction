@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7114f29fe2|David Bauer|Mon Nov 17 01:50:08 2025 +0100|net/l2tp: reset skb control buffer
-</details>

@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bfa8c788|coolsnowwolf|Tue Sep 8 14:43:52 2026 +0800|softethervpn5: fix host build and update to 5.2.5188
-808d968e|coolsnowwolf|Mon Sep 7 18:31:24 2026 +0800|ovpn-dco: fix build on Linux 6.18.40+
-ef485bae|coolsnowwolf|Mon Sep 7 18:03:33 2026 +0800|node: add Node.js 24.x and 26.x support
+bc0a5c06|coolsnowwolf|Tue Sep 8 21:06:29 2026 +0800|Revert "transmission: use mbedTLS by default"
 </details>
