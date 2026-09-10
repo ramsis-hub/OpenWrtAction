@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1fa80eab|A-BO|Wed Sep 9 14:51:34 2026 +0800|luci: Xray Refactor proxy settings to use dialer_proxy_tag
-b428429b|A-BO|Wed Sep 9 14:43:46 2026 +0800|luci: optimize
-92714cdb|A-BO|Wed Sep 9 00:05:44 2026 +0800|luci: 26.9.9
-dbd89ac9|A-BO|Tue Sep 8 23:31:45 2026 +0800|luci: migrate xray `freedom.domainStrategy` to `sockopt.domainStrategy`
+c0992fce|A-BO|Thu Sep 10 04:31:23 2026 +0800|luci: adjust and optimize acl
 </details>

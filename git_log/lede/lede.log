@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c6b59cab3|coolsnowwolf|Tue Sep 8 23:54:11 2026 +0800|kernel: fix dummy netdev initialization on 6.18
+eaa80aff7|coolsnowwolf|Thu Sep 10 11:52:10 2026 +0800|shortcut-fe: fix Linux 6.18 API compatibility
+8e6869b60|coolsnowwolf|Thu Sep 10 03:12:40 2026 +0800|rockchip: add WXY OEC / OECT support
 </details>

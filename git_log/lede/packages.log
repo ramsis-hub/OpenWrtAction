@@ -1,6 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-bc0a5c06|coolsnowwolf|Tue Sep 8 21:06:29 2026 +0800|Revert "transmission: use mbedTLS by default"
-</details>

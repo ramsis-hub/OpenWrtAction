@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0f38c02b5e|Dirk Brenken|Tue Sep 8 18:02:04 2026 +0200|luci-app-banip: sync with base package 1.8.13-1
+faa0ee75c7|Dirk Brenken|Wed Sep 9 22:57:53 2026 +0200|luci-app-travelmate: sync with base package 2.4.9-2
+6502bc6d86|Dirk Brenken|Wed Sep 9 21:39:19 2026 +0200|luci-app-adblock: sync with base package 4.5.8-1
 </details>

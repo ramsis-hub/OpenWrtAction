@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+d966bd2e2e|David Bauer|Thu Sep 10 00:39:03 2026 +0200|ucode: fix build with GCC 15.3
+</details>
