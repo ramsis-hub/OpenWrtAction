@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d966bd2e2e|David Bauer|Thu Sep 10 00:39:03 2026 +0200|ucode: fix build with GCC 15.3
+6c40bc0bb0|Vladimir Zadirei|Sat Aug 29 15:19:41 2026 +0400|adb: fix RSA authentication with mbedTLS
+6f88b325be|Andrea Pesaresi|Sat Aug 29 12:25:43 2026 +0200|mediatek: correct MT7986 system timer rate
 </details>

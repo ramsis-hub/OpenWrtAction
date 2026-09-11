@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4efbf62|coolsnowwolf|Wed Sep 9 21:38:36 2026 +0800|luci-app-ssr-plus: fix SOCKS5 server startup
+37e1ad7|zxl hhyccc|Thu Sep 10 23:31:49 2026 +0800|shadowsocks-rust: update to 1.25.0
+8663a89|zxl hhyccc|Thu Sep 10 23:30:20 2026 +0800|xray-core: update to 26.9.9
 </details>

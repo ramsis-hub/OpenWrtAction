@@ -2,6 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+8ba954349|coolsnowwolf|Fri Sep 11 10:25:45 2026 +0800|qualcommax: enable switchdev on Linux 6.18
+eac875c78|coolsnowwolf|Thu Sep 10 20:40:35 2026 +0800|qca-nss-dp: fix hardware STP state synchronization
+a3ee4faff|coolsnowwolf|Thu Sep 10 19:50:00 2026 +0800|shortcut-fe: fix IPv6 feature define
+00b1106cd|coolsnowwolf|Thu Sep 10 14:20:47 2026 +0800|rockchip: fix H68K Ethernet PHY reset
+a4d730942|coolsnowwolf|Thu Sep 10 11:52:10 2026 +0800|shortcut-fe: fix Linux 6.18 API compatibility
+b936a1293|coolsnowwolf|Thu Sep 10 03:12:40 2026 +0800|rockchip: add WXY OEC / OECT support
 eaa80aff7|coolsnowwolf|Thu Sep 10 11:52:10 2026 +0800|shortcut-fe: fix Linux 6.18 API compatibility
 8e6869b60|coolsnowwolf|Thu Sep 10 03:12:40 2026 +0800|rockchip: add WXY OEC / OECT support
 </details>

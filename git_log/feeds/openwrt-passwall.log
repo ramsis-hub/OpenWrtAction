@@ -2,5 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+f512e2eb|ThornsW|Fri Sep 11 10:48:20 2026 +0800|luci: fix: add mwan3 exemption rule via iptables-nft instead of native nft (#4466)
+cbf18a69|A-BO|Fri Sep 11 02:14:35 2026 +0800|luci: fix share link import
+7bea8378|A-BO|Thu Sep 10 21:43:40 2026 +0800|luci: adjust backend logic when ACL logging is enabled
+c63adab5|A-BO|Thu Sep 10 20:03:35 2026 +0800|luci: improvement and optimization
+24f2e277|A-BO|Thu Sep 10 04:31:23 2026 +0800|luci: adjust and optimize acl
 c0992fce|A-BO|Thu Sep 10 04:31:23 2026 +0800|luci: adjust and optimize acl
 </details>

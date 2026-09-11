@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7f05feb8df|Dirk Brenken|Thu Sep 10 20:03:51 2026 +0200|luci-app-banip: sync with base package 1.8.13-2
+ecd78a0eae|coolsnowwolf|Thu Sep 10 21:24:58 2026 +0800|luci-app-music-remote-center: avoid init script conflict
 </details>
