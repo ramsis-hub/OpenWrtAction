@@ -1,0 +1,7 @@
+<details> <summary> <b>routing new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+cc66db2|Josef Schlehofer|Thu Aug 6 14:31:29 2026 +0200|babeld: initialize metric in the ubus add_filter handler
+77d03c4|Josef Schlehofer|Thu Aug 6 09:47:44 2026 +0200|babeld: simplify LDLIBS in MAKE_FLAGS
+</details>

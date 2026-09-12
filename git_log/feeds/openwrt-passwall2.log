@@ -2,6 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4841534|A-BO|Fri Sep 11 02:19:35 2026 +0800|luci: fix share link import
-8e9df74|handsomeji|Thu Sep 10 14:21:38 2026 +0800|luci: improvement and optimization
+88338fe|handsomeji|Sat Sep 12 00:38:53 2026 +0800|luci: done #1278
+6b29647|A-BO|Fri Sep 11 22:05:38 2026 +0800|luci: fix theme compatibility for node select template
+4e1cd83|A-BO|Fri Sep 11 13:36:32 2026 +0800|luci: optimize
+4592607|ThornsW|Fri Sep 11 10:48:20 2026 +0800|luci: fix: add mwan3 exemption rule via iptables-nft instead of native nft
+bbacb39|handsomeji|Fri Sep 11 17:40:46 2026 +0800|luci: improvement and fix
 </details>

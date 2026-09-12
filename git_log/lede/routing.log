@@ -1,0 +1,8 @@
+<details> <summary> <b>routing new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+2d0f967|coolsnowwolf|Sat Sep 12 02:14:11 2026 +0800|batman-adv: update to 2026.2
+42d12ca|coolsnowwolf|Sat Sep 12 01:52:41 2026 +0800|cjdns: avoid stale incremental build state
+b776510|coolsnowwolf|Fri Sep 11 13:28:20 2026 +0800|cjdns: fix build with Python 3.10 or newer
+</details>

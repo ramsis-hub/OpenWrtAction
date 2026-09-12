@@ -1,8 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-1e1c1aa1|coolsnowwolf|Thu Sep 10 21:38:36 2026 +0800|ovpn-backports: define out-of-tree module version
-fd49ace2|coolsnowwolf|Thu Sep 10 21:24:45 2026 +0800|owntone: support LuCI UCI configuration
-a2c1bbff|coolsnowwolf|Thu Sep 10 21:24:30 2026 +0800|sqlite3: fix exact library dependency on opkg
-</details>

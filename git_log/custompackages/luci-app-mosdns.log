@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0297087|sbwml|Sat Sep 12 00:05:37 2026 +0800|luci-app-mosdns: bump version to 1.7.14
+bf23eb0|sbwml|Sat Sep 12 00:00:58 2026 +0800|luci-app-mosdns: use 0.0.0.0 instead of reject 3 for ad blocking
+</details>
