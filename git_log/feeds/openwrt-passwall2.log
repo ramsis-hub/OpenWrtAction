@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-88338fe|handsomeji|Sat Sep 12 00:38:53 2026 +0800|luci: done #1278
-6b29647|A-BO|Fri Sep 11 22:05:38 2026 +0800|luci: fix theme compatibility for node select template
-4e1cd83|A-BO|Fri Sep 11 13:36:32 2026 +0800|luci: optimize
-4592607|ThornsW|Fri Sep 11 10:48:20 2026 +0800|luci: fix: add mwan3 exemption rule via iptables-nft instead of native nft
-bbacb39|handsomeji|Fri Sep 11 17:40:46 2026 +0800|luci: improvement and fix
+10f20ae|handsomeji|Sat Sep 12 17:26:21 2026 +0800|luci: bump to 26.9.12
+a8b582f|A-BO|Sat Sep 12 17:07:06 2026 +0800|luci: update sing-box hysteria configuration fields
+7ff6048|A-BO|Sat Sep 12 16:54:47 2026 +0800|luci: fix tls configuration for http protocol
+3ba4744|handsomeji|Sat Sep 12 15:32:17 2026 +0800|luci: fix #1282
 </details>
