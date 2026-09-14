@@ -2,8 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-10f20ae|handsomeji|Sat Sep 12 17:26:21 2026 +0800|luci: bump to 26.9.12
-a8b582f|A-BO|Sat Sep 12 17:07:06 2026 +0800|luci: update sing-box hysteria configuration fields
-7ff6048|A-BO|Sat Sep 12 16:54:47 2026 +0800|luci: fix tls configuration for http protocol
-3ba4744|handsomeji|Sat Sep 12 15:32:17 2026 +0800|luci: fix #1282
+cdab47a|handsomeji|Sat Sep 12 17:06:58 2026 +0800|luci: adjust default acl flag
+47cc9e0|yiyuanlu|Sun Sep 13 10:39:33 2026 +0800|luci: restrict iptables DIVERT hooks to transparent sockets
+2a459c9|handsomeji|Sun Sep 13 14:43:46 2026 +0800|luci: optimize #1286
+21fdcf8|handsomeji|Sat Sep 12 17:06:58 2026 +0800|luci: improvement and optimization
 </details>

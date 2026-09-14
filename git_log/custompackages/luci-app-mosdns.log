@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fae49a2|sbwml|Sat Sep 12 23:04:48 2026 +0800|mosdns: stats_api: do not mark upstream queries without answers as blocked
-73981c0|sbwml|Sat Sep 12 22:59:45 2026 +0800|luci-app-mosdns: statistics: add page jump and fix pagination layout
+bd40245|sbwml|Sun Sep 13 21:53:03 2026 +0800|luci-app-mosdns: mosdns.uc: correct mkdir path
 </details>

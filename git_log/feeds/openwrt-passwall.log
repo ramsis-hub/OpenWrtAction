@@ -2,9 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cdbcb721|yiyuanlu|Sun Sep 13 10:39:33 2026 +0800|luci: restrict iptables DIVERT hooks to transparent sockets (#4470)
-851669ab|A-BO|Sat Sep 12 17:07:06 2026 +0800|luci: update sing-box hysteria configuration fields
-a486d3e8|A-BO|Sat Sep 12 16:54:47 2026 +0800|luci: fix tls configuration for http protocol
-f07a97f3|A-BO|Sat Sep 12 11:55:57 2026 +0800|luci: improvement and fix
-284b8edd|A-BO|Sat Sep 12 11:55:57 2026 +0800|luci: improvement and fix
+3f4c9ce7|lwb1978|Mon Sep 14 01:11:02 2026 +0800|luci: improvement and optimization
+fbae2d5e|lwb1978|Mon Sep 14 00:10:02 2026 +0800|luci: optimize nftables dns redirect logic
 </details>

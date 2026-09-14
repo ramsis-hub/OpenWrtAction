@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-84484e5198|Gary Dotzler|Wed Sep 9 21:14:45 2026 +0000|kernel: fix mt7915e boot crash
+57d7325964|Luiz Angelo Daros de Luca|Wed Sep 9 15:16:11 2026 -0300|realtek: fix D-Link DGS-1210-28P/MP fan controller
+67b18c1ecc|Semih Baskan|Sun Aug 2 09:54:44 2026 +0300|bcm53xx: fix sysupgrade losing config on NAND devices
 </details>

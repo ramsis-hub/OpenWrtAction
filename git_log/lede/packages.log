@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0c960a00|coolsnowwolf|Sun Sep 13 19:41:36 2026 +0800|Merge pull request #1143 from 0x5826/easytier-next
+1e37f802|coolsnowwolf|Sun Sep 13 18:59:54 2026 +0800|yaml: regenerate autotools files before building
+55389bda|dante|Sun Sep 13 12:11:43 2026 +0800|easytier-next: add pre-built binary package
+</details>
