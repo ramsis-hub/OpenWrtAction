@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cdab47a|handsomeji|Sat Sep 12 17:06:58 2026 +0800|luci: adjust default acl flag
-47cc9e0|yiyuanlu|Sun Sep 13 10:39:33 2026 +0800|luci: restrict iptables DIVERT hooks to transparent sockets
-2a459c9|handsomeji|Sun Sep 13 14:43:46 2026 +0800|luci: optimize #1286
-21fdcf8|handsomeji|Sat Sep 12 17:06:58 2026 +0800|luci: improvement and optimization
+08a01d2|lwb1978|Mon Sep 14 14:56:15 2026 +0800|luci: optimize NTP time adjustment handling
+3297f4e|lwb1978|Mon Sep 14 14:52:09 2026 +0800|luci: set minimum Xray version to 26.7.11
+2f9cb82|handsomeji|Tue Sep 15 11:53:37 2026 +0800|luci: optimize
 </details>

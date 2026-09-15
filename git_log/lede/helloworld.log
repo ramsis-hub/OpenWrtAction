@@ -1,9 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-f57afa5|zxlhhyccc|Sun Sep 13 19:59:32 2026 +0800|luci-app-ssr-plus: Fix subscribe type erro.
-65bd5a4|zxlhhyccc|Sun Sep 13 19:56:31 2026 +0800|gn: update to git HEAD (2026-09-02)
-6329b39|zxlhhyccc|Sun Sep 13 19:38:42 2026 +0800|luci-app-ssr-plus: Add SOCKS5 auth and unify DNS/Sniffer handling.
-d5645f1|zxlhhyccc|Sun Sep 13 12:55:46 2026 +0800|luci-app-ssr-plus: neaten mihomo SOCKS5 authentication.
-</details>

@@ -2,20 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bec0d5094d|coolsnowwolf|Mon Sep 14 12:20:50 2026 +0800|luci-mod-network: restore MT798x wireless runtime status
-725ddc051f|coolsnowwolf|Mon Sep 14 02:35:43 2026 +0800|luci-mod-status: link DHCP clients to cached web services
-19cb1097e0|coolsnowwolf|Mon Sep 14 02:02:23 2026 +0800|luci-mod-status: simplify overview memory statistics
-086d8c870d|coolsnowwolf|Mon Sep 14 01:58:34 2026 +0800|luci-mod-status: sort DHCP clients by total traffic by default
-22f66d0d92|coolsnowwolf|Mon Sep 14 01:51:17 2026 +0800|luci-mod-status: show boot-session client traffic totals
-ba93b09113|coolsnowwolf|Mon Sep 14 01:33:07 2026 +0800|luci-mod-status: show aggregate WAN bandwidth progress bars
-45ca7a8d7a|coolsnowwolf|Mon Sep 14 01:06:42 2026 +0800|luci-mod-admin-full: include OUI vendor icons by default
-8ac42d9a35|coolsnowwolf|Mon Sep 14 00:51:38 2026 +0800|luci-mod-status: show cached per-client traffic rates in DHCP leases
-5f52d90cdf|coolsnowwolf|Mon Sep 14 00:13:31 2026 +0800|luci-app-oui: add cached vendor icons to DHCP leases
-380617aad7|coolsnowwolf|Sun Sep 13 23:29:45 2026 +0800|luci-app-openvpn-server: show connected client status
-e74d50d040|coolsnowwolf|Sun Sep 13 23:21:41 2026 +0800|luci-mod-status: honor configured time display options
-26d2f86ae2|coolsnowwolf|Sun Sep 13 23:09:39 2026 +0800|luci-app-firewall: show runtime NAT and TCP CCA status
-6864a88827|coolsnowwolf|Sun Sep 13 22:54:35 2026 +0800|luci-app-samba: avoid duplicate hotplug script
-6797fd1167|coolsnowwolf|Sun Sep 13 21:42:26 2026 +0800|luci-mod-system: add NTP request redirection
-d76c0342c7|seckv|Sun Sep 13 19:42:58 2026 +0800|luci-app-easytier-next: add new package (#416)
-
+f7dc02269a|coolsnowwolf|Tue Sep 15 02:29:08 2026 +0800|luci-mod-status: fix mtwifi channel scans and prevent overlapping scans
+5cfaf67fed|coolsnowwolf|Tue Sep 15 02:08:07 2026 +0800|luci: add client hostname discovery and connection counts
+6211a8f063|coolsnowwolf|Tue Sep 15 01:32:16 2026 +0800|luci-mod-status: ignore failed ARP entries for client online status
+862c90548d|coolsnowwolf|Mon Sep 14 17:40:38 2026 +0800|luci-app-oui: prefer fnOS icon for hosts with NAS web ports
+edf9a7f6ef|coolsnowwolf|Mon Sep 14 15:01:25 2026 +0800|luci: rename client overview and add VMware vendor icons
+f4efc0d37c|coolsnowwolf|Mon Sep 14 14:50:49 2026 +0800|luci-app-oui: add GIGABYTE vendor detection and icon
+348b9af486|coolsnowwolf|Mon Sep 14 14:39:48 2026 +0800|luci-mod-status: unify and retain LAN clients for each boot
 </details>

@@ -1,6 +1,0 @@
-<details> <summary> <b>OpenWrt-nikki new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-21befe0|akovale2025|Sun Sep 13 21:02:59 2026 -0400|fix: read yq output fully before json() in load_profile (#905)
-</details>
