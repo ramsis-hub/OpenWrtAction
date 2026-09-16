@@ -2,11 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f7dc02269a|coolsnowwolf|Tue Sep 15 02:29:08 2026 +0800|luci-mod-status: fix mtwifi channel scans and prevent overlapping scans
-5cfaf67fed|coolsnowwolf|Tue Sep 15 02:08:07 2026 +0800|luci: add client hostname discovery and connection counts
-6211a8f063|coolsnowwolf|Tue Sep 15 01:32:16 2026 +0800|luci-mod-status: ignore failed ARP entries for client online status
-862c90548d|coolsnowwolf|Mon Sep 14 17:40:38 2026 +0800|luci-app-oui: prefer fnOS icon for hosts with NAS web ports
-edf9a7f6ef|coolsnowwolf|Mon Sep 14 15:01:25 2026 +0800|luci: rename client overview and add VMware vendor icons
-f4efc0d37c|coolsnowwolf|Mon Sep 14 14:50:49 2026 +0800|luci-app-oui: add GIGABYTE vendor detection and icon
-348b9af486|coolsnowwolf|Mon Sep 14 14:39:48 2026 +0800|luci-mod-status: unify and retain LAN clients for each boot
+0fb07d4de6|coolsnowwolf|Wed Sep 16 12:29:43 2026 +0800|luci-app-wol: fix wake command execution
 </details>

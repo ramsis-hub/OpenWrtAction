@@ -2,10 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2dcb54e2|lwb1978|Tue Sep 15 00:51:47 2026 +0800|luci: fixup
-673a1718|lwb1978|Tue Sep 15 00:33:20 2026 +0800|luci: adjust and optimize
-6455adc8|lwb1978|Mon Sep 14 22:39:55 2026 +0800|luci: demo port for special node export config
-0bfbdc72|lwb1978|Mon Sep 14 14:56:15 2026 +0800|luci: optimize NTP time adjustment handling
-1178f18f|lwb1978|Mon Sep 14 14:52:09 2026 +0800|luci: set minimum Xray version to 26.7.11
-949269b9|lwb1978|Mon Sep 14 13:54:58 2026 +0800|luci: adjust and optimize log
+7321bb79|lwb1978|Tue Sep 15 23:41:00 2026 +0800|luci: optimize dns redirect logic
+f8e8b256|lwb1978|Tue Sep 15 21:33:06 2026 +0800|luci: optimize component executable path settings
+88e6c9c1|lwb1978|Tue Sep 15 14:14:03 2026 +0800|luci: optimize
 </details>

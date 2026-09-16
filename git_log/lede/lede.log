@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-611233e63|coolsnowwolf|Tue Sep 15 03:34:42 2026 +0800|kernel: update supported LTS kernels to latest releases
-8ea978aad|coolsnowwolf|Tue Sep 15 03:02:38 2026 +0800|qualcommax: fix Linux 6.18 patch and device tree compatibility
+b952adf4c|coolsnowwolf|Wed Sep 16 11:17:37 2026 +0800|kernel: fix hci-uart serdev dependency
 </details>

@@ -1,6 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0a3c1c1d|coolsnowwolf|Mon Sep 14 22:30:22 2026 +0800|libwebsockets: fix DISABLE_WERROR CMake option
-</details>
