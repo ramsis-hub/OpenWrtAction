@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-db18028|handsomeji|Wed Sep 16 00:55:41 2026 +0800|luci: update socks switch logic
-982be25|handsomeji|Wed Sep 16 01:29:08 2026 +0800|luci: adjust nftables DNS redirect
-4d8cfda|SwordKing|Tue Sep 15 21:38:33 2026 +0800|luci: optimize component executable path settings
+9ee2b2b|handsomeji|Wed Sep 16 22:56:49 2026 +0800|luci: bump to 26.9.16
 </details>

@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+79c186e1f|Til Kaiser|Wed Jan 7 14:24:29 2026 +0100|ifstat: fix build with GCC 15
+8db338fe2|Gagan Deep|Wed Sep 9 17:09:31 2026 +0000|openwisp-config: fetch release tarball instead of git clone
+e43c09b6c|Gagan Deep|Tue Sep 8 12:44:47 2026 +0000|openwisp-config: upgrade to 1.3.0
+</details>

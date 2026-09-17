@@ -1,6 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0fb07d4de6|coolsnowwolf|Wed Sep 16 12:29:43 2026 +0800|luci-app-wol: fix wake command execution
-</details>

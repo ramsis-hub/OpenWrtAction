@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5dbade4e36|Javen Li|Fri Sep 11 10:41:08 2026 +0800|luci-app-frpc: avoid saving the same form twice
-aaad6b898e|Javen Li|Mon Sep 7 10:40:20 2026 +0800|luci-app-frps: avoid saving the same form twice
+82ed8f6d0f|Andy Chiang|Wed Sep 16 19:00:15 2026 +0300|luci-lua-runtime: update timezone data to 2026d
+58530d82a2|Andy Chiang|Wed Sep 16 19:00:09 2026 +0300|luci-base: update timezone data to 2026d
+4021333372|Hannu Nyman|Wed Sep 16 18:54:41 2026 +0300|treewide: backport translations from master
 </details>
