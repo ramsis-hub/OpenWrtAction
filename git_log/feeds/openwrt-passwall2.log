@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9ee2b2b|handsomeji|Wed Sep 16 22:56:49 2026 +0800|luci: bump to 26.9.16
+d4dfa3b|lwb1978|Thu Sep 17 18:59:35 2026 +0800|luci:  rule currently not support `ext`
 </details>

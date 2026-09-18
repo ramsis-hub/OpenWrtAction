@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9ea7d79c|lwb1978|Wed Sep 16 14:42:19 2026 +0800|luci: bump 26.9.16
-312c3cf7|lwb1978|Wed Sep 16 14:33:59 2026 +0800|luci: simplify sing-box WebSocket transport settings
+6226c1eb|lwb1978|Fri Sep 18 11:47:18 2026 +0800|luci: fix the translation
+611e873e|lwb1978|Thu Sep 17 19:01:12 2026 +0800|luci:  rule currently not support `ext`
 </details>
