@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-d4dfa3b|lwb1978|Thu Sep 17 18:59:35 2026 +0800|luci:  rule currently not support `ext`
-</details>
