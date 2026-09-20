@@ -2,7 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+d074d130|A-BO|Sun Sep 20 11:15:29 2026 +0800|luci: adjust detail
+072eb196|A-BO|Sun Sep 20 00:38:00 2026 +0800|luci: fix xray mkcp field typo
+4ddbe980|A-BO|Sun Sep 20 00:31:37 2026 +0800|luci: Fixed /tmp/etc/dnsmasq.conf.cfg01411c: No such file or directory
+9c641574|A-BO|Sat Sep 19 18:39:58 2026 +0800|luci: improvement and optimization
+4dd01eb4|A-BO|Sat Sep 19 01:47:26 2026 +0800|luci: server: revise certificate and private key wording
 e0cbb39d|A-BO|Sat Sep 19 02:06:21 2026 +0800|luci: server: fix sing-box `ech key` value format
 04b4b07f|A-BO|Sat Sep 19 01:47:26 2026 +0800|luci: server: revise certificate and private key wording
-8bdf9c60|lwb1978|Fri Sep 18 15:46:00 2026 +0800|luci: add snell subscribe and import/export
 </details>

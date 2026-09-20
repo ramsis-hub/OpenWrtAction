@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+84c27b6|Eamon|Sun Sep 20 01:01:11 2026 +0800|chore: release 1.4.0
+0c6fa8a|Eamon|Sat Sep 19 22:05:42 2026 +0800|fix: restore the manifest icons and the login blur on Safari, trim main.css
+</details>

@@ -1,0 +1,12 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+50fc76b|A-BO|Sun Sep 20 00:38:00 2026 +0800|luci: fix xray mkcp field typo
+3d31bbe|A-BO|Sat Sep 19 18:39:58 2026 +0800|luci: improvement and optimization
+9829635|A-BO|Sat Sep 19 01:47:26 2026 +0800|luci: server: revise certificate and private key wording
+1141f6e|lwb1978|Fri Sep 18 15:46:00 2026 +0800|luci: add snell subscribe and import/export
+4d04bbe|lwb1978|Fri Sep 18 11:47:18 2026 +0800|luci: fix the translation
+2865696|handsomeji|Sun Sep 20 00:32:47 2026 +0800|luci: adjust detail
+b3adaf6|Vitaly|Sat Sep 19 18:39:35 2026 +0300|luci: Fixed /tmp/etc/dnsmasq.conf.cfg01411c: No such file or directory (#1295)
+</details>
