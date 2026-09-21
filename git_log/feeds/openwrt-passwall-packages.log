@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+8809eaf|Tianling Shen|Sun Sep 20 16:20:58 2026 +0800|shadowsocksr-libev: fix get_overhead NULL pointer for {auth,verify}_simple
+a1cc086|Tianling Shen|Sun Sep 20 15:55:41 2026 +0800|shadowsocksr-libev: make ssr-libev ~4.5x faster
+</details>
