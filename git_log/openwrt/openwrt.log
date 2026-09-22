@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+03be7efbab|John Audia|Thu Feb 26 17:24:56 2026 -0500|wireguard-tools: bump to 20260223
+419be080a8|Robert Marko|Mon Sep 21 13:28:57 2026 +0200|qualcommax: ipq807x: ax89x: use lan1 for failsafe
+</details>

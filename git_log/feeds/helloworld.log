@@ -1,7 +1,0 @@
-<details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-db7e943|Tianling Shen|Sun Sep 20 16:20:58 2026 +0800|shadowsocksr-libev: fix get_overhead NULL pointer for {auth,verify}_simple
-97980f2|Tianling Shen|Sun Sep 20 15:55:41 2026 +0800|shadowsocksr-libev: make ssr-libev ~4.5x faster
-</details>

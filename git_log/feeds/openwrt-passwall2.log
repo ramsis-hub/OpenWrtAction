@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-eb635e9|Jackie Han|Sun Sep 20 18:23:01 2026 +0800|luci: Implement retry logic for dnsmasq config file (#1296)
-0ebb2cf|A-BO|Sun Sep 20 13:28:43 2026 +0800|luci: optimize
-</details>

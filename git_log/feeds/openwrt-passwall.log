@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4e56af42|Jackie Han|Sun Sep 20 18:23:01 2026 +0800|luci: Implement retry logic for dnsmasq config file
-cb215ae5|A-BO|Sun Sep 20 13:25:10 2026 +0800|luci: optimize
+70761ef1|A-BO|Mon Sep 21 21:29:52 2026 +0800|luci: support SS ShadowTLS SIP003 URI subscribe
 </details>
