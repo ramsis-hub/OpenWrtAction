@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-70761ef1|A-BO|Mon Sep 21 21:29:52 2026 +0800|luci: support SS ShadowTLS SIP003 URI subscribe
+8043c1fb|A-BO|Tue Sep 22 20:30:33 2026 +0800|luci: improve Base64 decoding
 </details>

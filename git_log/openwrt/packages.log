@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2f6bf10ac|Wei-Ting Yang|Wed Sep 16 20:32:16 2026 +0800|bash: update to 5.3 patch level 20
+f5ce9895f|Peter Polonec|Sun Sep 20 07:07:58 2026 +0200|php8-pecl-http: disable TLS-SRP detection
+d8488f46b|Peter Polonec|Thu Sep 3 17:15:55 2026 +0200|curl: update to 8.22.0
+1672d664b|Florian Eckert|Wed Jun 24 17:00:01 2026 +0200|curl: add krb5 support
+acecdebae|Tyrel M. McQueen|Sun Sep 20 08:36:05 2026 -0400|unbound: update to 1.26.1
+8688f24f3|Josef Schlehofer|Mon Sep 21 17:20:28 2026 +0200|librespeed-cli-rust: update to version 1.2.0
 </details>
