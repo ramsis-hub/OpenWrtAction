@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8043c1fb|A-BO|Tue Sep 22 20:30:33 2026 +0800|luci: improve Base64 decoding
+e72dc624|A-BO|Thu Sep 24 00:26:10 2026 +0800|luci: optimize firewall `update_wan_sets`
+75d166ab|A-BO|Wed Sep 23 22:21:54 2026 +0800|luci: optimize subscribe User-Agent
+2cb51eaf|A-BO|Wed Sep 23 22:09:47 2026 +0800|luci: support Shadowrocket VMess URI
 </details>

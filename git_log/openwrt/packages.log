@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f5ce9895f|Peter Polonec|Sun Sep 20 07:07:58 2026 +0200|php8-pecl-http: disable TLS-SRP detection
-d8488f46b|Peter Polonec|Thu Sep 3 17:15:55 2026 +0200|curl: update to 8.22.0
-1672d664b|Florian Eckert|Wed Jun 24 17:00:01 2026 +0200|curl: add krb5 support
-acecdebae|Tyrel M. McQueen|Sun Sep 20 08:36:05 2026 -0400|unbound: update to 1.26.1
-8688f24f3|Josef Schlehofer|Mon Sep 21 17:20:28 2026 +0200|librespeed-cli-rust: update to version 1.2.0
+7f0f2d43a|Stijn Tintel|Thu Jan 15 20:10:10 2026 +0200|kea: create /var/lib/kea directory in init script
+1137f24e4|Stijn Tintel|Thu Jan 15 20:03:16 2026 +0200|kea: fix /var/run/kea permissions
+0ad9a3fc1|Josef Schlehofer|Wed Sep 23 00:45:56 2026 +0200|tvheadend: handle DVB device nodes on dvb hotplug events
+6bdd3fd03|Michael Pfeifroth|Tue Sep 22 10:44:22 2026 +0200|modemmanager: suppress hotplug log noise
 </details>
