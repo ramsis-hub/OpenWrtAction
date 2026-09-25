@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7f0f2d43a|Stijn Tintel|Thu Jan 15 20:10:10 2026 +0200|kea: create /var/lib/kea directory in init script
-1137f24e4|Stijn Tintel|Thu Jan 15 20:03:16 2026 +0200|kea: fix /var/run/kea permissions
-0ad9a3fc1|Josef Schlehofer|Wed Sep 23 00:45:56 2026 +0200|tvheadend: handle DVB device nodes on dvb hotplug events
-6bdd3fd03|Michael Pfeifroth|Tue Sep 22 10:44:22 2026 +0200|modemmanager: suppress hotplug log noise
-</details>

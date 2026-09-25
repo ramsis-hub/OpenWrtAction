@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e72dc624|A-BO|Thu Sep 24 00:26:10 2026 +0800|luci: optimize firewall `update_wan_sets`
-75d166ab|A-BO|Wed Sep 23 22:21:54 2026 +0800|luci: optimize subscribe User-Agent
-2cb51eaf|A-BO|Wed Sep 23 22:09:47 2026 +0800|luci: support Shadowrocket VMess URI
+49fee66b|Mita Hill|Fri Sep 25 12:32:07 2026 +0800|luci: Fix : Issue:#4478 (#4479)
+db7a6f0a|A-BO|Fri Sep 25 01:22:38 2026 +0800| ci: update code
+0086f8bc|A-BO|Thu Sep 24 18:01:19 2026 +0800|luci: optimize log
 </details>
