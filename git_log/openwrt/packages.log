@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+32dd807af|Dirk Brenken|Fri Sep 25 23:11:19 2026 +0200|banip: update 1.9.0-2
+4887ba99a|Josef Schlehofer|Mon Sep 21 19:40:14 2026 +0200|librespeed: fix the kconfig recursion between common and the clients
+8cf7cb510|Josef Schlehofer|Sun Aug 16 12:40:23 2026 +0200|librespeed-common: add measurement backend
+</details>

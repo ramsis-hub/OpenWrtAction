@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-00dd4ba761|coolsnowwolf|Fri Sep 25 03:24:34 2026 +0800|luci-app-oui: show phone icon for private MAC addresses
-18ddab39c7|coolsnowwolf|Fri Sep 25 03:15:00 2026 +0800|luci-app-oui: add Haier vendor recognition and icon
+3e89467745|coolsnowwolf|Sat Sep 26 00:50:03 2026 +0800|luci-mod-status: add system and kernel log TXT export
 </details>

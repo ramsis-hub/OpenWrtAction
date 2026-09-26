@@ -1,8 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-241650a12|coolsnowwolf|Fri Sep 25 00:54:16 2026 +0800|kernel: bump 6.12 to 6.12.111 and 6.18 to 6.18.53
-ec6173583|coolsnowwolf|Fri Sep 25 00:11:51 2026 +0800|kernel: fix xt_FLOWOFFLOAD output device lookup
-8f708e8f0|coolsnowwolf|Thu Sep 24 23:28:56 2026 +0800|mediatek: fix MT7987 clock driver on Linux 6.18
-</details>
