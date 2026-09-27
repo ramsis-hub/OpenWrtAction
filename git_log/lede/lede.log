@@ -1,0 +1,8 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+4947846ea|coolsnowwolf|Sun Sep 27 08:16:26 2026 +0800|default-settings: generate firmware revision from build date
+555d22155|coolsnowwolf|Sun Sep 27 08:10:44 2026 +0800|kernel: bump 6.18 to 6.18.54
+e663ca9b4|coolsnowwolf|Sun Sep 27 07:47:50 2026 +0800|qualcommax: move Device DTS to dedicated DTS directory
+</details>
