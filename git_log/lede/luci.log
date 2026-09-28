@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-393cc750ae|coolsnowwolf|Sat Sep 26 23:16:30 2026 +0800|luci-mod-status: restore online client detection
+7494809a0b|coolsnowwolf|Sun Sep 27 20:23:44 2026 +0800|luci-theme-design: add prioritized HomeProxy navbar shortcut
+dcb5f6bca8|coolsnowwolf|Sun Sep 27 19:23:49 2026 +0800|luci-theme-design: fix nftables text badge sizing
+69ecae6f3a|coolsnowwolf|Sun Sep 27 19:20:41 2026 +0800|luci-theme-design: left-align nftables rules
 </details>
