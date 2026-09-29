@@ -1,6 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6248ca158|coolsnowwolf|Sun Sep 27 17:59:30 2026 +0800|qca-nss-drv: fix frag list truesize accounting
-</details>

@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d376de0b|coolsnowwolf|Mon Sep 28 01:44:57 2026 +0800|pgyvpn: isolate bundled OpenSSL libraries
+91498daa|github-actions[bot]|Mon Sep 28 07:19:39 2026 +0000|ci: sync upstream packages
+a110c82b|coolsnowwolf|Mon Sep 28 15:19:17 2026 +0800|ci: restore upstream package sync and track sing-box releases
 </details>

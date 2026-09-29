@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7494809a0b|coolsnowwolf|Sun Sep 27 20:23:44 2026 +0800|luci-theme-design: add prioritized HomeProxy navbar shortcut
-dcb5f6bca8|coolsnowwolf|Sun Sep 27 19:23:49 2026 +0800|luci-theme-design: fix nftables text badge sizing
-69ecae6f3a|coolsnowwolf|Sun Sep 27 19:20:41 2026 +0800|luci-theme-design: left-align nftables rules
+e853b2b146|coolsnowwolf|Tue Sep 29 11:18:23 2026 +0800|luci-mod-status: split client traffic totals into upload and download
+6094963318|github-actions[bot]|Mon Sep 28 07:09:16 2026 +0000|ci: sync upstream luci applications
+ed9498374a|coolsnowwolf|Mon Sep 28 15:08:21 2026 +0800|ci: restore upstream LuCI application sync
 </details>
