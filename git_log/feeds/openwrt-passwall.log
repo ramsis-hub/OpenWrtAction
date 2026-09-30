@@ -2,10 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+b882d8f1|A-BO|Wed Sep 30 00:53:48 2026 +0800|luci: adjusted the dnsmasq cache hash calculation logic
+44e821a2|A-BO|Tue Sep 29 10:22:04 2026 +0800|luci: support subscription cookies
 65a4f33c|A-BO|Tue Sep 29 10:22:04 2026 +0800|luci: support subscription cookies
-7b3d8efc|A-BO|Mon Sep 28 16:30:09 2026 +0800|luci: optimize cron
-ab8102d1|A-BO|Mon Sep 28 00:50:35 2026 +0800|luci: Change FakeIPv6Pool to 2001:2::/48
-082d37c7|A-BO|Sun Sep 27 21:31:22 2026 +0800|luci: optimize lock cleanup logic
-6b3c321c|A-BO|Mon Sep 28 00:50:35 2026 +0800|luci: Change FakeIPv6Pool to 2001:2::/48
-25042064|A-BO|Sun Sep 27 21:31:22 2026 +0800|luci: optimize lock cleanup logic
 </details>

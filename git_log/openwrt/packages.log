@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b9c0c76e6|George Sapkin|Wed May 13 21:31:36 2026 +0300|unbound: add version check override
-ddc652f6c|Alexandru Ardelean|Wed May 6 09:23:11 2026 +0300|unbound: add test.sh
-22e5a43f0|George Sapkin|Mon May 11 16:55:31 2026 +0200|krb5: add version check override
-02f597680|Josef Schlehofer|Sun Sep 27 09:11:08 2026 +0200|tvheadend: skip the DVB permission fix without adapters
-4363fe387|Josef Schlehofer|Sun Sep 27 04:47:47 2026 +0200|tvheadend: update to 2026-09-24
-afd7412ae|Seo Suchan|Mon Jun 8 07:02:49 2026 +0900|rtl-sdr: add test.sh
-96cc41065|Seo Suchan|Mon May 25 16:53:43 2026 +0900|rtl-sdr: update to 2.0.2
-fe94ae155|Josef Schlehofer|Tue Jun 30 15:32:58 2026 +0200|giflib: add version check override
-deca004d4|George Sapkin|Fri May 8 16:52:59 2026 +0300|coreutils: add generic version check override
-98ac58472|George Sapkin|Thu May 28 17:06:28 2026 +0300|bind: add version check override
-c99b0fa89|George Sapkin|Mon May 11 16:39:59 2026 +0200|dbus: add version check override
-a149847eb|Josef Schlehofer|Sun Sep 27 17:59:04 2026 +0200|python3: update to 3.13.15
-16ebd8daf|Alexandru Ardelean|Fri Apr 3 13:53:07 2026 +0300|selinux-python: fix cross-compilation, add test.sh
-368597507|Alexandru Ardelean|Fri Apr 3 13:53:03 2026 +0300|python-semanage: fix cross-compilation, add test.sh
-a90cfdcd3|Alexandru Ardelean|Thu Apr 2 19:40:43 2026 +0300|python-selinux: fix cross-compilation, add test.sh
+42cd716d5|Josef Schlehofer|Sun Sep 27 21:44:41 2026 +0200|exim: update to 4.100.1
+fb7d7b3ab|Josef Schlehofer|Sun Sep 27 21:44:40 2026 +0200|exim: add download URL for superseded releases
+9f439079f|Ivan Pavlov|Thu Sep 24 22:30:35 2026 +0300|rsync: update to 3.5.1
+a14cd3312|George Sapkin|Sun May 24 23:10:27 2026 +0300|rsync: add version check override
+a0f47dd3d|Fabrice Fontaine|Fri Mar 13 22:35:39 2026 +0100|net/rsync: fix PKG_CPE_ID
+c3d309efa|Seo Suchan|Fri May 29 00:10:15 2026 +0900|libxslt: add test-version.sh
+e674e03b6|Josef Schlehofer|Sun Sep 27 17:45:59 2026 +0200|ddns-scripts: use HTTPS for variomedia.de
+a0994628f|Josef Schlehofer|Sun Sep 27 17:45:28 2026 +0200|ddns-scripts: remove ddnss.de
+63bb68b74|Josef Schlehofer|Sun Sep 27 17:44:56 2026 +0200|ddns-scripts: remove defunct providers
+1465994ec|Martin Brodbeck|Sun Sep 13 14:07:10 2026 +0200|ddns-scripts: fix updating IPv6 for netcup
+6f7d56e3b|Josef Schlehofer|Tue Sep 22 16:23:47 2026 +0200|ddns-scripts: remove discontinued providers
+a67e8456b|Jimmy Qin|Fri Feb 13 20:25:40 2026 +0100|ddns-scripts: update hotplug script
+4465c556a|Keith T. Garner|Tue Aug 11 14:17:59 2026 -0500|ddns-scripts: add gandi pat support
+90a538e3f|Hauke Mehrtens|Sun Jul 26 18:08:10 2026 +0200|ddns-scripts: fix root command injection through ddns_dateformat
+565d7b0e5|Jiang Tengfei|Fri Jun 26 22:34:41 2026 +0800|ddns-scripts: update to 2.8.4
 
 .....................
 
