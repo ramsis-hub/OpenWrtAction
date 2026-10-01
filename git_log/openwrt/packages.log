@@ -2,22 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-42cd716d5|Josef Schlehofer|Sun Sep 27 21:44:41 2026 +0200|exim: update to 4.100.1
-fb7d7b3ab|Josef Schlehofer|Sun Sep 27 21:44:40 2026 +0200|exim: add download URL for superseded releases
-9f439079f|Ivan Pavlov|Thu Sep 24 22:30:35 2026 +0300|rsync: update to 3.5.1
-a14cd3312|George Sapkin|Sun May 24 23:10:27 2026 +0300|rsync: add version check override
-a0f47dd3d|Fabrice Fontaine|Fri Mar 13 22:35:39 2026 +0100|net/rsync: fix PKG_CPE_ID
-c3d309efa|Seo Suchan|Fri May 29 00:10:15 2026 +0900|libxslt: add test-version.sh
-e674e03b6|Josef Schlehofer|Sun Sep 27 17:45:59 2026 +0200|ddns-scripts: use HTTPS for variomedia.de
-a0994628f|Josef Schlehofer|Sun Sep 27 17:45:28 2026 +0200|ddns-scripts: remove ddnss.de
-63bb68b74|Josef Schlehofer|Sun Sep 27 17:44:56 2026 +0200|ddns-scripts: remove defunct providers
-1465994ec|Martin Brodbeck|Sun Sep 13 14:07:10 2026 +0200|ddns-scripts: fix updating IPv6 for netcup
-6f7d56e3b|Josef Schlehofer|Tue Sep 22 16:23:47 2026 +0200|ddns-scripts: remove discontinued providers
-a67e8456b|Jimmy Qin|Fri Feb 13 20:25:40 2026 +0100|ddns-scripts: update hotplug script
-4465c556a|Keith T. Garner|Tue Aug 11 14:17:59 2026 -0500|ddns-scripts: add gandi pat support
-90a538e3f|Hauke Mehrtens|Sun Jul 26 18:08:10 2026 +0200|ddns-scripts: fix root command injection through ddns_dateformat
-565d7b0e5|Jiang Tengfei|Fri Jun 26 22:34:41 2026 +0800|ddns-scripts: update to 2.8.4
-
-.....................
-
+92bc64441|George Sapkin|Wed Sep 30 21:01:26 2026 +0300|golang: mark 1.27 as host-only
+880b3baf8|George Sapkin|Wed Sep 2 16:01:59 2026 +0300|golang: bump 1.27 to 1.27.1
+2558a94e1|George Sapkin|Wed Sep 2 15:30:14 2026 +0300|golang: add support for host-only version series
+4aba19f29|George Sapkin|Wed Aug 19 21:54:44 2026 +0300|golang: add 1.27.0
+2c3fb3263|George Sapkin|Mon Aug 10 18:31:59 2026 +0300|golang: fix target binary stripping
+05772f3b8|George Sapkin|Mon Aug 10 18:29:57 2026 +0300|golang: remove redundant quotes in extra_provides
 </details>
