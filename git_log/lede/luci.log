@@ -2,13 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5a7a9f0825|github-actions[bot]|Thu Oct 1 04:46:37 2026 +0000|ci: sync upstream luci applications
-6beba4a033|coolsnowwolf|Thu Oct 1 12:45:13 2026 +0800|ci: sync HomeProxy from coolsnowwolf lean branch
-af2755e8c9|github-actions[bot]|Thu Oct 1 02:17:50 2026 +0000|ci: sync upstream luci applications
-345ecfbb8e|coolsnowwolf|Thu Oct 1 10:17:01 2026 +0800|luci-app-homeproxy: cache features and preserve fix during upstream sync
-1a17c69b06|coolsnowwolf|Thu Oct 1 09:57:18 2026 +0800|luci-app-firewall: restore custom rules for firewall4
-87bf1ce256|coolsnowwolf|Wed Sep 30 18:17:53 2026 +0800|luci-app-turboacc: enable hardware flow offload by default on Airoha
-0c42840ec3|coolsnowwolf|Wed Sep 30 17:58:31 2026 +0800|luci-app-airoha-npu: add Simplified Chinese translations
-efa192634d|github-actions[bot]|Wed Sep 30 08:35:44 2026 +0000|ci: sync upstream luci applications
-d3456aea89|coolsnowwolf|Wed Sep 30 16:26:52 2026 +0800|luci-app-airoha-npu: validate PLL overclock requests and readback
+b4dade125b|coolsnowwolf|Thu Oct 1 23:11:01 2026 +0800|luci-compat: show bridge devices in network selector
+a129f2f446|coolsnowwolf|Thu Oct 1 18:47:15 2026 +0800|luci-theme-design: refresh menus without interrupting form saves
+77c487c9c1|github-actions[bot]|Thu Oct 1 08:57:37 2026 +0000|ci: sync upstream luci applications
 </details>

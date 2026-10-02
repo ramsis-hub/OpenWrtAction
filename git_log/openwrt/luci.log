@@ -1,6 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-1fcad1ef1f|Fabiao De Gongniu|Sun Aug 9 08:51:00 2026 +0800|luci-app-natmap: allow reading status under /tmp/run
-</details>

@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-219fca22|A-BO|Thu Oct 1 02:12:51 2026 +0800|luci: 26.10.1
-8eeaa7d9|A-BO|Thu Oct 1 02:07:11 2026 +0800|luci: optimize dns-related
-15890d37|A-BO|Wed Sep 30 18:15:43 2026 +0800|luci: adjust and optimize
+97a60e9b|A-BO|Fri Oct 2 03:45:50 2026 +0800|luci: adjust the dns logic of the shunt node
+158f3949|A-BO|Fri Oct 2 02:49:30 2026 +0800|luci: fix stop lock errors
 </details>

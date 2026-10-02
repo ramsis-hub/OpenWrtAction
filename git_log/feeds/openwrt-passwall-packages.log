@@ -1,8 +1,0 @@
-<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-cadc39b|David Mandy|Wed Sep 30 17:25:24 2026 +0800|xray-core: update to 26.9.30 (#735)
-1a5de47|David Mandy|Wed Sep 30 17:25:07 2026 +0800|geoview: update to 0.2.7 (#737)
-73e821b|David Mandy|Wed Sep 30 16:38:03 2026 +0800|v2ray-geosite: update to 202609292207 (#736)
-</details>
