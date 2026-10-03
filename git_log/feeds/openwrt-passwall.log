@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-97a60e9b|A-BO|Fri Oct 2 03:45:50 2026 +0800|luci: adjust the dns logic of the shunt node
-158f3949|A-BO|Fri Oct 2 02:49:30 2026 +0800|luci: fix stop lock errors
+d1094a6e|A-BO|Fri Oct 2 20:50:43 2026 +0800|luci: adjust smartdns start/stop logic
+05ce701f|A-BO|Fri Oct 2 19:30:18 2026 +0800|luci: detach cron jobs with setsid when available
 </details>

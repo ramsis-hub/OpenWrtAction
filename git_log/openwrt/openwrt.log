@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+15421742a9|Michael Pfeifroth|Mon Jun 22 14:13:37 2026 +0200|wifi-scripts: enforce WPA3 for all encryption types on 6 GHz
+</details>

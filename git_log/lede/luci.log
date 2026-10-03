@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b4dade125b|coolsnowwolf|Thu Oct 1 23:11:01 2026 +0800|luci-compat: show bridge devices in network selector
-a129f2f446|coolsnowwolf|Thu Oct 1 18:47:15 2026 +0800|luci-theme-design: refresh menus without interrupting form saves
-77c487c9c1|github-actions[bot]|Thu Oct 1 08:57:37 2026 +0000|ci: sync upstream luci applications
+db263d56a4|coolsnowwolf|Fri Oct 2 21:27:16 2026 +0800|luci-app-firewall: add MediaTek HNAT offloading mode
+21dd3c524d|github-actions[bot]|Fri Oct 2 08:32:56 2026 +0000|ci: sync upstream luci applications
 </details>

@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5901e5f|A-BO|Sun Sep 27 21:31:22 2026 +0800|luci: optimize lock cleanup logic
+</details>

@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+2858f8d98b|Michael Pfeifroth|Mon Jun 22 14:11:00 2026 +0200|luci-mod-network: hide incompatible encryption modes for 6 GHz
+</details>

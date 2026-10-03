@@ -2,9 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9b9199ae4|Niklas Thorild|Tue Sep 29 13:03:18 2026 +0200|telegraf: target go 1.27 on openwrt-25.12
-d78ab19f4|Niklas Thorild|Mon Sep 21 21:26:46 2026 +0200|telegraf: update to 1.40.1
-19fd1072a|Remi Gacogne|Tue Sep 8 10:41:57 2026 +0200|pdns: security update to 4.9.17
-dd6a9799f|George Sapkin|Sun May 10 02:59:18 2026 +0300|pdns: update config arguments
-51ad82abd|Remi Gacogne|Tue Sep 8 10:46:04 2026 +0200|pdns-recursor: security update to 5.2.13
+8c55f325c|Vladimir Ulrich|Mon Sep 14 21:51:19 2026 +0300|zoneinfo: update to 2026d release
+dda3da453|Vladimir Ulrich|Sat Jul 11 19:25:48 2026 +0300|zoneinfo: updated to 2026c release
 </details>
