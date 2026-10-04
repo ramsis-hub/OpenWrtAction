@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-37a6a7b1|coolsnowwolf|Sat Oct 3 10:05:08 2026 +0800|qbittorrent: update to 5.2.4
-7c1f670b|coolsnowwolf|Sat Oct 3 10:05:08 2026 +0800|qt6: add base libraries and host tools 6.9.3
+72cec443|coolsnowwolf|Sun Oct 4 11:52:19 2026 +0800|nbnsd: add a Lightweight NetBIOS name responder service (etc. for ksmbd integration)
+815e6a34|coolsnowwolf|Sun Oct 4 11:51:57 2026 +0800|ksmbd-tools: update to 3.5.7
+14b7a42a|coolsnowwolf|Sat Oct 3 21:05:46 2026 +0800|libdouble-conversion: add missing Qt6 dependency
 </details>

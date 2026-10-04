@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8c55f325c|Vladimir Ulrich|Mon Sep 14 21:51:19 2026 +0300|zoneinfo: update to 2026d release
-dda3da453|Vladimir Ulrich|Sat Jul 11 19:25:48 2026 +0300|zoneinfo: updated to 2026c release
+dbd4c1151|Moritz Warning|Sat Jun 6 00:29:49 2026 +0200|zerotier: update to 1.16.2
+8195da5fd|Fabrice Fontaine|Wed Mar 18 19:00:17 2026 +0100|net/zerotier: assign PKG_CPE_ID
+295217cc3|Mai Thanh Minh|Mon Dec 15 03:25:10 2025 +0700|zerotier: apply upstream license change to `MPL-2.0`
 </details>
