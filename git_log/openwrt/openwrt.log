@@ -2,6 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-69c6eebf56|Hauke Mehrtens|Thu Oct 1 01:48:34 2026 +0200|mac80211: update to version 6.18.55
-5545740354|Tianling Shen|Thu May 21 17:00:34 2026 +0800|valgrind: fix ARMv7 detection on AArch64
+192a447688|Grische|Sat Sep 26 12:24:48 2026 +0200|build: fix image headers silently truncated with uutils coreutils
+6ea0478bef|Mario Andrés Pérez|Sun May 24 00:42:47 2026 +0200|bcm47xx: base-files: hack sysinfo to allow ASU sysupgrades
+b89e7b9599|Mario Andrés Pérez|Tue Mar 10 20:21:33 2026 +0100|layerscape: armv8_64b: traverse ten64-mtd fix ASU support
+1439de1777|Mario Andrés Pérez|Sat Apr 18 14:38:57 2026 +0200|imx: cortexa9: ventana, fix profiles names in profiles.json
+f3c0b084b1|Mario Andrés Pérez|Fri Feb 13 21:28:32 2026 +0100|qualcommbe: ipq95xx: require image metadata for sysupgrade checks
+244ed490a2|Hauke Mehrtens|Tue May 26 01:17:13 2026 +0200|libiwinfo: update to Git HEAD (2026-05-26)
+e594c1dbf3|Ivan Pavlov|Sat Oct 3 18:28:39 2026 +0300|openssl: update to 3.5.9
+60827c1dc2|Tianling Shen|Mon Sep 21 14:19:25 2026 +0800|kselftests-bpf: isolate target userspace compiler flags
+a429d63d59|Shiji Yang|Thu Sep 3 19:39:03 2026 +0800|wireless-regdb: update to version 2026.09.03
+93b5c6220e|Hauke Mehrtens|Sat Jun 27 17:29:48 2026 +0200|umdns: update to Git HEAD (2026-06-27)
+61afc164a5|Hauke Mehrtens|Tue Aug 11 22:46:05 2026 +0200|uhttpd: update to Git HEAD (2026-08-03)
 </details>

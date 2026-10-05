@@ -2,7 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-dbd4c1151|Moritz Warning|Sat Jun 6 00:29:49 2026 +0200|zerotier: update to 1.16.2
-8195da5fd|Fabrice Fontaine|Wed Mar 18 19:00:17 2026 +0100|net/zerotier: assign PKG_CPE_ID
-295217cc3|Mai Thanh Minh|Mon Dec 15 03:25:10 2025 +0700|zerotier: apply upstream license change to `MPL-2.0`
+fbe467795|Josef Schlehofer|Sun Sep 27 23:39:13 2026 +0200|selinux-python: add version check override
+0c9829c65|Josef Schlehofer|Sun Sep 27 17:52:18 2026 +0200|python3: match packages by pattern in version check override
+39754e6b2|George Sapkin|Sun May 10 15:15:08 2026 +0300|python3: move version checks to override
+bb83dc2f9|Andrea Pesaresi|Fri Aug 28 18:28:58 2026 +0200|ksmbd-tools: add package version test
+d7978609e|Josef Schlehofer|Sun Aug 9 08:01:33 2026 +0200|tree-wide: rename version check test.sh to test-version.sh
+e255d83c5|Alexandru Ardelean|Sat May 30 21:12:17 2026 +0300|alsa-lib: add version check override
+4b73d17d5|George Sapkin|Fri May 8 16:21:03 2026 +0300|lksctp-tools: add generic version check override
+1a7b286da|Alexandru Ardelean|Fri May 1 19:33:03 2026 +0300|alsa-lib: add test.sh for aserver without --version
+73be450b0|Alexandru Ardelean|Fri May 1 10:22:47 2026 +0300|bluez: add test.sh for binaries without --version
 </details>

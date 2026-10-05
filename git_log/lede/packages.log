@@ -2,7 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-72cec443|coolsnowwolf|Sun Oct 4 11:52:19 2026 +0800|nbnsd: add a Lightweight NetBIOS name responder service (etc. for ksmbd integration)
-815e6a34|coolsnowwolf|Sun Oct 4 11:51:57 2026 +0800|ksmbd-tools: update to 3.5.7
-14b7a42a|coolsnowwolf|Sat Oct 3 21:05:46 2026 +0800|libdouble-conversion: add missing Qt6 dependency
+51c86b49|coolsnowwolf|Mon Oct 5 11:03:40 2026 +0800|uugamebooster: allow acceleration tunnel traffic through firewall4
+911bdc26|coolsnowwolf|Mon Oct 5 00:26:07 2026 +0800|ksmbd-tools: drop invalid host build dependencies
+7ebfdb35|coolsnowwolf|Sun Oct 4 16:08:00 2026 +0800|ksmbd-tools: serialize configuration and deduplicate automatic shares
+a72ef899|coolsnowwolf|Sun Oct 4 16:00:46 2026 +0800|ksmbd-tools: sync automatic shares and service defaults
 </details>
