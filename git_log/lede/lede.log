@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7fc382c1e|coolsnowwolf|Mon Oct 5 10:41:17 2026 +0800|rockchip: fix NanoPi R28S PCIe Ethernet
-c312460dc|coolsnowwolf|Sun Oct 4 23:33:56 2026 +0800|kernel: update supported versions to latest releases
+88f08888b|coolsnowwolf|Mon Oct 5 21:49:42 2026 +0800|mvebu: scope IEI MCU sources to Linux 6.18
 </details>

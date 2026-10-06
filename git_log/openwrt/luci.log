@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+6e4d9796f8|Eamon Xiong|Mon Oct 5 22:01:06 2026 +0300|luci-mod-dashboard: preserve scroll position during polling
+3e70963a63|Eamon Xiong|Mon Oct 5 22:00:47 2026 +0300|luci-mod-dashboard: show wireless band in Wireless detail tab
+63a428fdb2|Hannu Nyman|Mon Oct 5 20:49:57 2026 +0300|luci-base/luci-lua-runtime: update timezone data to 2026e
+be446e365c|Josef Schlehofer|Mon Sep 28 23:38:29 2026 +0200|luci-app-weechat: add new application
+</details>

@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-75e79308cb|coolsnowwolf|Sun Oct 4 22:40:35 2026 +0800|luci-mod-status: avoid stopping QCA APs during channel scans
-5af41275c0|coolsnowwolf|Sun Oct 4 21:54:02 2026 +0800|luci: fix iwinfo device resolution and empty association probes
-de2410c92b|github-actions[bot]|Sun Oct 4 08:27:45 2026 +0000|ci: sync upstream luci applications
+0425000906|coolsnowwolf|Tue Oct 6 11:41:40 2026 +0800|luci-mod-status: skip disabled QCA wireless probes
+42683b33d5|github-actions[bot]|Mon Oct 5 09:05:46 2026 +0000|ci: sync upstream luci applications
 </details>
