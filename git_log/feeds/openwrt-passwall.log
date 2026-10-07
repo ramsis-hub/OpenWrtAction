@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2d8e8c81|A-BO|Mon Oct 5 20:10:14 2026 +0800|luci: add MASQUE support (server)
-7a6f32bd|A-BO|Mon Oct 5 15:48:48 2026 +0800|luci: add MASQUE support (client)
-4a56d800|A-BO|Mon Oct 5 14:13:10 2026 +0800|luci: optimize
+80696124|A-BO|Wed Oct 7 13:10:46 2026 +0800|luci: remove `curl_direct` related logic
+2708533e|A-BO|Wed Oct 7 12:56:45 2026 +0800|luci: modify the unit for the hy2 quic receive window setting
 </details>
