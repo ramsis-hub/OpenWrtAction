@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a450f0d67c|Julius Bairaktaris|Sat Aug 1 04:27:18 2026 +0200|luci-app-ddns: quote the date format passed to the shell
+</details>

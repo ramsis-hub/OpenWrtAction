@@ -2,7 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e23a39981|Dirk Brenken|Tue Oct 6 21:11:36 2026 +0200|travelmate: minor cp fixes
-835252a89|Josef Schlehofer|Tue Oct 6 07:55:42 2026 +0200|ripe-atlas: fit get_key to the installed variant
-cc31d1fc4|Josef Schlehofer|Tue Oct 6 07:51:27 2026 +0200|ripe-atlas: provide atlas-probe from ripe-atlas-probe
+d27367596|Philip Prindeville|Sun Jun 14 15:26:42 2026 -0600|strongswan: invalid dpd_action value 'start' in IPsec swanctl.conf
+18a7f8700|Philip Prindeville|Sun Jun 14 13:06:24 2026 -0600|strongswan: update to 6.0.7
+29488eaed|Philip Prindeville|Sun Apr 26 11:32:00 2026 -0600|strongswan: update to 6.0.6
+c15a4ad1d|Philip Prindeville|Sun Dec 14 12:21:20 2025 -0700|strongswan: update to 6.0.4
+c91401365|Martin Kennedy|Tue Oct 6 06:42:26 2026 -0400|realtek-poe: increase version to v1.3.2
+bd51ffa1e|Rui Salvaterra|Mon Sep 21 19:34:50 2026 +0100|tor: update to 0.4.9.13 stable
 </details>

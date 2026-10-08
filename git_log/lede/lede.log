@@ -2,5 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f9afd0ed6|coolsnowwolf|Wed Oct 7 03:52:35 2026 +0800|kernel: fix nft flow offload with unknown forward paths
+4b159f4ca|coolsnowwolf|Thu Oct 8 12:15:50 2026 +0800|kernel: fix resolve_btfids host libelf detection on 5.10
+83d271087|coolsnowwolf|Wed Oct 7 20:25:33 2026 +0800|default-settings: generate revision in Beijing time
+0bf8f083b|coolsnowwolf|Wed Oct 7 15:55:27 2026 +0800|qualcommax: refresh patches for Linux 6.12.112
+11d67efe2|coolsnowwolf|Wed Oct 7 15:44:40 2026 +0800|mediatek: add support for CLX S20L
 </details>

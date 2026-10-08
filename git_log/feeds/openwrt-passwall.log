@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+4db1995c|A-BO|Thu Oct 8 02:07:56 2026 +0800|luci: optimize and fix
+1a15c386|A-BO|Wed Oct 7 13:10:46 2026 +0800|luci: remove `curl_direct` related logic
 80696124|A-BO|Wed Oct 7 13:10:46 2026 +0800|luci: remove `curl_direct` related logic
-2708533e|A-BO|Wed Oct 7 12:56:45 2026 +0800|luci: modify the unit for the hy2 quic receive window setting
 </details>

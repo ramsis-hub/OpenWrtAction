@@ -1,0 +1,7 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+c72b5466|coolsnowwolf|Wed Oct 7 20:14:52 2026 +0800|qt6base: allow builds through symlinked paths
+03ead879|coolsnowwolf|Wed Oct 7 15:09:56 2026 +0800|adblock: sync 4.5.8 and adblock-fast 1.2.4 with OpenWrt
+</details>

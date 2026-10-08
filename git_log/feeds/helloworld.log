@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c39f1e3|coolsnowwolf|Tue Oct 6 15:09:32 2026 +0800|xray-core, luci-app-ssr-plus: add AnyTLS support
-d012ba9|coolsnowwolf|Tue Oct 6 14:33:35 2026 +0800|xray-core: restore explicit allowInsecure support
+16617be|coolsnowwolf|Wed Oct 7 18:08:44 2026 +0800|luci-app-ssr-plus: fix legacy SS subscription parsing with Xray
+baf2040|coolsnowwolf|Wed Oct 7 17:42:40 2026 +0800|xray-core: restore legacy VMess alterId outbound support
+afb3aaf|coolsnowwolf|Wed Oct 7 15:26:12 2026 +0800|luci-app-ssr-plus: add optional IPv6 traffic proxy support
+b791299|coolsnowwolf|Wed Oct 7 14:52:09 2026 +0800|luci-app-ssr-plus: fix DNS forwarding in nftables GFW mode
 </details>
